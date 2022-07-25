@@ -8,7 +8,10 @@ as the value.
 """
 
 import json
-import os
+from pprint import pprint
+
+import pandas
+import pandas as pd
 
 # parse initial file so that future data could be appended
 f = open('multiple.json', encoding='utf-8')
@@ -43,13 +46,116 @@ for claim in data:
     else:
         fact_check_list = claim_dict[website_tuple]
         fact_check_list.append(website_ratings)
-    # need to add list of website lists to the dictionary with key as the tuple of websites. Need to make sure it is added and doesn't override it. Maybe I could get the existing website list then add this new list to it from within the dictionary.
-    # if dict with tuple key exists
-        # add website lists to existing list
-    #else set value of dict with this tuple to
 
 print(claim_counter)
 # number of website combinations
 print(claim_dict.__len__())
 # list of website combinations
 print(claim_dict.keys())
+# pretty print dictionary
+pprint(claim_dict)
+
+consistency_dict = {}
+
+for key in claim_dict.keys():
+    for claim in claim_dict[key]:
+        # in the case of only two websites fact checking a claim, check if they're consistant. Store as 1 or 0
+        if len(claim) == 2:
+            # if they're consistent set value to 1 for this item in the list of the tuple
+            if claim[0][1] == claim[1][1]:
+                print("The two claims are consistent", end=" - ")
+                print(claim)
+                if key not in consistency_dict:
+                    consistency_dict[key] = [1]
+                else:
+                    consistency_dict[key].append(1)
+            # if inconsistent set value to 0
+            else:
+                print("The two claims are inconsistent", end=" - ")
+                print(claim)
+                if key not in consistency_dict:
+                    consistency_dict[key] = [0]
+                else:
+                    consistency_dict[key].append(0)
+        elif len(claim) == 3:
+            if claim[0][1] == claim[1][1] == claim[2][1]:
+                print("The three claims are consistent", end=" - ")
+                print(claim)
+                if key not in consistency_dict:
+                    consistency_dict[key] = [111]
+                else:
+                    consistency_dict[key].append(111)
+            elif claim[0][1] == claim[1][1] != claim[2][1]:
+                print("The first two claims are consistent", end=" - ")
+                print(claim)
+                new_key = (claim[0][1], claim[1][1])
+                if key not in consistency_dict:
+                    consistency_dict[key] = [110]
+                else:
+                    consistency_dict[key].append(110)
+
+            elif claim[0][1] != claim[1][1] == claim[2][1]:
+                print("The last two claims are consistent", end=" - ")
+                print(claim)
+                if key not in consistency_dict:
+                    consistency_dict[key] = [11]
+                else:
+                    consistency_dict[key].append(11)
+            elif claim[0][1] == claim[2][1] != claim[1][1]:
+                print("The first and last claims are consistent", end=" - ")
+                print(claim)
+                if key not in consistency_dict:
+                    consistency_dict[key] = [101]
+                else:
+                    consistency_dict[key].append(101)
+            else:
+                print("All three claims are inconsistent", end=" - ")
+                print(claim)
+                if key not in consistency_dict:
+                    consistency_dict[key] = [0]
+                else:
+                    consistency_dict[key].append(0)
+        # if length of items in the claim is 1, then it is a case where the same website fact checked info more than once, which in the current state of the script we're not taking into account
+        elif len(claim) == 1:
+            print("Invalid" + str(len(claim)))
+        else:
+            print("Unknown Error")
+
+counter = 0
+for key in consistency_dict.keys():
+    print(key, consistency_dict[key])
+    counter = counter + len(consistency_dict[key])
+
+print(counter)
+
+percentages_dict = {}
+for key in consistency_dict.keys():
+    counter = 0
+    ab_counter = 0
+    ac_counter = 0
+    bc_counter = 0
+    for claim in consistency_dict[key]:
+        if claim == 1 or claim == 111:
+            counter = counter + 1
+            ab_counter = ab_counter + 1
+            ac_counter = ac_counter + 1
+            bc_counter = bc_counter + 1
+        elif claim == 110:
+            ab_counter = ab_counter + 1
+        elif claim == 101:
+            ac_counter = ac_counter + 1
+        elif claim == 11:
+            bc_counter = bc_counter + 1
+    percentage = counter / len(consistency_dict[key]) * 100
+    ab_percentage = ab_counter / len(consistency_dict[key]) * 100
+    ac_percentage = ac_counter / len(consistency_dict[key]) * 100
+    bc_percentage = bc_counter / len(consistency_dict[key]) * 100
+    if len(key) == 2:
+        percentages_dict[key] = percentage
+    elif len(key) == 3:
+        percentages_dict[key] = [percentage, key[0] + " " + key[1] + ": " + str(ab_percentage),
+                                 key[0] + " " + key[2] + ": " + str(ac_percentage),
+                                 key[1] + " " + key[2] + ": " + str(bc_percentage)]
+
+for key in percentages_dict.keys():
+    print(key, percentages_dict[key])
