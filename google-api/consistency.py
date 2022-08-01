@@ -13,6 +13,7 @@ from pprint import pprint
 import pandas
 import pandas as pd
 
+# parsing json - need to add this to own class
 # parse initial file so that future data could be appended
 f = open('multiple.json', encoding='utf-8')
 data = json.load(f)
@@ -55,6 +56,8 @@ print(claim_dict.keys())
 # pretty print dictionary
 pprint(claim_dict)
 
+# Analysing consistency
+# Need to add into method/class
 consistency_dict = {}
 
 for key in claim_dict.keys():
