@@ -54,5 +54,5 @@ for year, rating_frequencies in frequency_dict.items():
     plt.title('Frequency of ratings')
     plt.xlabel('Frequency')
     plt.ylabel('Rating')
-    plt.setp(rotation=30, horizontalalignment='right')
+    plt.xticks(rotation=90)
     plt.show()
