@@ -36,12 +36,23 @@ print(review_counter)
 
 pprint(year_dict)
 
-for year, rating in year_dict.items():
-    # Creating histogram
-    plt.style.use('ggplot')
-    fig, ax = plt.subplots()
-    ax.hist(rating)
+frequency_dict = {}
 
-    # Show plot
+for year, ratings in year_dict.items():
+    frequency = {}
+    for rating in ratings:
+        if rating in frequency:
+            frequency[rating] += 1
+        else:
+            frequency[rating] = 1
+    frequency_dict[year] = frequency
+
+
+for year, rating_frequencies in frequency_dict.items():
+
+    plt.bar(rating_frequencies.keys(), rating_frequencies.values())
+    plt.title('Frequency of ratings')
+    plt.xlabel('Frequency')
+    plt.ylabel('Rating')
+    plt.setp(rotation=30, horizontalalignment='right')
     plt.show()
-
