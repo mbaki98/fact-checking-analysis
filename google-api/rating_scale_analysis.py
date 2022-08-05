@@ -3,6 +3,7 @@ import os
 from pprint import pprint
 from matplotlib import pyplot as plt
 import numpy as np
+import csv
 
 f = open('data/politifact.json', encoding='utf-8')
 data = json.load(f)
@@ -48,11 +49,26 @@ for year, ratings in year_dict.items():
     frequency_dict[year] = frequency
 
 
-for year, rating_frequencies in frequency_dict.items():
+"""for year, rating_frequencies in frequency_dict.items():
 
     plt.bar(rating_frequencies.keys(), rating_frequencies.values())
     plt.title('Frequency of ratings')
     plt.xlabel('Frequency')
     plt.ylabel('Rating')
     plt.xticks(rotation=90)
-    plt.show()
+    plt.show()"""
+
+
+csv_columns = ['Year', 'Rating', 'Frequency']
+
+
+csv_file = "politifact_frequency.csv"
+try:
+    with open(csv_file, 'w', newline='') as csvfile:
+        writer = csv.DictWriter(csvfile, fieldnames=csv_columns)
+        writer.writeheader()
+        for year, ratings in frequency_dict.items():
+            for rating, frequency in ratings.items():
+                writer.writerow({'Year': year, 'Rating': rating, 'Frequency': frequency})
+except IOError:
+    print("I/O error")
