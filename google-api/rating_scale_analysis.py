@@ -5,7 +5,9 @@ from matplotlib import pyplot as plt
 import numpy as np
 import csv
 
-f = open('data/politifact.json', encoding='utf-8')
+file = 'abc'
+
+f = open(f'data/{file}.json', encoding='utf-8')
 data = json.load(f)
 
 year_dict = {}
@@ -31,7 +33,6 @@ for claim in data['claims']:
                 year_list = year_dict[year]
                 year_list.append(rating)
 
-
 print(counter)
 print(review_counter)
 
@@ -48,6 +49,21 @@ for year, ratings in year_dict.items():
             frequency[rating] = 1
     frequency_dict[year] = frequency
 
+# For any rating that has less than 5 frequency, remove it and add to 'other' rating
+for year, frequencies in frequency_dict.items():
+    print(year)
+    print(frequencies)
+    ratings_to_delete = []
+    other = 0
+    for rating, frequency in frequencies.items():
+        if frequency < 5:
+            other += frequency
+            ratings_to_delete.append(rating)
+    frequencies['other'] = other
+    for rating in ratings_to_delete:
+        del frequencies[rating]
+
+pprint(frequency_dict)
 
 """for year, rating_frequencies in frequency_dict.items():
 
@@ -59,16 +75,19 @@ for year, ratings in year_dict.items():
     plt.show()"""
 
 
-csv_columns = ['Year', 'Rating', 'Frequency']
+def convert_to_csv(frequency_dict):
+    csv_columns = ['Year', 'Rating', 'Frequency']
+
+    csv_file = f"frequency-csv/{file}_frequency.csv"
+    try:
+        with open(csv_file, 'w', newline='') as csvfile:
+            writer = csv.DictWriter(csvfile, fieldnames=csv_columns)
+            writer.writeheader()
+            for year, ratings in frequency_dict.items():
+                for rating, frequency in ratings.items():
+                    writer.writerow({'Year': year, 'Rating': rating, 'Frequency': frequency})
+    except IOError:
+        print("I/O error")
 
 
-csv_file = "politifact_frequency.csv"
-try:
-    with open(csv_file, 'w', newline='') as csvfile:
-        writer = csv.DictWriter(csvfile, fieldnames=csv_columns)
-        writer.writeheader()
-        for year, ratings in frequency_dict.items():
-            for rating, frequency in ratings.items():
-                writer.writerow({'Year': year, 'Rating': rating, 'Frequency': frequency})
-except IOError:
-    print("I/O error")
+convert_to_csv(frequency_dict)
