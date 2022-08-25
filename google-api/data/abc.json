@@ -1,0 +1,2561 @@
+{
+  "claims": [
+    {
+      "text": "NSW has the highest rate of COVID-19 testing in the world",
+      "claimant": "Gladys Berejiklian",
+      "claimDate": "2020-05-14T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2020-06-10/fact-check-victoria-nsw-covid-19-testing-rates/12312034",
+          "title": "Does Victoria or NSW have the highest COVID-19 testing rate in the world? Here are the facts",
+          "reviewDate": "2020-06-10T00:00:00Z",
+          "textualRating": "Overblown",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Labor's dividend imputation policy would overwhelmingly affect the low paid",
+      "claimant": "Stuart Robert",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2019-01-30/fact-check-labors-dividend-imputation-policy/10626204",
+          "title": "Will Labor's dividend imputation policy overwhelmingly affect the low paid?",
+          "reviewDate": "2019-01-30T00:00:00Z",
+          "textualRating": "Misleading",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"Labor has more than double the number of women the Liberals have in the Parliament and about twice the number of women on our front bench ...\"",
+      "claimant": "Tanya Plibersek",
+      "claimDate": "2019-01-02T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2019-02-07/fact-check-does-labor-have-twice-number-of-frontbench-women-/10696844?nw=0",
+          "title": "Does Labor have twice the number of women the Liberals have in Parliament and on the frontbench? - Fact Check",
+          "reviewDate": "2019-02-07T00:00:00Z",
+          "textualRating": "Checks out",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"About half a per cent of the population don't have a permanent roof over their head\"",
+      "claimant": "Luke Howarth",
+      "claimDate": "2019-07-09T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2019-07-15/fact-check-homelessness-luke-howarth/11300248?nw=0",
+          "title": "Why Luke Howarth's claims on homelessness in Australia get mixed verdicts",
+          "reviewDate": "2019-07-15T00:00:00Z",
+          "textualRating": "Correct",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Five MCG's worth of native forest are being logged in Victoria every day.",
+      "claimant": "The Greens",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2019-02-20/fact-check-five-mcgs-of-native-forests-logged-in-victoria/10780846?nw=0",
+          "title": "Fact Check: Are five MCGs of native forest being logged in Victoria every day?",
+          "reviewDate": "2019-02-20T00:00:00Z",
+          "textualRating": "Close to the mark",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"... real wages [are] declining over the next four years after flatlining over the last eight years.\"",
+      "claimant": "Anthony Albanese",
+      "claimDate": "2021-05-13T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2021-06-29/anthony-albanese-fact-check-real-wages-scott-morrison-australia/100242448",
+          "title": "Anthony Albanese says Australia's real wages have 'flatlined' for eight years. Is he correct?",
+          "reviewDate": "2021-06-29T00:00:00Z",
+          "textualRating": "Close to the mark",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Australia's population growth mostly the result of migration, and that is underpinning the federal budget",
+      "claimant": "Pauline Hanson",
+      "claimDate": "2019-06-20T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2019-07-31/fact-check-pauline-hanson-population-growth-migration/11360502",
+          "title": "Is Australia's population growth mostly migration, and is that underpinning the budget?",
+          "reviewDate": "2019-07-31T00:00:00Z",
+          "textualRating": "Close to the mark",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"And that includes thermal coal exports. We know there are 54,000 people employed in that industry...\"",
+      "claimant": "Bridget McKenzie",
+      "claimDate": "2019-05-24T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2019-07-11/fact-check-are-there-54000-jobs-in-thermal-coal-mining/11198150",
+          "title": "Are there really 54,000 people employed in thermal coal mining?",
+          "reviewDate": "2019-07-11T00:00:00Z",
+          "textualRating": "Doesn't check out",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"[The] government's budget papers show that Fire and Rescue NSW and the Rural Fire Service combined are facing a $40 million budget cut.\"",
+      "claimant": "Jodi McKay",
+      "claimDate": "2019-11-15T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2019-12-05/fact-check-are-nsw-firefighters-facing--budget-cuts/11747396",
+          "title": "Jodi McKay says the NSW firefighting budget is facing a $40 million cut. Is that correct?",
+          "reviewDate": "2019-12-05T00:00:00Z",
+          "textualRating": "Doesn't stack up",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Australia has \"seen employment go above its pre-pandemic levels\".",
+      "claimant": "Josh Frydenberg",
+      "claimDate": "2021-05-11T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2021-06-09/josh-frydenberg-fact-check-jobs-now-compared-before-pandemic/100191518",
+          "title": "Josh Frydenberg says more Australians are in jobs now than before the pandemic. Is he correct?",
+          "reviewDate": "2021-06-09T00:00:00Z",
+          "textualRating": "Fair call",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"That has seen 88.7 per cent of people year-to-date receive their GP services for free. That is 6.7 per cent higher than when we came to government.\"",
+      "claimant": "Greg Hunt",
+      "claimDate": "2021-06-06T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2021-07-22/fact-check-greg-hunt-on-free-gp-services-medicare/100285282",
+          "title": "Greg Hunt says nearly 90 per cent of people receive their GP services for free. Is he correct?",
+          "reviewDate": "2021-07-22T00:00:00Z",
+          "textualRating": "Over-egged",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"There's no subsidisation of Australia's fossil fuel industries\"",
+      "claimant": "Matt Canavan",
+      "claimDate": "2020-06-01T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2020-07-29/fact-check-matt-canavan-fossil-fuel-industry-subsidies/12496310",
+          "title": "Matt Canavan says there's no government subsidisation of Australia's fossil fuel industries. Is he correct?",
+          "reviewDate": "2020-07-29T00:00:00Z",
+          "textualRating": "Drawing a long bow",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "More than 90 per cent of Newstart recipients are receiving other benefits, including the Parenting Payment and Rent Assistance",
+      "claimant": "Josh Frydenberg",
+      "claimDate": "2019-07-18T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2019-08-14/fact-check-newstart-90-percent-of-payments-another-payment/11405036",
+          "title": "Are more than 90 per cent of Newstart recipients receiving other benefits?",
+          "reviewDate": "2019-08-14T00:00:00Z",
+          "textualRating": "Not the full story",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"If you look at the numbers in the budget papers, the ABC's funding is rising. It's all laid out in the budget papers.\"",
+      "claimant": "Paul Fletcher",
+      "claimDate": "2020-06-25T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2020-07-16/fact-check-are-there-no-cuts-to-abc-funding/12417226",
+          "title": "Paul Fletcher says ABC funding is rising each year. Is he correct?",
+          "reviewDate": "2020-07-16T00:00:00Z",
+          "textualRating": "Misleading",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"It costs 34 per cent more to see your doctor today than it did when the Liberals came to power.\"",
+      "claimant": "Anthony Albanese",
+      "claimDate": "2021-06-08T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2021-07-29/fact-check-anthony-albanese-cost-of-seeing-your-doctor/100231472",
+          "title": "We fact checked Anthony Albanese on the increased cost of seeing your doctor. Here's what we found",
+          "reviewDate": "2021-07-29T00:00:00Z",
+          "textualRating": "Misleading",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"The science tells us that Tuvalu, which I often hear about, is actually growing not sinking,\"",
+      "claimant": "Craig Kelly",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2018-12-19/fact-check-is-the-island-nation-tuvalu-growing/10627318",
+          "title": "Fact check: Is the Pacific island nation of Tuvalu growing, and not sinking?",
+          "reviewDate": "2018-12-19T00:00:00Z",
+          "textualRating": "Checks out",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Emissions are coming down in Australia",
+      "claimant": "Amanda Vanstone",
+      "claimDate": "2018-12-03T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2018-12-17/fact-check-are-emissions-coming-down-in-australia/10620194",
+          "title": "Fact check: Are carbon emissions coming down in Australia?",
+          "reviewDate": "2018-12-17T00:00:00Z",
+          "textualRating": "Misleading",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Social media companies have the capability to write algorithms that can remove hate content within seconds",
+      "claimant": "Scott Morrison",
+      "claimDate": "2019-03-20T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2019-04-18/fact-check-can-algorithms-screen-out-hate-content-social-media/10979770",
+          "title": "Scott Morrison said hate content on social media could be automatically screened out by algorithms. Is he correct?",
+          "reviewDate": "2019-04-18T00:00:00Z",
+          "textualRating": "Wishful thinking",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Australia's hotel quarantine system has a 99.9 per cent success rate.",
+      "claimant": "Scott Morrison",
+      "claimDate": "2021-06-05T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2021-07-15/fact-check-is-hotel-quarantine-99-9-per-cent-successful/100289242",
+          "title": "Scott Morrison says hotel quarantine has been 99.9 per cent successful. Is that correct?",
+          "reviewDate": "2021-07-15T00:00:00Z",
+          "textualRating": "Spin",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Taxpayer money was not used by Australia Post to purchase Cartier watches as bonuses for employees",
+      "claimant": "Christine Holgate",
+      "claimDate": "2020-10-22T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2020-12-18/did-australia-post-use-taxpayers-money-to-purchase-cartier-watch/12967188",
+          "title": "Was former Australia Post CEO Christine Holgate correct when she said taxpayers' money wasn't used to purchase Cartier watches? - Fact Check",
+          "reviewDate": "2020-12-18T00:00:00Z",
+          "textualRating": "Not cut and dried",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"We are spending record amounts on hospitals, we are spending record amounts on health.\"",
+      "claimant": "Malcolm Turnbull",
+      "claimDate": "2018-06-22T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2018-07-25/fact-check-is-the-government-spending-record-amounts-on-health/9989808?nw=0",
+          "title": "Fact check: Is the Government spending record amounts on health and hospitals?",
+          "reviewDate": "2018-07-25T00:00:00Z",
+          "textualRating": "Fair call",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "The medevac legislation doesn't require asylum seekers on Manus Island and Nauru to be sick in order to be transferred to Australia.",
+      "claimant": "David Coleman",
+      "claimDate": "2019-02-18T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2019-03-01/fact-check-medevac-refugees-offshore-coleman/10839222",
+          "title": "The Government says the medevac bill will allow healthy refugees to come here. Is that correct?",
+          "reviewDate": "2019-03-01T00:00:00Z",
+          "textualRating": "Spin",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"[The] real minimum wage has gone up under us every year. Under the Labor Party, it actually went backwards.\"",
+      "claimant": "Josh Frydenberg",
+      "claimDate": "2019-04-08T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2019-05-02/fact-check-has-the-minimum-wage-increased-frydenberg/11053996",
+          "title": "Josh Frydenberg told Q&A the minimum wage has been growing at a faster rate than inflation and the average wage. Is he correct?",
+          "reviewDate": "2019-05-02T00:00:00Z",
+          "textualRating": "Fair call",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "https://www.abc.net.au/news/2020-06-10/fact-check-victoria-nsw-covid-19-testing-rates/12312034",
+      "claimant": "Jenny Mikakos",
+      "claimDate": "2020-05-21T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2020-06-10/fact-check-victoria-nsw-covid-19-testing-rates/12312034",
+          "title": "Does Victoria or NSW have the highest COVID-19 testing rate in the world? Here are the facts",
+          "reviewDate": "2020-06-10T00:00:00Z",
+          "textualRating": "Fair call",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"There are 400 private jets ferrying delegations to the COP26 conference. @POTUS [US President Joe Biden] brought five. It is estimated they will emit in 24 hours as much CO2 as Scotland emits in a year!\"",
+      "claimant": "Alexander Downer",
+      "claimDate": "2021-11-02T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2021-11-10/fact-check-private-jets-alexander-downer/100606692",
+          "title": "Alexander Downer says the private jets ferrying delegates to COP26 would emit more carbon than Scotland does in a year. Is that correct?",
+          "reviewDate": "2021-11-10T00:00:00Z",
+          "textualRating": "Nonsense",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"Aged care is a federal responsibility\"",
+      "claimant": "Bill Shorten",
+      "claimDate": "2020-07-29T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2020-08-15/fact-check-is-aged-care-a-federal-government-responsibility/12553808",
+          "title": "Bill Shorten says aged care is a Federal Government responsibility. Is he correct?",
+          "reviewDate": "2020-08-15T00:00:00Z",
+          "textualRating": "Fair call",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Home ownership rates for young people aged 25-34 have spiralled downwards in recent years from 60 per cent to 48 per cent",
+      "claimant": "Chris Bowen",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "http://www.abc.net.au/news/2019-02-22/fact-check-have-homeownership-rates-for-young-people-dropped/10821084",
+          "title": "Fact Check: Have home ownership rates for young people dropped by 20 per cent?",
+          "reviewDate": "2019-02-22T00:00:00Z",
+          "textualRating": "In the ballpark",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"We know from past experience that when someone is unemployed for over a year, their chances of securing paid work typically fall by 40 per cent.\"",
+      "claimant": "Cassandra Goldie",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2020-05-08/fact-check-being-unemployed-for-a-year-reduces-chances-of-work/12211296",
+          "title": "Fact check: Does being unemployed for a year nearly halve your chances of ever working again?",
+          "reviewDate": "2020-05-08T00:00:00Z",
+          "textualRating": "Fair call",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"As a matter of fact, two-thirds of Australia's food relies upon bee pollination.\"",
+      "claimant": "Robert Costa",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2018-10-15/fact-check-honey-bee-pollination/10365750",
+          "title": "Fact check: Is two-thirds of Australia's food production reliant on bee pollination?",
+          "reviewDate": "2018-10-15T00:00:00Z",
+          "textualRating": "Overstated",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"We have dropped our social housing levels from a high in 1991 of 7.1 per cent to a low now of 4.2 per cent\"",
+      "claimant": "Adrian Pisarski",
+      "claimDate": "2019-07-10T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2019-08-12/fact-check-social-housing-lowest-level/11403298",
+          "title": "Fact check: Have social housing levels fallen to historic lows?",
+          "reviewDate": "2019-08-12T00:00:00Z",
+          "textualRating": "In the ballpark",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Are there more full-time baristas than coal industry workers in Australia?",
+      "claimant": "Australian Young Greens",
+      "claimDate": "2020-01-20T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2020-02-13/fact-check-barista-vs-coal-mining-jobs/11958124",
+          "title": "Are there more full-time baristas than coal industry workers in Australia?",
+          "reviewDate": "2020-02-13T00:00:00Z",
+          "textualRating": "Incorrect",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Australia has \"reduced our emissions by more than 20 per cent. There are only four countries in the G20 that have actually done better than Australia on that front\".",
+      "claimant": "Scott Morrison",
+      "claimDate": "2021-11-11T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2021-12-08/fact-check-scott-morrison-emissions-in-the-g20/100676322",
+          "title": "Scott Morrison says there are only four countries in the G20 with a better emissions record than Australia. Is that correct?",
+          "reviewDate": "2021-12-08T00:00:00Z",
+          "textualRating": "Misleading",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\" ... renewables + storage are cheaper than new coal let alone the loopy current fad of nuclear power ...\"",
+      "claimant": "Malcolm Turnbull",
+      "claimDate": "2019-09-05T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2019-09-12/is-renewable-power-cheaper-than-coal-nuclear-malcolm-turnbull/11495558",
+          "title": "Fact check: Are renewables plus storage cheaper than coal and nuclear for new power generation?",
+          "reviewDate": "2019-09-12T00:00:00Z",
+          "textualRating": "Fair call",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "COVID-19 case numbers in NSW were higher than the threshold to lift the curfew in Victoria when Mr Morrison made his claim",
+      "claimant": "Scott Morrison",
+      "claimDate": "2020-09-07T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2020-09-21/fact-check-would-sydney-be-under-curfew-melbourne-lockdown-vic/12664546",
+          "title": "Were NSW's coronavirus numbers higher than Victoria's thresholds for lifting curfew, as Scott Morrison said? - Fact Check",
+          "reviewDate": "2020-09-21T00:00:00Z",
+          "textualRating": "Yes, but more to it",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"Under Scott Morrison real wages have fallen 2.1 per cent in 12 months, the fastest drop in wages in 20 years.\"",
+      "claimant": "The Labor Party",
+      "claimDate": "2021-08-22T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2021-09-07/fact-check-did-real-wages-fall-2-1-per-cent/100436186",
+          "title": "Labor says wages fell 2.1 per cent over the year to June 2021, the 'fastest drop in 20 years'. Is that correct?",
+          "reviewDate": "2021-09-07T00:00:00Z",
+          "textualRating": "Not the full story",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"What we don’t have in Australia is a law that basically says that you cannot discriminate against someone because of their religious beliefs.\"",
+      "claimant": "Trent Zimmerman",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2019-09-10/fact-check-religious-freedom-laws/11455850",
+          "title": "Fact check: Do Australians lack protection against religious discrimination?",
+          "reviewDate": "2019-09-10T00:00:00Z",
+          "textualRating": "More to the story",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"The gender pay gap has fallen from 17.2 per cent to 14.5 per cent under the policies of our government.\"",
+      "claimant": "Scott Morrison",
+      "claimDate": "2018-09-18T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2018-10-02/fact-check-gender-pay-gap/10302358?nw=0",
+          "title": "Fact check: Has the gender pay gap shrunk under the Coalition Government's policies?",
+          "reviewDate": "2018-10-02T00:00:00Z",
+          "textualRating": "Overreach",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"[The increase in homelessness] is actually not ahead of population growth. The population from the last census to the previous one increased by almost 20 per cent.\"",
+      "claimant": "Luke Howarth",
+      "claimDate": "2019-07-09T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2019-07-15/fact-check-homelessness-luke-howarth/11300248?nw=0",
+          "title": "Why Luke Howarth's claims on homelessness in Australia get mixed verdicts",
+          "reviewDate": "2019-07-15T00:00:00Z",
+          "textualRating": "Incorrect",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"Remarkably, we [the Victorian Government] are currently investing more in Victoria than the Commonwealth plans to spend across the entire nation over the next decade.\"",
+      "claimant": "Tim Pallas",
+      "claimDate": "2019-05-27T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2019-06-20/is-victoria-spending-more-than-the-commonwealth-infrastructure/11209882",
+          "title": "Is Victoria spending more on infrastructure than the entire Commonwealth?",
+          "reviewDate": "2019-06-20T00:00:00Z",
+          "textualRating": "Apples and oranges",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"One in 30 teenagers who catch COVID is ending up in hospital.\"",
+      "claimant": "Mark Butler",
+      "claimDate": "2021-07-29T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2021-09-21/fact-check-teenagers-with-covid-19-ending-up-in-hospital/100467134",
+          "title": "Fact check: Are teenagers with COVID-19 ending up in hospital at a rate of one in thirty?",
+          "reviewDate": "2021-09-21T00:00:00Z",
+          "textualRating": "Not the full story",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"Nearly 1 in 4 people in poverty works full-time.\"",
+      "claimant": "Adam Bandt",
+      "claimDate": "2020-08-14T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2019-05-30/fact-check-poverty-working-poor-adam-bandt/11147608",
+          "title": "Adam Bandt says one in four people in poverty work full time. Is he correct?",
+          "reviewDate": "2019-05-30T00:00:00Z",
+          "textualRating": "Overblown",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"[The unemployment benefit] is commensurate with where it sat during the period of the Howard government.\"",
+      "claimant": "Scott Morrison",
+      "claimDate": "2022-02-23T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2021-05-27/fact-check-scott-morrison-unemployment-benefit-howard-era/100130404",
+          "title": "Scott Morrison says the unemployment benefit is at the same level that prevailed during the Howard era. Is he correct?",
+          "reviewDate": "2021-05-27T00:00:00Z",
+          "textualRating": "Exaggerated",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"We've increased childcare subsidies by 77 per cent since we came to office.\"",
+      "claimant": "Alan Tudge",
+      "claimDate": "2021-06-23T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2021-08-17/fact-check-childcare-subsidies-alan-tudge/100370226",
+          "title": "Alan Tudge says the Coalition has increased childcare subsidies by 77 per cent since coming to office. Is he correct?",
+          "reviewDate": "2021-08-17T00:00:00Z",
+          "textualRating": "Exaggerated",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"[Sydney's lockdown measures] are the harshest measures any place in Australia has ever faced.\"",
+      "claimant": "Gladys Berejiklian",
+      "claimDate": "2021-07-29T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2021-08-25/gladys-berejiklian-sydney-lockdown-harshest-fact-check/100390380",
+          "title": "Gladys Berejiklian says Sydney's lockdown conditions are harsher than any of those previously imposed in other states. Is she correct?",
+          "reviewDate": "2021-08-25T00:00:00Z",
+          "textualRating": "Wrong",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"$325 for someone working less than 20hrs is ... below the poverty line.\"",
+      "claimant": "Adam Bandt",
+      "claimDate": "2021-06-03T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2021-06-17/fact-check-scott-morrison-adam-bandt-covid-disaster-payments/100220172",
+          "title": "Why Adam Bandt's claims on Scott Morrison's COVID-19 Disaster Payment get mixed Fact Check verdicts",
+          "reviewDate": "2021-06-17T00:00:00Z",
+          "textualRating": "Correct",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Asylum seekers on Nauru have not proven themselves to be genuine refugees",
+      "claimant": "Pauline Hanson",
+      "claimDate": "2018-10-29T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2018-11-02/fact-check-pauline-hanson-refugees-nauru/10456650",
+          "title": "Fact check: Have the asylum seekers on Nauru not proven themselves to be genuine refugees?",
+          "reviewDate": "2018-11-02T00:00:00Z",
+          "textualRating": "Wrong",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"Deb Frecklington sacked 4,400 health workers last time imagine our health response if we hadn't reversed those cuts.\"",
+      "claimant": "Steven Miles",
+      "claimDate": "2020-10-10T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2020-10-29/fact-check-queensland-health-workers-cuts/12819864",
+          "title": "Fact check: Did the LNP cut health workers when last in Government, and did Labor restore the cuts?",
+          "reviewDate": "2020-10-29T00:00:00Z",
+          "textualRating": "Overstated",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "The Coalition, through its \"hard work\", turned around an emissions deficit inherited from Labor.",
+      "claimant": "Angus Taylor",
+      "claimDate": "2019-03-03T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2019-04-11/fact-check-coalition-emissions-reduction-angus-taylor/10936652?nw=0",
+          "title": "Fact Check: Have greenhouse gas emissions turned around under the Coalition?",
+          "reviewDate": "2019-04-11T00:00:00Z",
+          "textualRating": "Misleading",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Australia \"[has] the most secure food security in the world\".",
+      "claimant": "David Littleproud",
+      "claimDate": "2020-05-11T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2020-05-18/coronavirus-australia-food-security-supermarket-shelves/12244820",
+          "title": "David Littleproud claims Australia has the most secure food security in the world. Is he correct?",
+          "reviewDate": "2020-05-18T00:00:00Z",
+          "textualRating": "In the ballpark",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"You name it, everything is going up except your wages\"",
+      "claimant": "Bill Shorten",
+      "claimDate": "2019-04-29T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2019-05-16/federal-election-fact-check-wages-first-debate-bill-shorten/11072026?nw=0",
+          "title": "Labor keeps saying that everything is going up except your wages. Is that correct?",
+          "reviewDate": "2019-06-14T00:00:00Z",
+          "textualRating": "Doesn't stack up",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"Gas is as dirty as coal.\"",
+      "claimant": "Adam Bandt",
+      "claimDate": "2020-09-23T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2020-11-03/fact-check-is-gas-just-as-dirty-as-coal-adam-bandt/12838066",
+          "title": "We fact checked Adam Bandt on whether gas is just as dirty as coal",
+          "reviewDate": "2020-11-03T00:00:00Z",
+          "textualRating": "Oversimplified",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"$325 for someone working less than 20hrs is less than minimum wage.\"",
+      "claimant": "Adam Bandt",
+      "claimDate": "2021-06-03T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2021-06-17/fact-check-scott-morrison-adam-bandt-covid-disaster-payments/100220172",
+          "title": "Why Adam Bandt's claims on Scott Morrison's COVID-19 Disaster Payment get mixed Fact Check verdicts",
+          "reviewDate": "2021-06-17T00:00:00Z",
+          "textualRating": "Incorrect",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Australia has the \"highest rate of temporary work in the OECD and the third-highest rate of insecure work\".",
+      "claimant": "Sally McManus",
+      "claimDate": "2019-03-05T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2019-04-17/fact-check-actu-sally-mcmanus-insecure-work/10983688",
+          "title": "Fact Check: Does Australia have the highest rate of temporary employment in the OECD?",
+          "reviewDate": "2019-04-17T00:00:00Z",
+          "textualRating": "Not clear cut",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"Clive Palmer confirmed today that the actions [of] Premier Mark McGowan to introduce an interstate vaccination passport for people travelling to WA was in breach of section 117 of the Australian constitution,\".",
+      "claimant": "Clive Palmer",
+      "claimDate": "2021-08-14T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2021-08-31/fact-check-clive-palmer-vaccine-passports-breach-constitution/100407330",
+          "title": "Clive Palmer says WA's vaccine border restrictions breach s117 of the constitution. Is that correct?",
+          "reviewDate": "2021-08-31T00:00:00Z",
+          "textualRating": "Doubtful",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "The NBN is free to independently award bonuses under the rules covering government-owned businesses.",
+      "claimant": "Paul Fletcher",
+      "claimDate": "2021-02-18T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2021-03-23/fact-check-nbn-co-bonuses-paul-fletcher/100020864",
+          "title": "Paul Fletcher says NBN Co was free to award $77.5m in bonuses under the rules covering government-owned businesses. Is he correct?",
+          "reviewDate": "2021-03-23T00:00:00Z",
+          "textualRating": "Fair call",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"In NSW, the last decade has seen more than twice the amount of prescribed burning compared to the decade before and in all mapped records of prescribed burning across NSW national parks it's the highest decade.\"",
+      "claimant": "Philip Zylstra",
+      "claimDate": "2020-01-22T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2020-01-22/prescribed-burning-nsw-backburning-hazard-reduction/11878316",
+          "title": "Has NSW seen more than twice the amount of prescribed burning in national parks this decade compared with the last?",
+          "reviewDate": "2020-01-22T00:00:00Z",
+          "textualRating": "Fair call",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "A lot of people have been dispossessed of their lands in Australia because of the Mabo decision and native title",
+      "claimant": "Pauline Hanson",
+      "claimDate": "2019-07-12T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2019-08-29/fact-check-mabo-decision-high-court-dispossession-pauline-hanson/11342504",
+          "title": "Fact check: Have a lot of people been dispossessed of their lands due to native title?",
+          "reviewDate": "2019-08-29T00:00:00Z",
+          "textualRating": "Baseless",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Polar bear numbers have increased",
+      "claimant": "Gina Rinehart",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2021-10-27/fact-check-gina-rinehart-polar-bears/100569118",
+          "title": "Gina Rinehart says polar bear numbers have increased. Is that correct?",
+          "reviewDate": "2021-10-27T00:00:00Z",
+          "textualRating": "Yes, but more to it",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"[The proposed changes to Queensland's abortion laws] would be some of the most radical and extreme legislation of abortions in the world, and it would allow, effectively … unrestricted abortions beyond 22 weeks.\"",
+      "claimant": "Matt Canavan",
+      "claimDate": "2018-09-01T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2018-10-04/fact-check-queensland-abortion-laws-unrestricted-access/10264402?nw=0",
+          "title": "Fact check: Will Queensland's proposed abortion laws allow unrestricted access after 22 weeks?",
+          "reviewDate": "2018-10-04T00:00:00Z",
+          "textualRating": "Baseless",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "The number of apprenticeships has slumped since the Coalition took office",
+      "claimant": "Bill Shorten",
+      "claimDate": "2019-03-27T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2019-04-29/fact-check-apprenticeships-drop-claim-bill-shorten/11049364",
+          "title": "Has the number of apprenticeships slumped since the Coalition took office?",
+          "reviewDate": "2019-04-29T00:00:00Z",
+          "textualRating": "Misleading",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"We have lower electric vehicles sales than any other country in the OECD.\"",
+      "claimant": "Mark Butler",
+      "claimDate": "2019-04-01T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2019-05-03/fact-check-electric-cars-australia-vs-oecd/11072962",
+          "title": "Fact Check: Does Australia have the lowest uptake of electric vehicles in the OECD?",
+          "reviewDate": "2019-05-03T00:00:00Z",
+          "textualRating": "Close to the mark",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"Over the last 10 years, we've actually seen wages increase by around 30 per cent and inflation increase by around 20 per cent. Certainly, wages haven't grown as fast as people might like, but wages have grown steadily over that period of time.\"",
+      "claimant": "Kelly O'Dwyer",
+      "claimDate": "2018-10-23T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2018-11-01/fact-check-have-wages-grown-steadily-over-the-past-decade/10447492",
+          "title": "Fact check: Have wages grown steadily and outstripped inflation over the past decade?",
+          "reviewDate": "2018-11-01T00:00:00Z",
+          "textualRating": "Not the full story",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"On the 2 April 2020, Australia's Minister for Health, Greg Hunt announced hydroxychloroquine would be made available if doctors wish to use it to treat COVID-19 patients who are in Australian hospitals. Since that time, Australia's death rate from COVID-19 has been the lowest in the world and the curve has flattened.\"",
+      "claimant": "Clive Palmer",
+      "claimDate": "2020-04-23T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2020-05-21/has-hydroxychloroquine-helped-australia-flatten-the-death-curve/12256996",
+          "title": "Clive Palmer says hydroxychloroquine contributed to Australia's low COVID-19 death rate. Is he correct?",
+          "reviewDate": "2020-05-21T00:00:00Z",
+          "textualRating": "Baseless",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Australia's carbon emissions have fallen since 2005",
+      "claimant": "Katie Allen",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2019-11-08/fact-check-carbon-emissions-under-the-coalition/11662018",
+          "title": "Liberal MP Katie Allen says emissions have fallen since 2005. Is she correct?",
+          "reviewDate": "2019-11-08T00:00:00Z",
+          "textualRating": "Misleading",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"You've got to remember, fossil fuels are your nation's largest export.\"",
+      "claimant": "Barnaby Joyce",
+      "claimDate": "2021-08-24T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2021-10-21/are-fossil-fuels-australia-s-largest-export-barnaby-joyce/100553352",
+          "title": "Barnaby Joyce says fossil fuels are Australia's largest export. Is he correct?",
+          "reviewDate": "2021-10-21T00:00:00Z",
+          "textualRating": "Doesn't stack up",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"That election [2001], Ted Mack and the member from Orange Peter Andren, got re-elected. First time ever.\"",
+      "claimant": "Bob Katter",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2018-10-26/fact-check-was-bob-katter-independent-candidates/10404508",
+          "title": "Fact check: Had no independent ever been re-elected to the Lower House before 2001?",
+          "reviewDate": "2018-10-26T00:00:00Z",
+          "textualRating": "Wrong",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"House prices are going up $1200 a day.\"",
+      "claimant": "Adam Bandt",
+      "claimDate": "2021-07-30T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2021-08-26/fact-check-are-house-prices-rising-by-1200-a-day/100405218",
+          "title": "Adam Bandt says house prices are rising by $1,200 a day. Is he correct?",
+          "reviewDate": "2021-08-26T00:00:00Z",
+          "textualRating": "Overreach",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"The 480 million estimate was made a couple of weeks ago, and the fires have now burnt over a large area of further country. That means over 800 million mammals, birds and reptiles have been affected by the fires. Australia-wide, it's probably over a billion\"",
+      "claimant": "Chris Dickman",
+      "claimDate": "2020-01-06T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2020-01-31/fact-check-have-bushfires-killed-more-than-a-billion-animals/11912538",
+          "title": "Have more than a billion animals perished nationwide this bushfire season? Here are the facts",
+          "reviewDate": "2020-01-31T00:00:00Z",
+          "textualRating": "Conservative estimate",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Victoria's lockdown is \"the most severe lockdown tried anywhere in the world outside of Wuhan itself\"",
+      "claimant": "Tony Abbott",
+      "claimDate": "2020-09-01T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2020-10-01/fact-check-was-victorias-lockdown-most-severe-oustide-wuhan/12690432",
+          "title": "Tony Abbott says Victoria's coronavirus lockdown is the most severe tried in the world outside Wuhan. Is he correct? - Fact Check",
+          "reviewDate": "2020-10-01T00:00:00Z",
+          "textualRating": "Wrong",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"There's a million Australians doing two jobs and there's a million Australians who are underemployed.\"",
+      "claimant": "Bill Shorten",
+      "claimDate": "2019-04-29T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2019-05-13/federal-election-fact-check-underemployment-shorten/11102694?nw=0",
+          "title": "Fact Check: Are a million Australians doing two jobs and a million underemployed?",
+          "reviewDate": "2019-05-13T00:00:00Z",
+          "textualRating": "Correct",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "The National Party represents the poorest seats",
+      "claimant": "Barnaby Joyce",
+      "claimDate": "2019-07-29T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2019-10-03/fact-check-barnaby-joyce-poorest-electorates/11437932",
+          "title": "Barnaby Joyce says the Nationals represent Australia's poorest electorates. Is he correct?",
+          "reviewDate": "2019-10-03T00:00:00Z",
+          "textualRating": "Overreach",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Australia is responsible for more than 5 per cent of the world's emissions if fossil fuel exports are included",
+      "claimant": "Mike Cannon-Brookes",
+      "claimDate": "2019-09-25T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2019-11-20/fact-check-australia-carbon-emissions-fossil-fuel-exports/11645670",
+          "title": "Do Australia's greenhouse gas emissions account for more than 5 per cent of the global total once exports are included, as Mike Cannon-Brookes says?",
+          "reviewDate": "2019-11-20T00:00:00Z",
+          "textualRating": "Overstated",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"the largest … use of solar energy is actually NSW\".",
+      "claimant": "Gladys Berejiklian",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "http://www.abc.net.au/news/2019-03-22/fact-check-nsw-votes-solar-power-usage/10919640",
+          "title": "Gladys Berejiklian says the largest use of solar energy is in NSW. Is she correct? - Fact Check",
+          "reviewDate": "2019-03-22T00:00:00Z",
+          "textualRating": "Yes, but more to it",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Australia's carbon emissions are the lowest they've ever been",
+      "claimant": "Katie Allen",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2019-11-08/fact-check-carbon-emissions-under-the-coalition/11662018",
+          "title": "Liberal MP Katie Allen says emissions have fallen since 2005. Is she correct?",
+          "reviewDate": "2019-11-08T00:00:00Z",
+          "textualRating": "Incorrect",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"The Victorian Liberals cut a billion dollars from health when they were last in office.\"",
+      "claimant": "Jill Hennessy",
+      "claimDate": "2018-10-12T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2018-11-21/did-the-victorian-coalition-cut-a-billion-dollars-health/10510172?nw=0",
+          "title": "Fact check: Did the Victorian Coalition cut a billion dollars from health when last in office?",
+          "reviewDate": "2018-11-21T00:00:00Z",
+          "textualRating": "Wrong",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"Whenever [Treasurer Josh] Frydenberg bangs on about tax, remember that the two highest taxing governments of the last thirty years have both been Liberal-National governments, including his.\"",
+      "claimant": "Jim Chalmers",
+      "claimDate": "2021-11-22T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2021-12-13/fact-check-is-the-coalition-australia-s-second-highest-taxing-go/100686194",
+          "title": "Fact check: Are the two highest-taxing governments of the past 30 years both Coalition governments?",
+          "reviewDate": "2021-12-13T00:00:00Z",
+          "textualRating": "Fair call",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "He said the number of people \"living in impoverished dwellings or people living on the street\" has fallen from 8,946 to 8,200 over a 15-year period to 2016.",
+      "claimant": "Luke Howarth",
+      "claimDate": "2019-07-09T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2019-07-15/fact-check-homelessness-luke-howarth/11300248?nw=0",
+          "title": "Why Luke Howarth's claims on homelessness in Australia get mixed verdicts",
+          "reviewDate": "2019-07-15T00:00:00Z",
+          "textualRating": "Cherrypicking",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"Economic growth hasn't been this slow for 10 years since the global financial crisis\"",
+      "claimant": "Jim Chalmers",
+      "claimDate": "2019-07-02T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2019-08-01/fact-check-economic-growth-global-financial-crisis/11367650",
+          "title": "Fact check: Is economic growth the lowest it's been since the global financial crisis?",
+          "reviewDate": "2019-08-01T00:00:00Z",
+          "textualRating": "Fair call",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"Businesses have that right to say who can come into their premises. That's what the law says. And that doesn't fall foul of discrimination laws.\"",
+      "claimant": "Scott Morrison",
+      "claimDate": "2021-09-17T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2021-10-06/morrison-businesses-refusing-unvaccinated-customers/100512488",
+          "title": "Scott Morrison says businesses can refuse entry to unvaccinated patrons without falling foul of discrimination laws. Is that correct?",
+          "reviewDate": "2021-10-06T00:00:00Z",
+          "textualRating": "Not the full story",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"We have net debt more than doubling since the Liberals came to office. It's just hit a record high, some $350 billion.\"",
+      "claimant": "Andrew Leigh",
+      "claimDate": "2018-11-27T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2018-12-11/fact-check-have-the-liberals-doubled-net-debt/10595756",
+          "title": "Has the Coalition Government doubled net debt?",
+          "reviewDate": "2018-12-11T00:00:00Z",
+          "textualRating": "Yes, but more to it",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "The CFMMEU is the most unlawful organisation in the history of Australia's industrial laws",
+      "claimant": "Christian Porter",
+      "claimDate": "2019-07-29T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2019-11-29/fact-check-is-the-cfmmeu-most-unlwaful-union-in-history/11746820",
+          "title": "Is the CFMMEU the most unlawful organisation in the history of Australia's industrial laws, as Christian Porter says?",
+          "reviewDate": "2019-11-29T00:00:00Z",
+          "textualRating": "Doesn't check out",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "There was no slavery in Australia when NSW was founded as a colony",
+      "claimant": "Scott Morrison",
+      "claimDate": "2020-06-11T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2020-07-02/fact-check-scott-morrison-slavery-nsw-australia/12407280",
+          "title": "Scott Morrison says the colony of New South Wales was founded on the basis there would be no slavery. Is he correct?",
+          "reviewDate": "2020-07-02T00:00:00Z",
+          "textualRating": "Checks out",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"[An electric vehicle] won't tow your trailer. It's not going to tow your boat. It's not going to get you out to your favourite camping spot with your family.\"",
+      "claimant": "Scott Morrison",
+      "claimDate": "2019-04-06T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2019-05-10/federal-election-fact-check-electric-vehicle-tow-boat/11078464?nw=0",
+          "title": "Scott Morrison says an electric vehicle can't tow a boat. Is he correct?",
+          "reviewDate": "2019-05-10T00:00:00Z",
+          "textualRating": "Needs a tune up",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"The ministry that I announce today maintains the record representation of women in cabinet for an Australian Government, with seven female members of our Cabinet.\"",
+      "claimant": "Scott Morrison",
+      "claimDate": "2019-05-26T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2019-06-05/fact-check-scott-morrisons-cabinet-contain-record-women/11155528",
+          "title": "Scott Morrison says his Cabinet maintains a record representation of women. Is he correct?",
+          "reviewDate": "2019-06-05T00:00:00Z",
+          "textualRating": "Checks out",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"People who do humanities degrees and social science degrees get jobs at about exactly the same rate as science graduates,\"",
+      "claimant": "Margaret Gardner",
+      "claimDate": "2020-10-07T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2020-11-19/fact-check-humanities-science-graduates-uni-fee-changes/12822186",
+          "title": "Do humanities graduates have the same job prospects as science graduates?",
+          "reviewDate": "2020-11-19T00:00:00Z",
+          "textualRating": "Fair call",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"70 per cent of Australia's trade [is] now with countries committed to net zero.\"",
+      "claimant": "Kevin Rudd and Malcolm Turnbull",
+      "claimDate": "2021-04-21T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2021-05-11/fact-check-climate-change-targets-kevin-rudd-turnbull/100106860",
+          "title": "Kevin Rudd and Malcolm Turnbull said 70 per cent of our trade is with nations committed to net-zero emissions. Is that correct?",
+          "reviewDate": "2021-05-11T00:00:00Z",
+          "textualRating": "Fair call",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "The Government cut nearly $2 billion from aged care services",
+      "claimant": "Bill Shorten",
+      "claimDate": "2019-03-25T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2019-03-29/fact-check-labor-shorten-aged-care-misleading-claim/10950644",
+          "title": "Fact Check: Has the Government cut nearly $2 billion from aged-care services?",
+          "reviewDate": "2019-03-29T00:00:00Z",
+          "textualRating": "Misleading",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"Frontline police numbers have fallen under Labor with Police Association figures showing there are now 190 fewer uniform officers than in 2013 despite Victoria's population increasing by over half a million.\"",
+      "claimant": "Edward O'Donohue",
+      "claimDate": "2018-09-11T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2018-11-09/fact-check-front-line-police-victoria/10471176",
+          "title": "Fact check: Has the number of frontline police in Victoria fallen by 190 under Labor?",
+          "reviewDate": "2018-11-09T00:00:00Z",
+          "textualRating": "Misleading",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"Public school enrolments have surged but the Liberals have closed 15 more schools than they've opened since 2011.\"",
+      "claimant": "Michael Daley",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2019-03-18/fact-check-nsw-election-school-closures-openings-daley/10892542",
+          "title": "Michael Daley says NSW has closed more schools than it has opened. Is he correct?",
+          "reviewDate": "2019-03-18T00:00:00Z",
+          "textualRating": "Spin",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Australia had more rainfall this century, compared to the first 20 years of the last century and the data shows there is no nationwide drying trend",
+      "claimant": "Craig Kelly",
+      "claimDate": "2020-01-06T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2020-03-06/fact-check-craig-kelly-rainfall-drought/12016214",
+          "title": "Craig Kelly says Australia had more rainfall in the first 20 years of this century than the first 20 years of last century. Is he correct?",
+          "reviewDate": "2020-03-06T00:00:00Z",
+          "textualRating": "Flawed",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"$325 for someone working less than 20hrs is ... less than the average rent for a 1br place in Melb[ourne].\"",
+      "claimant": "Adam Bandt",
+      "claimDate": "2021-06-03T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2021-06-17/fact-check-scott-morrison-adam-bandt-covid-disaster-payments/100220172",
+          "title": "Why Adam Bandt's claims on Scott Morrison's COVID-19 Disaster Payment get mixed Fact Check verdicts",
+          "reviewDate": "2021-06-17T00:00:00Z",
+          "textualRating": "Close to the mark",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "That the Coalition cut $14 billion from schools",
+      "claimant": "Tanya Plibersek",
+      "claimDate": "2019-05-07T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2019-05-12/federal-election-fact-check-coalition-cuts-public-school-funding/11084514?nw=0",
+          "title": "Labor says Scott Morrison cut $14 billion from public schools while treasurer. Is that correct? - Fact Check",
+          "reviewDate": "2019-05-29T00:00:00Z",
+          "textualRating": "Misleading",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Australia has slipped to 59th in the world average broadband speed rankings",
+      "claimant": "Anthony Albanese",
+      "claimDate": "2021-11-17T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2021-12-02/fact-check-albanese-broadband-speeds-nbn-59th-in-the-world/100663930",
+          "title": "Anthony Albanese says Australia has slipped to 59th in the world for average broadband speeds since the Coalition took office. Is that correct?",
+          "reviewDate": "2021-12-02T00:00:00Z",
+          "textualRating": "Checks out",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"Out of the 25 million Australians who populate this great country ...130 people can speak Mandarin at a level good enough to do business, who aren't of Chinese background.\"",
+      "claimant": "Chris Bowen",
+      "claimDate": "2019-05-03T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2019-06-24/fact-checka-are-there-only-130-people-who-can-speak-mandarin/11235484",
+          "title": "Are there only 130 Australians of non-Chinese heritage who can speak Mandarin proficiently?",
+          "reviewDate": "2019-06-24T00:00:00Z",
+          "textualRating": "Educated guess",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "The Government cut funding by $1.2 billion from aged care in Scott Morrison's first budget as treasurer",
+      "claimant": "Bill Shorten",
+      "claimDate": "2019-09-17T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2018-10-16/fact-check-did-the-government-cut-aged-care-funding/10363758",
+          "title": "Fact check: Did the government cut $1.2b from aged care funding?",
+          "reviewDate": "2018-10-16T00:00:00Z",
+          "textualRating": "Misleading",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"In NSW homelessness has jumped by more than 30 per cent in five years.\"",
+      "claimant": "David Shoebridge",
+      "claimDate": "2019-02-18T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2019-03-07/fact-check-greens-nsw-homelessness-increase-housing-nsw-election/10872362",
+          "title": "Housing is an election issue for the NSW Greens, but is homelessness up 30 per cent as they say?",
+          "reviewDate": "2019-03-07T00:00:00Z",
+          "textualRating": "Close to the mark",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"[B]y the time the Morrison Government did a deal with Pfizer, a billion doses had already been accounted for around the world.\"",
+      "claimant": "Chris Bowen",
+      "claimDate": "2021-01-23T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2021-03-11/fact-check-pfizer-vaccine-deals-made-around-the-world/13233572",
+          "title": "Chris Bowen says other countries struck deals for a billion doses of the Pfizer vaccine before Australia signed its agreement. Is he correct?",
+          "reviewDate": "2021-03-11T00:00:00Z",
+          "textualRating": "Drawing a long bow",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"It's perfectly legal to lie in a political ad.\"",
+      "claimant": "Zali Steggall",
+      "claimDate": "2021-09-20T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2021-10-13/fact-check-is-it-perfectly-legal-to-lie-in-a-political-ad-/100511796",
+          "title": "Zali Steggall says it's 'perfectly legal' to lie in political advertisements. Is she correct?",
+          "reviewDate": "2021-10-13T00:00:00Z",
+          "textualRating": "Close to the mark",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "The NSW Coalition cut $20 million from specialist domestic violence shelters in 2014",
+      "claimant": "Michael Daley",
+      "claimDate": "2019-02-26T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2019-03-21/fact-check-nsw-votes-2019-domestic-violence-shelter-cuts/10910988",
+          "title": "Fact Check: Did the NSW Coalition cut $20 million from domestic violence shelters?",
+          "reviewDate": "2019-03-21T00:00:00Z",
+          "textualRating": "Oversimplified",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"[The Government has] always been very, very careful to prioritise Australians and Australian jobs [through the migration program\"",
+      "claimant": "Alan Tudge",
+      "claimDate": "2020-05-04T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2020-06-03/fact-check-migrant-workers-457-temporary-visas/12299180",
+          "title": "Has the Government prioritised Australian workers through the migration program as Alan Tudge says?",
+          "reviewDate": "2020-06-03T00:00:00Z",
+          "textualRating": "Not the full story",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Queensland fire danger indices were historically high for early September",
+      "claimant": "Andrew Sturgess",
+      "claimDate": "2019-09-08T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2019-11-14/fact-check-did-high-fire-danger-indices-come-earlier-this-year/11506082",
+          "title": "Fact check: Were Queensland fire danger indices historically high for early September?",
+          "reviewDate": "2019-11-14T00:00:00Z",
+          "textualRating": "Close to the mark",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "A series of Australian governments that are guilty of crimes against humanity for forcibly transferring asylum seekers to a third country and detaining them indefinitely without trial.",
+      "claimant": "Andrew Wilkie",
+      "claimDate": "2019-04-02T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2019-02-28/fact-check-crimes-against-humanity-wilkie-nauru-manus-refugees/10824996",
+          "title": "By sending asylum seekers to Nauru and Manus, is Australia guilty of crimes against humanity?",
+          "reviewDate": "2019-02-28T00:00:00Z",
+          "textualRating": "Untested",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"Something like two-thirds of the debt in the budget was borrowed by the Government before this outbreak of COVID-19\"",
+      "claimant": "Jim Chalmers",
+      "claimDate": "2020-07-23T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2020-08-13/fact-check-budget-debt-coronavirus-pandemic/12545628",
+          "title": "Jim Chalmers says two-thirds of the debt in the budget was borrowed before the start of the pandemic. Is he correct?",
+          "reviewDate": "2020-08-13T00:00:00Z",
+          "textualRating": "Correct",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"It is true that at this stage of our rollout, it is actually better than where Germany was, better than where New Zealand was, better than where South Korea and Japan was ...\"",
+      "claimant": "Scott Morrison",
+      "claimDate": "2021-04-06T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2021-04-16/scott-morrison-claims-australia-vaccination-rollout-fact-check/100070100",
+          "title": "We fact checked Scott Morrison's claim Australia was outperforming other countries with its vaccination rollout. Here's what we found",
+          "reviewDate": "2021-04-16T00:00:00Z",
+          "textualRating": "Misleading",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "A COVID-19 Emergency Powers Act exists in Western Australia authorising the forcible testing and vaccination of children, including removing their underwear",
+      "claimant": "@tahlialikeitis",
+      "claimDate": "2020-05-17T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2020-06-17/fact-check-wa-emergency-powers-vaccination-covid-19/12349842",
+          "title": "Do WA's emergency health powers allow forcible testing, vaccination and removal of underwear of children? Here are the facts",
+          "reviewDate": "2020-06-17T00:00:00Z",
+          "textualRating": "Not the full story",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"[W]e had a 15 per cent reduction when we were in government. Up to … the end of last year, there had only been a 1 per cent reduction under this government since it came to office in 2013.\"",
+      "claimant": "Anthony Albanese",
+      "claimDate": "2020-11-11T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2020-12-01/fact-check-have-emissions-fallen-just-1-per-cent-under-coalition/12927804",
+          "title": "Anthony Albanese says emissions fell just 1 per cent under the Coalition, compared with 15 per cent under Labor. Is he correct?",
+          "reviewDate": "2020-12-01T00:00:00Z",
+          "textualRating": "Close to the mark",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "The Snowy Mountains scheme was the achievement of only one party",
+      "claimant": "Angus Taylor",
+      "claimDate": "2019-10-15T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2019-11-04/is-snowy-mountains-scheme-the-achievement-of-labor-or-coalition/11659222",
+          "title": "Is the Snowy Mountains Scheme the achievement of the Coalition or Labor?",
+          "reviewDate": "2019-11-04T00:00:00Z",
+          "textualRating": "Exaggerated",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Marks to get into teaching are getting lower and lower",
+      "claimant": "Tanya Plibersek",
+      "claimDate": "2019-06-20T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2019-08-20/are-marks-to-get-into-teaching-getting-lower-and-lower/11387970",
+          "title": "Fact check: Are marks to get into teaching getting lower and lower?",
+          "reviewDate": "2019-08-20T00:00:00Z",
+          "textualRating": "Not clear cut",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"... Victoria is the highest taxed state in the country under Daniel Andrews and Labor, with taxes rising by 35 per cent in just the last four years.\"",
+      "claimant": "Michael O'Brien",
+      "claimDate": "2018-11-05T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2018-11-20/fact-check-is-victoria-the-highest-taxing-state-in-the-nation/10510204",
+          "title": "Fact check: Is Victoria the highest taxing state in the nation?",
+          "reviewDate": "2018-11-20T00:00:00Z",
+          "textualRating": "Yes, but more to it",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"It is true that posthumously promoting Monash to field marshal in this centenary year would be a break with normal protocol.\"\n\n\"But there are powerful precedents for such a decision.\"",
+      "claimant": "Bill Shorten",
+      "claimDate": "2018-04-18T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2018-04-25/fact-check-posthumously-promoting-john-monash-to-field-marshal/9691170?nw=0",
+          "title": "Fact check: Posthumously promoting John Monash to field marshal",
+          "reviewDate": "2018-04-25T00:00:00Z",
+          "textualRating": "Yes, but more to it",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "There has been a 58 per cent increase in crime in Bentleigh since the election of the Labor Government in 2014",
+      "claimant": "Asher Judah",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2018-11-15/fact-check-has-crime-in-bentleigh-jumped--under-victorian-labor/10481462",
+          "title": "Fact check: Has crime in the Bentleigh electorate jumped 58 per cent under Victorian Labor?",
+          "reviewDate": "2018-11-15T00:00:00Z",
+          "textualRating": "More to the story",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"We're one of the most generous resettlement countries in the world for humanitarian places, always, every single year. We have 13,700. That's about third in the world every year, third-highest in the world.\"",
+      "claimant": "Alex Hawke",
+      "claimDate": "2021-08-19T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2021-09-14/fact-check-does-australia-s-resettlement-of-refugees-rank-third/100436334",
+          "title": "Alex Hawke says Australia's resettlement of refugees ranks third-highest globally. Is that correct?",
+          "reviewDate": "2021-09-14T00:00:00Z",
+          "textualRating": "Cherrypicking",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"In just seven years, the Liberals have gutted the Audit Office by 20%.\"",
+      "claimant": "Anthony Albanese",
+      "claimDate": "2020-10-28T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2020-12-10/fact-check-anao-funding-has-the-coalition-gutted/12962116",
+          "title": "Anthony Albanese says the Coalition 'gutted' the Australian National Audit Office's budget by 20 per cent over the past seven years. Is he correct? - Fact Check",
+          "reviewDate": "2020-12-10T00:00:00Z",
+          "textualRating": "Overstated",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Your chances of getting the flu after a vaccination are only decreased by 1 to 2 per cent",
+      "claimant": "Chris Del Mar",
+      "claimDate": "2018-06-05T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2018-07-05/fact-check-flu-vaccine/9906284?nw=0",
+          "title": "Fact check: Does the flu vaccine reduce the chance of being infected by only 1 to 2 per cent?",
+          "reviewDate": "2018-07-05T00:00:00Z",
+          "textualRating": "Misleading",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"Australia has, unfortunately, one of the least generous paid parental leave schemes amongst all OECD nations.\"",
+      "claimant": "Emma Walsh",
+      "claimDate": "2019-06-06T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2019-07-17/fact-check-australia-paid-parental-leave/11270456",
+          "title": "Is Australia's parental leave scheme one of the least generous in the OECD?",
+          "reviewDate": "2019-07-17T00:00:00Z",
+          "textualRating": "Fair call",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"Doherty Institute modelling predicts that even with 70 per cent of the population vaccinated, 80 people will die each day from COVID once the outbreak reaches six months after it started. That is 2,240 who will die each month.\"",
+      "claimant": "Annastacia Palaszczuk",
+      "claimDate": "2021-09-02T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2021-09-23/fact-check-annastacia-palaszczuk-doherty-modelling/100481476",
+          "title": "Did the Doherty modelling predict 80 deaths a day and 2,240 deaths a month after six months?",
+          "reviewDate": "2021-09-23T00:00:00Z",
+          "textualRating": "Misleading",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"So, in particular, if you happen to have darker skin, that facial recognition technology is much, much less accurate.\"",
+      "claimant": "Edward Santow",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2020-02-04/fact-check-facial-recognition-darker-skin/11781192",
+          "title": "Is facial recognition technology worse at identifying darker-skinned faces than lighter ones? - Fact Check",
+          "reviewDate": "2020-02-04T00:00:00Z",
+          "textualRating": "Correct",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"You know, a mine just as big as Adani was approved by the Queensland Government in the Bowen Basin during the formal election campaign.\"",
+      "claimant": "Joel Fitzgibbon",
+      "claimDate": "2019-05-22T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2019-06-13/fact-check-adani-mine-queensland-approval/11191744",
+          "title": "Joel Fitzgibbon says the Queensland Government recently approved a mine as big as Adani's Carmichael mine. Is he correct?",
+          "reviewDate": "2019-06-13T00:00:00Z",
+          "textualRating": "Doesn't stack up",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"Labor's proposal is to dismantle offshore detention [and will] essentially give the ability for two doctors — as has been pointed out, doctors including Dr Brown, Bob Brown, and Dr Richard Di Natale — potentially can provide the advice.\"",
+      "claimant": "Peter Dutton",
+      "claimDate": "2019-02-07T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2019-02-11/fact-check-dutton-brown-dinatale-refugee-medical-transfers/10798654",
+          "title": "Fact check: Could Richard Di Natale and Bob Brown act as medical advisers on refugee transfers?",
+          "reviewDate": "2019-02-11T00:00:00Z",
+          "textualRating": "Drawing a long bow",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\" ... we know that the economic impact on the global economy means that this pandemic recession is 30 times worse than what we saw in the global financial crisis (GFC).\"",
+      "claimant": "Scott Morrison",
+      "claimDate": "2021-05-12T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2021-06-02/fact-check-morrison-coronavirus-recession-gfc-recession-30-times/100177354",
+          "title": "Scott Morrison says the coronavirus recession is '30 times worse' than the GFC. Is that accurate?",
+          "reviewDate": "2021-06-02T00:00:00Z",
+          "textualRating": "Apples and oranges",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"It has been nearly a decade since Kevin Rudd's apology, yet child removal rates have increased by 400 per cent.\"",
+      "claimant": "Lidia Thorpe",
+      "claimDate": "2018-11-13T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2018-12-12/fact-check-removal-rates-of-indigenous-children/10566014",
+          "title": "Fact check: Have removal rates of Indigenous kids increased 400 per cent since 2008?",
+          "reviewDate": "2018-12-12T00:00:00Z",
+          "textualRating": "Yes, but more to it",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"[H]ere in Melbourne, very sadly, we've endured the longest lockdown in the world.\"",
+      "claimant": "Josh Frydenberg",
+      "claimDate": "2021-09-29T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2021-10-25/fact-check-is-melbourne-most-locked-down-city/100560172",
+          "title": "Is Melbourne really the world's most locked-down city?",
+          "reviewDate": "2021-10-25T00:00:00Z",
+          "textualRating": "Not clear cut",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"At the present rate, we have [a] 1.6 per cent [population] growth rate. That's the highest in the developed world.\"",
+      "claimant": "Dick Smith",
+      "claimDate": "2018-09-09T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2018-10-11/fact-check-australia-population-growth-rate/10342960?nw=0",
+          "title": "Fact check: Is Australia's population the fastest growing in the developed world?",
+          "reviewDate": "2018-10-11T00:00:00Z",
+          "textualRating": "Incorrect",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"Queensland has had the worst unemployment record in Australia for the last four years thanks to Labor.\"",
+      "claimant": "Deb Frecklington",
+      "claimDate": "2020-10-06T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2020-10-28/fact-check-queensland-unemployment-before-covid-19-coronavirus/12782678",
+          "title": "Deb Frecklington says Queensland had four consecutive years of the highest unemployment in the nation before the pandemic. Is that correct?",
+          "reviewDate": "2020-10-28T00:00:00Z",
+          "textualRating": "Wrong",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"GP bulk-billing is up nearly 4 per cent from 82.2 per cent under Labor to a record 86.1 per cent under the Coalition Government — meaning that more patients are seeing their local GP without having to pay out-of-pocket costs.\"",
+      "claimant": "Greg Hunt",
+      "claimDate": "2019-03-25T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2019-04-09/fact-check-greg-hunt-health-costs-half-baked/10980718",
+          "title": "Greg Hunt said fewer patients face costs to see a GP under the Coalition. Is he correct?",
+          "reviewDate": "2019-04-09T00:00:00Z",
+          "textualRating": "Half-baked",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"I mean, 189 million bucks over the next four years. They are spending almost as much to keep Christmas Island open in the previous four weeks as they will spend in new money over the next four years on climate change.\"",
+      "claimant": "Richard Di Natale",
+      "claimDate": "2019-04-03T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2019-05-08/fact-check-greens-coalition-spending-on-climate-change/11056180",
+          "title": "Fact Check: Was reopening Christmas Island as costly as years of new climate change spending?",
+          "reviewDate": "2019-05-08T00:00:00Z",
+          "textualRating": "Overblown",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "60 per cent of taxpayers who declared a capital gain had taxable incomes of less than $80,000",
+      "claimant": "Josh Frydenberg",
+      "claimDate": "2021-01-15T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2019-02-26/fact-check-does-labors-capital-gains-tax-policy-frydenberg/10845696?nw=0",
+          "title": "Fact Check: Does Labor's capital gains tax policy mostly hurt people earning less than $80,000?",
+          "reviewDate": "2019-02-26T00:00:00Z",
+          "textualRating": "Misleading",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"Mining employs Indigenous people at a greater rate than any other industry.\"",
+      "claimant": "Matt Canavan",
+      "claimDate": "2020-09-17T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2020-10-15/fact-check-indigenous-employment-in-mining-matt-canavan/12764416",
+          "title": "Matt Canavan says mining employs Indigenous people at a greater rate than any other industry. Is he correct?",
+          "reviewDate": "2020-10-15T00:00:00Z",
+          "textualRating": "Yes, but more to it",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"Fact: Liberal Prime Minister Harold Holt abolished the White Australia Policy over 50 years ago.\"",
+      "claimant": "Tim Wilson",
+      "claimDate": "2018-08-15T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2018-09-06/fact-check-did-harold-holt-abolish-the-white-australia-policy/10194408",
+          "title": "Fact check: Did former prime minister Harold Holt abolish the White Australia policy?",
+          "reviewDate": "2018-09-06T00:00:00Z",
+          "textualRating": "Simplistic",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"It was only 10 years ago, under Labor, the unemployment rate was 5.7 per cent. Today, 3.9 per cent.\"",
+      "claimant": "Dominic Perrottet",
+      "claimDate": "2019-02-21T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2019-03-06/fact-chec-nsw-votes-jobless-rate-46-per-cent-higher-under-labor/10867388?nw=0",
+          "title": "Dominic Perrottet says unemployment in NSW was nearly 50 per cent higher under Labor. Is he correct? - Fact Check",
+          "reviewDate": "2019-03-06T00:00:00Z",
+          "textualRating": "Cherrypicking",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"This year's budget is the fifth year in a row that the Australian Government has cut Australian aid.\"",
+      "claimant": "Susan Anderson",
+      "claimDate": "2018-05-08T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2018-05-25/fact-check-has-foreign-aid-budget-been-cut-five-years-running/9783098",
+          "title": "Fact check: Has the foreign aid budget been cut five years in a row?",
+          "reviewDate": "2018-05-25T00:00:00Z",
+          "textualRating": "Correct",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"And let's not forget that going into this crisis, we saw welfare dependency at a 30-year low because we'd got that unemployment rate down.\"",
+      "claimant": "Josh Frydenberg",
+      "claimDate": "2021-01-31T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2021-02-23/fact-check-is-welfare-dependency-the-lowest-for-30-years/13178984",
+          "title": "Josh Frydenberg says welfare dependency was at a 30-year low heading into the pandemic. Is that correct?",
+          "reviewDate": "2021-02-23T00:00:00Z",
+          "textualRating": "Yes, but more to it",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"If you're in a public hospital at the moment, all of your cancer treatment is free.\"",
+      "claimant": "Scott Morrison",
+      "claimDate": "2019-05-08T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2019-05-17/federal-election-fact-check-cancer-costs-morrison/11114456",
+          "title": "Scott Morrison says all cancer treatment is free in public hospitals. Is he correct?",
+          "reviewDate": "2019-05-17T00:00:00Z",
+          "textualRating": "More to the story",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"It is a matter of history that incumbent governments find it nigh on impossible to win seats off an opposition at a by-election. For the last 100 years or so no government, of either political persuasion, has won a seat off an opposition at a by-election.\"",
+      "claimant": "Mathias Cormann",
+      "claimDate": "2018-06-17T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2018-07-27/fact-check-has-a-government-not-taken-a-seat-from-an-opp/10003610",
+          "title": "Fact check: Has a government not won a seat from an opposition at a by-election in 100 years?",
+          "reviewDate": "2018-07-27T00:00:00Z",
+          "textualRating": "Correct",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"About two-thirds of those with negative geared properties have a taxable income of less than $80,000 ...\"",
+      "claimant": "Josh Frydenberg",
+      "claimDate": "2018-10-07T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2018-11-16/fact-check-negative-gearing-under-80000/10387552",
+          "title": "Fact check: Do two-thirds of negative gearers have a taxable income under $80,000?",
+          "reviewDate": "2018-11-16T00:00:00Z",
+          "textualRating": "Misleading",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"In four years we have more than tripled Victoria's share of Chinese investment in Australia.\"",
+      "claimant": "Daniel Andrews",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2018-11-23/fact-check-has-chinese-investment-in-victoria-more-than-tripled/10545822",
+          "title": "Fact check: Has Victoria's share of Chinese investment in Australia tripled over four years?",
+          "reviewDate": "2018-11-23T00:00:00Z",
+          "textualRating": "Fair call",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "$77 billion of the Government's tax package would go to people earning more than $180,000 a year.",
+      "claimant": "Bill Shorten",
+      "claimDate": "2019-05-03T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2019-05-09/federal-election-fact-check-cost-of-coalition-tax-cuts/11092856?nw=0",
+          "title": "Fact Check: Will $77 billion worth of Coalition tax cuts go to people on $180,000+?",
+          "reviewDate": "2019-05-09T00:00:00Z",
+          "textualRating": "Justifiable",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"New Zealand decided to go a lot further [on COVID-19 restrictions], but I'd note that the outcomes we are getting are actually on a per capita basis actually better than what is happening in New Zealand.\"",
+      "claimant": "Scott Morrison",
+      "claimDate": "2020-04-16T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2020-05-06/fact-check-is-australia-getting-better-covid19-outcomes-than-nz/12215476",
+          "title": "Scott Morrison says Australia is doing better on COVID-19 than New Zealand despite a less extreme lockdown. Is he correct?",
+          "reviewDate": "2020-05-06T00:00:00Z",
+          "textualRating": "Fair call",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"Under [Scott Morrison] and the Liberals, out-of-pocket costs to visit a GP are up 25 per cent and out-of-pocket costs to visit a specialist are up 40 per cent — because of the Liberals' & Nationals' Medicare freeze.\"",
+      "claimant": "Kristina Keneally",
+      "claimDate": "2019-03-25T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2019-04-08/fact-check-mediicare-out-of-pocket-costs-kristina-kenneally/10975460",
+          "title": "Kristina Keneally says out-of-pocket costs to visit a GP have gone up 25 per cent under the Coalition Government. Is she correct?",
+          "reviewDate": "2019-04-08T00:00:00Z",
+          "textualRating": "More to the story",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"The Australian constitution is the only constitution of a first world nation with a colonial history that does not recognise its first people.\"",
+      "claimant": "Linda Burney",
+      "claimDate": "2019-08-19T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2019-10-10/fact-check3a-is-australia-the-only-first-world-nation-with-a-c/11583706",
+          "title": "Linda Burney says Australia is the only first world nation with a colonial history that doesn't recognise its first people in its constitution. Is she correct?",
+          "reviewDate": "2019-10-10T00:00:00Z",
+          "textualRating": "Checks out",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"While the Liberals have been in government, there's been a 28 per cent increase in the cost of childcare fees.\"",
+      "claimant": "Amanda Rishworth",
+      "claimDate": "2019-05-02T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2019-05-15/federal-election-fact-check-childcare-costs/11111848",
+          "title": "Fact Check: Have childcare costs gone up 28 per cent under the Coalition?",
+          "reviewDate": "2019-05-15T00:00:00Z",
+          "textualRating": "In the ballpark",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"Since abortion was decriminalised in Victoria in 2008, post 20 week abortions have increased by 39 per cent.\"",
+      "claimant": "Joanna Howe",
+      "claimDate": "2019-08-04T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2019-09-04/fact-check-nsw-abortion-law-victoria/11474570",
+          "title": "Have abortions after 20 weeks increased 39 per cent in Victoria post-decriminalisation?",
+          "reviewDate": "2019-09-04T00:00:00Z",
+          "textualRating": "Wrong",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "The rules of confession are not written in scripture",
+      "claimant": "Kevin Dillon",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "ABC",
+            "site": "abc.net.au"
+          },
+          "url": "https://www.abc.net.au/news/2019-09-23/fact-check3a-are-the-rules-of-confession-in-the-bible3f/11528838",
+          "title": "Catholic priest Kevin Dillon says the rules of confession aren't in the Bible. Is he correct?",
+          "reviewDate": "2019-09-23T00:00:00Z",
+          "textualRating": "Fair call",
+          "languageCode": "en"
+        }
+      ]
+    }
+  ]
+}

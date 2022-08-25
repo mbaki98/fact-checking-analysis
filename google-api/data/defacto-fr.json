@@ -1,0 +1,1028 @@
+{
+  "claims": [
+    {
+      "text": "Le syndicat Sud Santé dénonce « //un// //tri des patients adultes à l’entrée »//",
+      "claimant": "Syndicat Sud Santé",
+      "claimDate": "2022-05-16T22:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "DE FACTO",
+            "site": "defacto-observatoire.fr"
+          },
+          "url": "https://defacto-observatoire.fr/bin/Medias/Les-Surligneurs/Fact-checks/Le-Syndicat-Sud-Sante-commentant-la-fermeture-des-urgences-au-CHU-de-Bordeaux-c-est-un-tri-des-patients-a-l-entree/?viewer=changes&rev2=5.1",
+          "title": "Le Syndicat Sud Santé commentant la fermeture des urgences au CHU de Bordeaux : c’est un “tri des patients à l’entrée”",
+          "reviewDate": "2022-05-27T09:54:44Z",
+          "textualRating": "Faux, mais…",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "La vaccination a causé une hausse des AVC de 732%",
+      "claimant": "Sources multiples",
+      "claimDate": "2022-05-20T22:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "AFP Factuel",
+            "site": "factuel.afp.com"
+          },
+          "url": "https://factuel.afp.com/doc.afp.com.32AY4NM",
+          "title": "Une \"augmentation historique\" de \"1788%\" des troubles menstruels et de \"732%\" des AVC dus aux vaccins anti-Covid ? Ces calculs sont trompeurs",
+          "reviewDate": "2022-05-25T16:48:00Z",
+          "textualRating": "Trompeur",
+          "languageCode": "fr"
+        },
+        {
+          "publisher": {
+            "name": "DE FACTO",
+            "site": "defacto-observatoire.fr"
+          },
+          "url": "https://defacto-observatoire.fr/Medias/Factuel/Fact-checks/Une-augmentation-historique-de-1788-des-troubles-menstruels-et-de-732-des-AVC-dus-aux-vaccins-anti-Covid-Ces-calculs-sont-trompeurs/",
+          "title": "Une \"augmentation historique\" de \"1788%\" des troubles menstruels et de \"732%\" des AVC dus aux vaccins anti-Covid ? Ces calculs sont trompeurs",
+          "reviewDate": "2022-05-26T19:48:40Z",
+          "textualRating": "Trompeur",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "= La France est le pays le plus dangereux de l’Europe =",
+      "claimant": "Stanislas Rigaux",
+      "claimDate": "2022-05-15T22:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "DE FACTO",
+            "site": "defacto-observatoire.fr"
+          },
+          "url": "https://defacto-observatoire.fr/Medias/20-Minutes/Fact-checks/Securite-La-France-est-elle-vraiment-le-pays-le-plus-dangereux-de-l-Europe-Non-un-tel-classement-n-existe-pas/",
+          "title": "Sécurité : La France est-elle vraiment le pays le plus dangereux de l’Europe ? Non, un tel classement n'existe pas",
+          "reviewDate": "2022-05-20T11:55:14Z",
+          "textualRating": "FAUX",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Elisabeth Borne a invité les Français à se déplacer à trottinette",
+      "claimant": "Réseaux sociaux",
+      "claimDate": "2022-05-17T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "AFP Factuel",
+            "site": "factuel.afp.com"
+          },
+          "url": "https://factuel.afp.com/doc.afp.com.32AG29E",
+          "title": "Attention à cette citation parodique sur les trottinettes attribuée à Elisabeth Borne",
+          "reviewDate": "2022-05-19T15:35:00Z",
+          "textualRating": "Faux",
+          "languageCode": "fr"
+        },
+        {
+          "publisher": {
+            "name": "DE FACTO",
+            "site": "defacto-observatoire.fr"
+          },
+          "url": "https://defacto-observatoire.fr/Medias/Factuel/Fact-checks/Attention-a-cette-citation-parodique-sur-les-trottinettes-attribuee-a-Elisabeth-Borne/",
+          "title": "Attention à cette citation parodique sur les trottinettes attribuée à Elisabeth Borne",
+          "reviewDate": "2022-05-19T14:08:24Z",
+          "textualRating": "Faux",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Quand l’Europe veut avancer dans le bon sens, qui est-ce qui bloque ? C’est la France, c’est Emmanuel Macron",
+      "claimant": "François Ruffin",
+      "claimDate": "2022-05-09T22:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "DE FACTO",
+            "site": "defacto-observatoire.fr"
+          },
+          "url": "https://defacto-observatoire.fr/Medias/20-Minutes/Fact-checks/Legislatives-2022-Conge-paternite-travailleurs-Uber-La-France-s-est-elle-opposee-a-une-extension-de-certains-droits-comme-l-affirme-Francois-Ruffin/",
+          "title": "Législatives 2022 : Congé paternité, « travailleurs Uber »… La France s’est-elle opposée à une extension de certains droits, comme l’affirme François Ruffin ?",
+          "reviewDate": "2022-05-12T13:55:14Z",
+          "textualRating": "Vrai",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Amber Heard a plagié des répliques du film le Talentueux Mr. Ripley lors de son procès contre Johnny Depp",
+      "claimant": "Sources multiples",
+      "claimDate": "2022-05-03T22:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "AFP Factuel",
+            "site": "factuel.afp.com"
+          },
+          "url": "https://factuel.afp.com/doc.afp.com.329T6E7",
+          "title": "Amber Heard n'a pas cité des répliques du film Le Talentueux Mr. Ripley lors de son témoignage contre Johnny Depp",
+          "reviewDate": "2022-05-10T16:58:00Z",
+          "textualRating": "Faux",
+          "languageCode": "fr"
+        },
+        {
+          "publisher": {
+            "name": "DE FACTO",
+            "site": "defacto-observatoire.fr"
+          },
+          "url": "https://defacto-observatoire.fr/Medias/Factuel/Fact-checks/Amber-Heard-n-a-pas-cite-des-repliques-du-film-Le-Talentueux-Mr-Ripley-lors-de-son-temoignage-contre-Johnny-Depp/",
+          "title": "Amber Heard n'a pas cité des répliques du film Le Talentueux Mr. Ripley lors de son témoignage contre Johnny Depp",
+          "reviewDate": "2022-05-10T17:25:13Z",
+          "textualRating": "Faux",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Se lever trop vite la nuit peut causer une mort subite",
+      "claimant": "Sources multiples",
+      "claimDate": "2020-07-10T22:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "AFP Factuel",
+            "site": "factuel.afp.com"
+          },
+          "url": "https://factuel.afp.com/doc.afp.com.329H8W2",
+          "title": "Se lever brutalement peut provoquer une insuffisance cardiaque fatale? Non, répondent des experts",
+          "reviewDate": "2022-05-06T16:41:00Z",
+          "textualRating": "Faux",
+          "languageCode": "fr"
+        },
+        {
+          "publisher": {
+            "name": "DE FACTO",
+            "site": "defacto-observatoire.fr"
+          },
+          "url": "https://defacto-observatoire.fr/Medias/Factuel/Fact-checks/Se-lever-brutalement-peut-provoquer-une-insuffisance-cardiaque-fatale-Non-repondent-des-experts/",
+          "title": "Se lever brutalement peut provoquer une insuffisance cardiaque fatale? Non, répondent des experts",
+          "reviewDate": "2022-05-09T10:47:34Z",
+          "textualRating": "Faux",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Le Parlement européen a adopté une mesure climaticide sur la pêche",
+      "claimant": "Claire Nouvian",
+      "claimDate": "2022-05-04T22:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "DE FACTO",
+            "site": "defacto-observatoire.fr"
+          },
+          "url": "https://defacto-observatoire.fr/Medias/20-Minutes/Fact-checks/Peche-Le-Parlement-europeen-a-t-il-adopte-un-amendement-climaticide-sous-la-pression-de-la-delegation-LREM/",
+          "title": "Pêche : Le Parlement européen a-t-il adopté un amendement « climaticide » sous la pression de la délégation LREM ?",
+          "reviewDate": "2022-05-06T13:16:00Z",
+          "textualRating": "Faux et manque de contexte",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "L’Europe « à la carte », est« la fin de l’UE » selon Yannick Jadot",
+      "claimant": "Yannick Jadot",
+      "claimDate": "2022-04-27T22:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "DE FACTO",
+            "site": "defacto-observatoire.fr"
+          },
+          "url": "https://defacto-observatoire.fr/Medias/20-Minutes/Fact-checks/Legislatives-2022-L-Europe-a-la-carte-est-ce-la-fin-de-l-UE-comme-le-dit-Yannick-Jadot/",
+          "title": "Législatives 2022 : L’Europe « à la carte », est-ce « la fin de l’UE » comme le dit Yannick Jadot ?",
+          "reviewDate": "2022-05-04T08:39:44Z",
+          "textualRating": "FAUX",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "= Smic : Une personne à temps complet perçoit 1.450 euros =",
+      "claimant": "Elisabeth Borne",
+      "claimDate": "2022-05-02T22:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "DE FACTO",
+            "site": "defacto-observatoire.fr"
+          },
+          "url": "https://defacto-observatoire.fr/Medias/20-Minutes/Fact-checks/Smic-Une-personne-a-temps-complet-percoit-elle-1-450-euros-Pourquoi-la-declaration-d-Elisabeth-Borne-n-est-pas-juste/",
+          "title": "Smic : Une personne à temps complet perçoit-elle 1.450 euros ? Pourquoi la déclaration d'Elisabeth Borne n'est pas juste",
+          "reviewDate": "2022-05-04T08:44:15Z",
+          "textualRating": "FAUX",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Cette vidéo montre l'arrestation d'un \"général\" américain et de deux \"instructeurs\" de la DGSE",
+      "claimant": "Sources mutliples",
+      "claimDate": "2022-04-11T22:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "DE FACTO",
+            "site": "defacto-observatoire.fr"
+          },
+          "url": "https://defacto-observatoire.fr/Medias/Factuel/Fact-checks/Cette-video-ne-montre-pas-l-arrestation-d-un-haut-grade-americain-par-les-Russes/",
+          "title": "Cette vidéo ne montre pas l'arrestation d'un haut gradé américain par les Russes",
+          "reviewDate": "2022-05-03T15:17:58Z",
+          "textualRating": "FAUX",
+          "languageCode": "fr"
+        },
+        {
+          "publisher": {
+            "name": "AFP Factuel",
+            "site": "factuel.afp.com"
+          },
+          "url": "https://factuel.afp.com/doc.afp.com.329C7W3",
+          "title": "Cette vidéo ne montre pas l'arrestation d'un haut gradé américain par les Russes",
+          "reviewDate": "2022-05-03T14:03:00Z",
+          "textualRating": "FAUX",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Monsieur Bourguiba avait interdit le voile en Algérie",
+      "claimant": "Marine Le Pen",
+      "claimDate": "2022-04-11T22:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "DE FACTO",
+            "site": "defacto-observatoire.fr"
+          },
+          "url": "https://defacto-observatoire.fr/Medias/20-Minutes/Fact-checks/Presidentielle-2022-Marine-Le-Pen-s-emmele-les-pinceaux-sur-le-port-du-voile-en-Tunisie-et-en-Algerie/",
+          "title": "Présidentielle 2022 : Marine Le Pen s’emmêle les pinceaux sur le port du voile en Tunisie et en Algérie",
+          "reviewDate": "2022-04-21T14:55:53Z",
+          "textualRating": "FAUX",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Emmanuel Macron a mis en place la taxe carbone",
+      "claimant": "Marine Le Pen",
+      "claimDate": "2022-04-19T22:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "DE FACTO",
+            "site": "defacto-observatoire.fr"
+          },
+          "url": "https://defacto-observatoire.fr/Medias/Factuel/Fact-checks/Dette-chomage-et-TVA-Retour-sur-les-affirmations-contestees-du-debat-Macron-Le-Pen/",
+          "title": "Dette, chômage, et TVA... Retour sur les affirmations contestées du débat Macron-Le Pen",
+          "reviewDate": "2022-04-21T14:36:51Z",
+          "textualRating": "Faux",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Jérome Rodrigues, un des leaders des Gilets jaunes, aurait appelé à voter Emmanuel Macron",
+      "claimDate": "2022-04-19T22:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "DE FACTO",
+            "site": "defacto-observatoire.fr"
+          },
+          "url": "https://defacto-observatoire.fr/Medias/20-Minutes/Fact-checks/Presidentielle-2022-Non-Jerome-Rodrigues-n-a-pas-appele-a-voter-pour-Emmanuel-Macron/",
+          "title": "Présidentielle 2022 : Non, Jérôme Rodrigues n'a pas appelé à voter pour Emmanuel Macron",
+          "reviewDate": "2022-04-21T15:09:01Z",
+          "textualRating": "FAUX",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Emmanuel Macron annonce 60 millions de réfugiés dans les 20 ans à venir",
+      "claimant": "Sources multiples",
+      "claimDate": "2022-04-16T22:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "AFP Factuel",
+            "site": "factuel.afp.com"
+          },
+          "url": "https://factuel.afp.com/doc.afp.com.328K2M7",
+          "title": "60 millions de réfugiés en Europe en raison des sanctions contre la Russie ? Attention à cette fausse déclaration attribuée à Emmanuel Macron",
+          "reviewDate": "2022-04-19T18:39:00Z",
+          "textualRating": "Faux",
+          "languageCode": "fr"
+        },
+        {
+          "publisher": {
+            "name": "DE FACTO",
+            "site": "defacto-observatoire.fr"
+          },
+          "url": "https://defacto-observatoire.fr/Medias/Factuel/Fact-checks/60-millions-de-refugies-en-Europe-en-raison-des-sanctions-contre-la-Russie-Attention-a-cette-fausse-declaration-attribuee-a-Emmanuel-Macron/",
+          "title": "60 millions de réfugiés en Europe en raison des sanctions contre la Russie ? Attention à cette fausse déclaration attribuée à Emmanuel Macron",
+          "reviewDate": "2022-04-20T15:47:39Z",
+          "textualRating": "Faux",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Les Républicains ont tweeté un appel à arrêter les dons de 0 euros",
+      "claimant": "Réseaux sociaux",
+      "claimDate": "2022-04-13T22:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "AFP Factuel",
+            "site": "factuel.afp.com"
+          },
+          "url": "https://factuel.afp.com/doc.afp.com.328B62P",
+          "title": "Un tweet des Républicains appelant à cesser d'envoyer \"des chèques de zéro euro\" à Valérie Pécresse ? C'est un montage parodique",
+          "reviewDate": "2022-04-14T17:12:00Z",
+          "textualRating": "Faux",
+          "languageCode": "fr"
+        },
+        {
+          "publisher": {
+            "name": "DE FACTO",
+            "site": "defacto-observatoire.fr"
+          },
+          "url": "https://defacto-observatoire.fr/Medias/Factuel/Fact-checks/Un-tweet-des-Republicains-appelant-a-cesser-d-envoyer-des-cheques-de-zero-euro-a-Valerie-Pecresse-C-est-un-montage-parodique/",
+          "title": "Un tweet des Républicains appelant à cesser d'envoyer \"des chèques de zéro euro\" à Valérie Pécresse ? C'est un montage parodique",
+          "reviewDate": "2022-04-19T15:47:56Z",
+          "textualRating": "Faux",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Ce \"général\" américain a été fait prisonnier par la Russie en Ukraine",
+      "claimant": "Sources multiples",
+      "claimDate": "2022-04-06T22:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "AFP Factuel",
+            "site": "factuel.afp.com"
+          },
+          "url": "https://factuel.afp.com/doc.afp.com.32848RC",
+          "title": "Ce haut gradé américain n'a pas été fait prisonnier par les Russes",
+          "reviewDate": "2022-04-11T18:15:00Z",
+          "textualRating": "Faux",
+          "languageCode": "fr"
+        },
+        {
+          "publisher": {
+            "name": "DE FACTO",
+            "site": "defacto-observatoire.fr"
+          },
+          "url": "https://defacto-observatoire.fr/Medias/Factuel/Fact-checks/Ce-haut-grade-americain-n-a-pas-ete-fait-prisonnier-par-les-Russes/",
+          "title": "Ce haut gradé américain n'a pas été fait prisonnier par les Russes",
+          "reviewDate": "2022-04-15T12:32:18Z",
+          "textualRating": "Faux",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Cette vidéo montre un prêtre mort après avoir été vacciné",
+      "claimant": "Sources multiples",
+      "claimDate": "2021-11-23T23:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "DE FACTO",
+            "site": "defacto-observatoire.fr"
+          },
+          "url": "https://defacto-observatoire.fr/Medias/Factuel/Fact-checks/Non-ce-pretre-mexicain-qui-s-est-evanoui-lors-d-une-messe-n-est-pas-mort-apres-avoir-ete-vaccine-contre-le-Covid/",
+          "title": "Non, ce prêtre mexicain qui s'est évanoui lors d'une messe n'est pas mort après avoir été vacciné contre le Covid",
+          "reviewDate": "2022-04-15T10:24:45Z",
+          "textualRating": "Faux",
+          "languageCode": "fr"
+        },
+        {
+          "publisher": {
+            "name": "AFP Factuel",
+            "site": "factuel.afp.com"
+          },
+          "url": "https://factuel.afp.com/http%253A%252F%252Fdoc.afp.com%252F9TF6BT-1",
+          "title": "Non, ce prêtre mexicain qui s'est évanoui lors d'une messe n'est pas mort après avoir été vacciné contre le Covid",
+          "reviewDate": "2021-11-26T19:19:00Z",
+          "textualRating": "Faux",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "L'Allemagne en a fini avec les bus électriques, ils sont interdits à Munich",
+      "claimant": "Sources multiples",
+      "claimDate": "2021-11-20T23:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "DE FACTO",
+            "site": "defacto-observatoire.fr"
+          },
+          "url": "https://defacto-observatoire.fr/Medias/Factuel/Fact-checks/Non-l-Allemagne-n-en-a-pas-fini-avec-les-bus-electriques/?language=",
+          "title": "Non, l'Allemagne n'en a pas \"fini\" avec les bus électriques",
+          "reviewDate": "2022-04-15T10:24:44Z",
+          "textualRating": "Faux",
+          "languageCode": "fr"
+        },
+        {
+          "publisher": {
+            "name": "AFP Factuel",
+            "site": "factuel.afp.com"
+          },
+          "url": "https://factuel.afp.com/http%253A%252F%252Fdoc.afp.com%252F9TQ7KM-1",
+          "title": "Non, l'Allemagne n'en a pas \"fini\" avec les bus électriques",
+          "reviewDate": "2021-12-01T18:43:00Z",
+          "textualRating": "Faux",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Le pass sanitaire ne s'applique plus depuis le 15 novembre",
+      "claimant": "Sources multiples",
+      "claimDate": "2021-11-18T23:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "DE FACTO",
+            "site": "defacto-observatoire.fr"
+          },
+          "url": "https://defacto-observatoire.fr/Medias/Factuel/Fact-checks/Non-la-possibilite-de-recourir-au-pass-sanitaire-n-a-pas-pris-fin-le-15-novembre/",
+          "title": "Non, la possibilité de recourir au pass sanitaire n'a pas pris fin le 15 novembre",
+          "reviewDate": "2022-04-15T10:24:47Z",
+          "textualRating": "Faux",
+          "languageCode": "fr"
+        },
+        {
+          "publisher": {
+            "name": "AFP Factuel",
+            "site": "factuel.afp.com"
+          },
+          "url": "https://factuel.afp.com/http%253A%252F%252Fdoc.afp.com%252F9RW7CV-1",
+          "title": "Non, la possibilité de recourir au pass sanitaire n'a pas pris fin le 15 novembre",
+          "reviewDate": "2021-11-19T17:36:00Z",
+          "textualRating": "Faux",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Une image de CNN montre que Justin Trudeau a été cité au procès Maxwell",
+      "claimant": "Sources multiples",
+      "claimDate": "2021-12-04T23:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "AFP Factuel",
+            "site": "factuel.afp.com"
+          },
+          "url": "https://factuel.afp.com/http%253A%252F%252Fdoc.afp.com%252F9UP64C-1",
+          "title": "Procès Maxwell : attention, cette image de CNN montrant Justin Trudeau a été retouchée",
+          "reviewDate": "2021-12-15T18:33:00Z",
+          "textualRating": "Montage",
+          "languageCode": "fr"
+        },
+        {
+          "publisher": {
+            "name": "DE FACTO",
+            "site": "defacto-observatoire.fr"
+          },
+          "url": "https://defacto-observatoire.fr/Medias/Factuel/Fact-checks/Proces-Maxwell-attention-cette-image-de-CNN-montrant-Justin-Trudeau-a-ete-retouchee/?language=",
+          "title": "Procès Maxwell : attention, cette image de CNN montrant Justin Trudeau a été retouchée",
+          "reviewDate": "2022-04-15T10:24:42Z",
+          "textualRating": "Montage",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Selon le gouvernement russe, il s’agit d’une //“opération spéciale”// visant à //“dénazifier”// l’Ukraine et à protéger les populations des régions de Donetsk et Lougansk d’un prétendu génocide.",
+      "claimDate": "2022-02-25T23:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "DE FACTO",
+            "site": "defacto-observatoire.fr"
+          },
+          "url": "https://defacto-observatoire.fr/Medias/Les-Surligneurs/Fact-checks/Pourquoi-l-agression-de-l-Ukraine-par-la-Russie-est-illegale/",
+          "title": "L'intervention russe en Ukraine est-elle justifiée par la \"légitime défense\" et pour protéger des populations ?",
+          "reviewDate": "2022-04-15T10:21:20Z",
+          "textualRating": "Faux",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "La police et l’armée autrichiennes se joindront à une grande manifestation contre le confinement le 20 novembre 2021 à Vienne",
+      "claimant": "Sources multiples",
+      "claimDate": "2021-11-15T23:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "DE FACTO",
+            "site": "defacto-observatoire.fr"
+          },
+          "url": "https://defacto-observatoire.fr/Medias/Factuel/Fact-checks/L-armee-et-la-police-autrichiennes-n-ont-pas-officiellement-appele-a-rejoindre-la-manifestation-du-20-novembre-a-Vienne/?language=",
+          "title": "L'armée et la police autrichiennes n'ont pas officiellement appelé à rejoindre la manifestation du 20 novembre à Vienne",
+          "reviewDate": "2022-04-15T10:24:46Z",
+          "textualRating": "Trompeur",
+          "languageCode": "fr"
+        },
+        {
+          "publisher": {
+            "name": "AFP Factuel",
+            "site": "factuel.afp.com"
+          },
+          "url": "https://factuel.afp.com/http%253A%252F%252Fdoc.afp.com%252F9RY6NG-1",
+          "title": "L'armée et la police autrichiennes n'ont pas officiellement appelé à rejoindre la manifestation du 20 novembre à Vienne",
+          "reviewDate": "2021-11-19T18:39:00Z",
+          "textualRating": "Trompeur",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Les vaccins \"empoisonnent\" la population avec la protéine Spike",
+      "claimant": "Shankara Chetty",
+      "claimDate": "2021-11-26T23:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "DE FACTO",
+            "site": "defacto-observatoire.fr"
+          },
+          "url": "https://defacto-observatoire.fr/Medias/Factuel/Fact-checks/Attention-aux-affirmations-de-ce-medecin-sud-africain-qui-pretend-que-le-vaccin-empoisonne-la-population/",
+          "title": "Attention aux affirmations de ce médecin sud-africain qui prétend que le vaccin \"empoisonne\" la population",
+          "reviewDate": "2022-04-15T10:24:44Z",
+          "textualRating": "Faux",
+          "languageCode": "fr"
+        },
+        {
+          "publisher": {
+            "name": "AFP Factuel",
+            "site": "factuel.afp.com"
+          },
+          "url": "https://factuel.afp.com/http%253A%252F%252Fdoc.afp.com%252F9TT6V9-3",
+          "title": "Attention aux affirmations de ce médecin sud-africain qui prétend que le vaccin \"empoisonne\" la population",
+          "reviewDate": "2021-12-03T16:57:00Z",
+          "textualRating": "Faux",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Le programme de Marine Le Pen passé au crible",
+      "claimant": "Marine Le Pen",
+      "claimDate": "2022-04-11T22:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "DE FACTO",
+            "site": "defacto-observatoire.fr"
+          },
+          "url": "https://defacto-observatoire.fr/Medias/Les-Surligneurs/Fact-checks/Le-programme-de-Marine-Le-Pen-passe-au-crible/",
+          "title": "Le programme de Marine Le Pen passé au crible",
+          "reviewDate": "2022-04-12T16:21:04Z",
+          "textualRating": "Problématique",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Le président ukrainien a appelé à voter Macron",
+      "claimant": "Liévin avec Kaznowski",
+      "claimDate": "2022-03-04T23:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "AFP Factuel",
+            "site": "factuel.afp.com"
+          },
+          "url": "https://factuel.afp.com/doc.afp.com.324M997",
+          "title": "Attention à ce faux appel du président ukrainien à voter pour Emmanuel Macron",
+          "reviewDate": "2022-03-07T17:04:00Z",
+          "textualRating": "Faux",
+          "languageCode": "fr"
+        },
+        {
+          "publisher": {
+            "name": "DE FACTO",
+            "site": "defacto-observatoire.fr"
+          },
+          "url": "https://defacto-observatoire.fr/Medias/Factuel/Fact-checks/Attention-a-ce-faux-appel-du-president-ukrainien-a-voter-pour-Emmanuel-Macron/",
+          "title": "Attention à ce faux appel du président ukrainien à voter pour Emmanuel Macron",
+          "reviewDate": "2022-04-08T11:17:53Z",
+          "textualRating": "Faux",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Essence : Bruno Le Maire demandé de rouler \"un jour sur deux\"",
+      "claimant": "Agence France Presque",
+      "claimDate": "2022-03-07T23:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "DE FACTO",
+            "site": "defacto-observatoire.fr"
+          },
+          "url": "https://defacto-observatoire.fr/Medias/Factuel/Fact-checks/Rouler-un-jour-sur-deux-pour-limiter-la-facture-d-essence-Attention-a-cette-fausse-citation-pretee-a-Bruno-Le-Maire/",
+          "title": "Rouler \"un jour sur deux\" pour limiter la facture d'essence ? Attention à cette fausse citation prêtée à Bruno Le Maire",
+          "reviewDate": "2022-04-08T11:17:54Z",
+          "textualRating": "Satirique",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "BHL s'est fait photographier devant un faux décor ukrainien pour faire croire qu'il s'était rendu sur place",
+      "claimant": "Sources multiples",
+      "claimDate": "2022-03-28T22:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "DE FACTO",
+            "site": "defacto-observatoire.fr"
+          },
+          "url": "https://defacto-observatoire.fr/Medias/Factuel/Fact-checks/Attention-a-ce-photomontage-avec-Bernard-Henri-Levy/",
+          "title": "Attention à ce photomontage avec Bernard-Henri Lévy",
+          "reviewDate": "2022-04-08T11:17:59Z",
+          "textualRating": "Photomontage",
+          "languageCode": "fr"
+        },
+        {
+          "publisher": {
+            "name": "AFP Factuel",
+            "site": "factuel.afp.com"
+          },
+          "url": "https://factuel.afp.com/doc.afp.com.3277976",
+          "title": "Attention à ce photomontage avec Bernard-Henri Lévy",
+          "reviewDate": "2022-03-29T20:15:00Z",
+          "textualRating": "Photomontage",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Une émission de Cash investigation sur Alstom a été déprogrammée",
+      "claimant": "Sources multiples",
+      "claimDate": "2022-02-17T23:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "AFP Factuel",
+            "site": "factuel.afp.com"
+          },
+          "url": "https://factuel.afp.com/doc.afp.com.323L9Q3",
+          "title": "Non, une enquête de Cash investigation sur Alstom n’a pas été \"déprogrammée\"",
+          "reviewDate": "2022-02-22T17:20:00Z",
+          "textualRating": "Faux, aucune émission n'a été programmée à ce sujet",
+          "languageCode": "fr"
+        },
+        {
+          "publisher": {
+            "name": "DE FACTO",
+            "site": "defacto-observatoire.fr"
+          },
+          "url": "https://defacto-observatoire.fr/Medias/Factuel/Fact-checks/Non-une-enquete-de-Cash-investigation-sur-Alstom-n-a-pas-ete-deprogrammee/",
+          "title": "Non, une enquête de Cash investigation sur Alstom n’a pas été \"déprogrammée\"",
+          "reviewDate": "2022-04-08T11:17:48Z",
+          "textualRating": "Faux, aucune émission n'a été programmée à ce sujet",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Le VAERS indique que 54 enfants sont décédés à cause des vaccins anti-Covid",
+      "claimant": "Martine Wonner",
+      "claimDate": "2021-01-03T23:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "DE FACTO",
+            "site": "defacto-observatoire.fr"
+          },
+          "url": "https://defacto-observatoire.fr/Medias/Factuel/Fact-checks/Attention-a-l-utilisation-trompeuse-faite-par-Martine-Wonner-de-la-base-de-pharmacovigilance-americaine/",
+          "title": "Attention à l'utilisation trompeuse faite par Martine Wonner de la base de pharmacovigilance américaine",
+          "reviewDate": "2022-04-08T10:50:11Z",
+          "textualRating": "Trompeur",
+          "languageCode": "fr"
+        },
+        {
+          "publisher": {
+            "name": "AFP Factuel",
+            "site": "factuel.afp.com"
+          },
+          "url": "https://factuel.afp.com/http%253A%252F%252Fdoc.afp.com%252F9VH64X-1",
+          "title": "Attention à l'utilisation trompeuse faite par Martine Wonner de la base de pharmacovigilance américaine",
+          "reviewDate": "2022-01-05T16:47:00Z",
+          "textualRating": "Trompeur",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "La maire écolo de Besançon a banni le terme \"Joyeux Noël\"",
+      "claimant": "Eric Ciotti",
+      "claimDate": "2021-11-27T23:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "AFP Factuel",
+            "site": "factuel.afp.com"
+          },
+          "url": "https://factuel.afp.com/http%253A%252F%252Fdoc.afp.com%252F9TL7H9",
+          "title": "Non, \"Joyeux Noël\" n'a pas été banni par la maire écologiste de Besançon",
+          "reviewDate": "2021-11-29T19:06:00Z",
+          "textualRating": "Faux",
+          "languageCode": "fr"
+        },
+        {
+          "publisher": {
+            "name": "DE FACTO",
+            "site": "defacto-observatoire.fr"
+          },
+          "url": "https://defacto-observatoire.fr/Medias/Factuel/Fact-checks/Non-Joyeux-Noel-n-a-pas-ete-banni-par-la-maire-ecologiste-de-Besancon/",
+          "title": "Non, \"Joyeux Noël\" n'a pas été banni par la maire écologiste de Besançon",
+          "reviewDate": "2022-04-08T11:00:20Z",
+          "textualRating": "Faux",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Plus d'Australiens morts à cause de la vaccination que du Covid-19",
+      "claimant": "Sources multiples",
+      "claimDate": "2021-11-09T23:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "AFP Factuel",
+            "site": "factuel.afp.com"
+          },
+          "url": "https://factuel.afp.com/http%253A%252F%252Fdoc.afp.com%252F9T66VA",
+          "title": "Non, il n'y a pas plus de \"morts à cause des vaccins Covid-19\" que de la maladie en Australie",
+          "reviewDate": "2021-11-22T16:57:00Z",
+          "textualRating": "Faux",
+          "languageCode": "fr"
+        },
+        {
+          "publisher": {
+            "name": "DE FACTO",
+            "site": "defacto-observatoire.fr"
+          },
+          "url": "https://defacto-observatoire.fr/Medias/Factuel/Fact-checks/Non-il-n-y-a-pas-plus-de-morts-a-cause-des-vaccins-Covid-19-que-de-la-maladie-en-Australie/",
+          "title": "Non, il n'y a pas plus de \"morts à cause des vaccins Covid-19\" que de la maladie en Australie",
+          "reviewDate": "2022-04-08T11:00:16Z",
+          "textualRating": "Faux",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Des chercheurs disent que les vaccins anti-Covid peuvent donner le VIH",
+      "claimant": "Sources multiples",
+      "claimDate": "2020-12-21T23:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "AFP Factuel",
+            "site": "factuel.afp.com"
+          },
+          "url": "https://factuel.afp.com/http%253A%252F%252Fdoc.afp.com%252F9QW9N8-1",
+          "title": "Attention à ces publications affirmant que la vaccination anti-Covid pourrait causer des infections au VIH",
+          "reviewDate": "2021-11-04T15:09:00Z",
+          "textualRating": "Trompeur",
+          "languageCode": "fr"
+        },
+        {
+          "publisher": {
+            "name": "DE FACTO",
+            "site": "defacto-observatoire.fr"
+          },
+          "url": "https://defacto-observatoire.fr/Medias/Factuel/Fact-checks/Attention-a-ces-publications-affirmant-que-la-vaccination-anti-Covid-pourrait-causer-des-infections-au-VIH/",
+          "title": "Attention à ces publications affirmant que la vaccination anti-Covid pourrait causer des infections au VIH",
+          "reviewDate": "2022-04-08T10:58:12Z",
+          "textualRating": "Trompeur",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "La découvertes de cadavres de civils à Boutcha est une mise en scène",
+      "claimant": "https://twitter.com/BotrytisC/status/1510596395899760647",
+      "claimDate": "2022-04-02T22:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "DE FACTO",
+            "site": "defacto-observatoire.fr"
+          },
+          "url": "https://defacto-observatoire.fr/Medias/Factuel/Fact-checks/Ukraine-Non-la-decouverte-de-cadavres-a-Boutcha-n-est-pas-une-mise-en-scene-avec-des-figurants/",
+          "title": "Ukraine : Non, la découverte de cadavres à Boutcha n'est pas une \"mise en scène\" avec des \"figurants\"",
+          "reviewDate": "2022-04-05T13:34:39Z",
+          "textualRating": "Faux",
+          "languageCode": "fr"
+        },
+        {
+          "publisher": {
+            "name": "AFP Factuel",
+            "site": "factuel.afp.com"
+          },
+          "url": "https://factuel.afp.com/doc.afp.com.327M9YC",
+          "title": "Ukraine : Non, la découverte de cadavres à Boutcha n'est pas une \"mise en scène\" avec des \"figurants\"",
+          "reviewDate": "2022-04-04T17:56:00Z",
+          "textualRating": "Faux",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Le vaccin anti-Covid-19 peut être « transmis » par une transfusion sanguine.",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "DE FACTO",
+            "site": "defacto-observatoire.fr"
+          },
+          "url": "https://defacto-observatoire.fr/Medias/20-Minutes/Fact-checks/Le-vaccin-anti-Covid-19-peut-il-etre-transmis-par-une-transfusion-sanguine-Non-voici-pourquoi/",
+          "title": "Le vaccin anti-Covid-19 peut-il être « transmis » par une transfusion sanguine ? Non, voici pourquoi",
+          "reviewDate": "2022-04-01T17:26:28Z",
+          "textualRating": "Faux",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Pour le tournage à Paris du meeting du président sortant, il serait recherché 5.000 figurants",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "DE FACTO",
+            "site": "defacto-observatoire.fr"
+          },
+          "url": "https://defacto-observatoire.fr/Medias/20-Minutes/Fact-checks/Presidentielle-2022-Emmanuel-Macron-recherche-5-000-figurants-pour-remplir-son-meeting-du-2-avril-C-est-faux/",
+          "title": "Présidentielle 2022 : Emmanuel Macron recherche « 5.000 figurants » pour remplir son meeting du 2 avril ? C’est faux",
+          "reviewDate": "2022-04-01T17:26:44Z",
+          "textualRating": "Faux",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Emmanuel Macron a changé de position sur les retraites, le nucléaire, la justice et la sécurité.",
+      "claimant": "Valérie Pécresse",
+      "claimDate": "2022-03-13T23:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "DE FACTO",
+            "site": "defacto-observatoire.fr"
+          },
+          "url": "https://defacto-observatoire.fr/Medias/20-Minutes/Fact-checks/Presidentielle-2022-Nucleaire-retraites-Emmanuel-Macron-a-t-il-retourne-sa-veste-comme-l-affirme-Valerie-Pecresse/",
+          "title": "Présidentielle 2022 : Nucléaire, retraites… Emmanuel Macron a-t-il retourné sa veste, comme l’affirme Valérie Pécresse ?",
+          "reviewDate": "2022-04-01T17:28:18Z",
+          "textualRating": "Vrai",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "= Il faut une “intégration sans délai de l'Ukraine via une nouvelle procédure spéciale\" dans l'Union européenne\" =",
+      "claimant": "Volodymyr Zelinsky",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "DE FACTO",
+            "site": "defacto-observatoire.fr"
+          },
+          "url": "https://defacto-observatoire.fr/Medias/Les-Surligneurs/Fact-checks/Volodymyr-Zelensky-appelle-a-une-integration-sans-delai-de-l-Ukraine-via-une-nouvelle-procedure-speciale-dans-l-Union-europeenne/",
+          "title": "Volodymyr Zelensky appelle à une “intégration sans délai de l’Ukraine via une nouvelle procédure spéciale” dans l’Union européenne",
+          "reviewDate": "2022-04-01T17:28:31Z",
+          "textualRating": "Pas vraiment possible",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Barack Obama a expulsé 2,5 millions de personnes étrangères des Etats-Unis",
+      "claimant": "Eric Zemmour",
+      "claimDate": "2022-03-20T23:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "DE FACTO",
+            "site": "defacto-observatoire.fr"
+          },
+          "url": "https://defacto-observatoire.fr/Medias/20-Minutes/Fact-checks/Presidentielle-2022-Barack-Obama-a-t-il-expulse-2-5-millions-d-etrangers-des-Etats-Unis-comme-l-affirme-Eric-Zemmour/",
+          "title": "Présidentielle 2022 : Barack Obama a-t-il « expulsé 2,5 millions d’étrangers des Etats-Unis », comme l’affirme Eric Zemmour ?",
+          "reviewDate": "2022-04-01T17:28:06Z",
+          "textualRating": "Vrai",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Le Tribunal Arbitral du Sport ordonne à la FIFA d'intégrer la Russie",
+      "claimant": "Tout sur le Cameroun - TSC",
+      "claimDate": "2022-03-11T23:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "AFP Factuel",
+            "site": "factuel.afp.com"
+          },
+          "url": "https://factuel.afp.com/doc.afp.com.326L7U3",
+          "title": "Le Tribunal arbitral du sport n'a pas ordonné à la Fifa de réintégrer la Russie",
+          "reviewDate": "2022-03-22T14:37:00Z",
+          "textualRating": "FAUX",
+          "languageCode": "fr"
+        },
+        {
+          "publisher": {
+            "name": "DE FACTO",
+            "site": "defacto-observatoire.fr"
+          },
+          "url": "https://defacto-observatoire.fr/Medias/Factuel/Fact-checks/Le-Tribunal-arbitral-du-sport-n-a-pas-ordonne-a-la-Fifa-de-reintegrer-la-Russie/",
+          "title": "Le Tribunal arbitral du sport n'a pas ordonné à la Fifa de réintégrer la Russie",
+          "reviewDate": "2022-04-08T11:17:57Z",
+          "textualRating": "FAUX",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Vladimir Poutine a ignoré la poignée de main d'Emmanuel Macron",
+      "claimant": "Lokal Antillais",
+      "claimDate": "2021-09-01T22:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "AFP Factuel",
+            "site": "factuel.afp.com"
+          },
+          "url": "https://factuel.afp.com/doc.afp.com.9YM7U4",
+          "title": "Non, Vladimir Poutine n'a pas ignoré la poignée de main d'Emmanuel Macron",
+          "reviewDate": "2022-02-08T12:59:00Z",
+          "textualRating": "Vidéo tronquée et trompeuse",
+          "languageCode": "fr"
+        },
+        {
+          "publisher": {
+            "name": "DE FACTO",
+            "site": "defacto-observatoire.fr"
+          },
+          "url": "https://defacto-observatoire.fr/Medias/Factuel/Fact-checks/Non-Vladimir-Poutine-n-a-pas-ignore-la-poignee-de-main-d-Emmanuel-Macron/",
+          "title": "Non, Vladimir Poutine n'a pas ignoré la poignée de main d'Emmanuel Macron",
+          "reviewDate": "2022-04-08T11:17:45Z",
+          "textualRating": "Vidéo tronquée et trompeuse",
+          "languageCode": "fr"
+        }
+      ]
+    },
+    {
+      "text": "Christian Cabrol est mort en 2022 dans l'indifférence médiatique",
+      "claimant": "Sources multiples",
+      "claimDate": "2022-01-14T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "AFP Factuel",
+            "site": "factuel.afp.com"
+          },
+          "url": "https://factuel.afp.com/doc.afp.com.9WZ2DR",
+          "title": "Non, le professeur Christian Cabrol n'est pas décédé en janvier 2022 \"dans le silence médiatique\"",
+          "reviewDate": "2022-01-24T16:44:00Z",
+          "textualRating": "Faux",
+          "languageCode": "fr"
+        },
+        {
+          "publisher": {
+            "name": "DE FACTO",
+            "site": "defacto-observatoire.fr"
+          },
+          "url": "https://defacto-observatoire.fr/Medias/Factuel/Fact-checks/Non-le-professeur-Christian-Cabrol-n-est-pas-decede-en-janvier-2022-dans-le-silence-mediatique/",
+          "title": "Non, le professeur Christian Cabrol n'est pas décédé en janvier 2022 \"dans le silence médiatique\"",
+          "reviewDate": "2022-04-08T11:17:40Z",
+          "textualRating": "Faux",
+          "languageCode": "fr"
+        }
+      ]
+    }
+  ]
+}
