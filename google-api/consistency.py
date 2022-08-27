@@ -11,7 +11,7 @@ import json
 from pprint import pprint
 
 
-def create_fact_check_list():
+def create_fact_check_list(data):
     claim_dict = {}
     for claim in data:
         # list of the websites that have fact-checked each claim
@@ -39,7 +39,7 @@ def create_fact_check_list():
 
 
 # Analysing consistency
-def create_consistency_dict():
+def create_consistency_dict(claim_dict):
     consistency_dict = {}
     for key in claim_dict.keys():
         for claim in claim_dict[key]:
@@ -117,7 +117,7 @@ def count_consistency_dict(consistency_dict: dict):
     print(counter)
 
 
-def create_percentages_dict():
+def create_percentages_dict(consistency_dict):
     percentages_dict = {}
     for key in consistency_dict.keys():
         counter = 0
@@ -150,25 +150,30 @@ def create_percentages_dict():
     return percentages_dict
 
 
-# parsing json - need to add this to own class
-# parse initial file so that future data could be appended
-f = open('multiple.json', encoding='utf-8')
-data = json.load(f)
+def main():
+    # parsing json - need to add this to own class
+    # parse initial file so that future data could be appended
+    f = open('multiple.json', encoding='utf-8')
+    data = json.load(f)
 
-claim_dict = create_fact_check_list()
+    claim_dict = create_fact_check_list(data)
 
-# number of website combinations
-print(claim_dict.__len__())
-# list of website combinations
-print(claim_dict.keys())
-# pretty print dictionary
-pprint(claim_dict)
+    # number of website combinations
+    print(claim_dict.__len__())
+    # list of website combinations
+    print(claim_dict.keys())
+    # pretty print dictionary
+    pprint(claim_dict)
 
-consistency_dict = create_consistency_dict()
+    consistency_dict = create_consistency_dict(claim_dict)
 
-count_consistency_dict(consistency_dict)
+    count_consistency_dict(consistency_dict)
 
-percentages_dict = create_percentages_dict()
+    percentages_dict = create_percentages_dict(consistency_dict)
 
-for key in percentages_dict.keys():
-    print(key, percentages_dict[key])
+    for key in percentages_dict.keys():
+        print(key, percentages_dict[key])
+
+
+if __name__ == "__main__":
+    main()
