@@ -1,0 +1,2944 @@
+{
+  "claims": [
+    {
+      "text": "Andy McCabe was head of the FBI during Hillary Clinton's email investigation",
+      "claimant": "Donald Trump",
+      "claimDate": "2020-09-12T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-hillary-clinton-give-andy-mccabes",
+          "title": "Did Hillary Clinton Give Andy McCabe’s Wife $700,000 for a Campaign?",
+          "reviewDate": "2020-09-14T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Simone Scott died of myocarditis after her second dose of the Moderna vaccine",
+      "claimant": "Alex Berenson",
+      "claimDate": "2021-06-14T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-a-teenager-die-from-myocarditis",
+          "title": "Did a Teenager Die From Myocarditis After Her Second COVID Dose?",
+          "reviewDate": "2021-06-16T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "90 percent of educators and staff who belong to the American Federation of Teachers have been vaccinated.",
+      "claimant": "Randi Weingarten",
+      "claimDate": "2021-08-04T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/fact-checking-randi-weingartens-claim",
+          "title": "Fact-Checking Randi Weingarten’s Claim About Teacher Vaccination Rates",
+          "reviewDate": "2021-08-05T00:00:00Z",
+          "textualRating": "Missing context",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "A Trump caravan blocked access to a polling place in California",
+      "claimant": "Call to Activism",
+      "claimDate": "2020-11-03T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-a-caravan-of-trump-supporters",
+          "title": "Did a Caravan of Trump Supporters Block Access to a Polling Location?",
+          "reviewDate": "2020-11-03T00:00:00Z",
+          "textualRating": "True",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "90 percent of COVID-19 patients recover successfully when treated with hydroxychloroquine.",
+      "claimant": "Association of American Physicians and Surgeons",
+      "claimDate": "2020-05-28T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/do-90-percent-of-covid-19-patients",
+          "title": "Do 90 Percent of COVID-19 Patients Treated With Hydroxychloroquine Recover Successfully?",
+          "reviewDate": "2020-05-11T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Joe Biden was photographed with the CEO of Burisma",
+      "claimDate": "2020-10-29T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/does-a-photograph-show-that-joe-biden",
+          "title": "Does a Photograph Show That Joe Biden Met the CEO of Burisma?",
+          "reviewDate": "2020-10-30T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Donald Trump is facing a court case for allegedly raping a 13-year-old",
+      "claimDate": "2020-10-12T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/is-donald-trump-facing-a-court-case",
+          "title": "Is Donald Trump Facing a Court Case for Allegedly Raping a Teen in 1994?",
+          "reviewDate": "2020-10-14T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "YouTube is censoring videos about taking vitamin C and other natural supplements.",
+      "claimDate": "2020-11-29T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/is-youtube-censoring-videos-that",
+          "title": "Is YouTube Censoring Videos That Encourage People to Take Natural Supplements?",
+          "reviewDate": "2020-11-30T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "A missile, not an RV explosion, blew up the AT&T building in Nashville on Christmas Day.",
+      "claimDate": "2020-12-26T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/nashville-bomb-att-building-rv-explosion",
+          "title": "Did a Missile Blow Up the AT&T Building in Nashville?",
+          "reviewDate": "2020-12-30T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "The Maricopa County audit has yielded “hundreds of thousands” of new votes",
+      "claimDate": "2021-05-27T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/has-the-maricopa-county-audit-yielded",
+          "title": "Has the Maricopa County Audit Yielded Hundreds of Thousands of Votes?",
+          "reviewDate": "2021-05-06T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Trump Campaign Hired Gig Actors to Inflate the Attendance at His Tulsa Rally",
+      "claimant": "Jon Cooper",
+      "claimDate": "2020-06-22T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-the-trump-campaign-hire-gig-actors",
+          "title": "Did the Trump Campaign Hire Gig Actors to Inflate the Attendance at His Tulsa Rally?",
+          "reviewDate": "2020-06-26T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "60 Minutes Falsely Accused Mike Pompeo of Reviving a Debunked Theory About Coronavirus",
+      "claimant": "Kayleigh McEnany",
+      "claimDate": "2020-05-10T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-60-minutes-wrongly-accuse-mike",
+          "title": "Did 60 Minutes Wrongly Accuse Mike Pompeo of Reviving a Debunked Theory About Coronavirus?",
+          "reviewDate": "2020-05-12T00:00:00Z",
+          "textualRating": "Mixed.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Voting came to a \"screeching halt\" on Election Night",
+      "claimant": "Diamond and Silk",
+      "claimDate": "2020-11-29T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/fact-check-debunking-several-claims",
+          "title": "Fact Check: Debunking Several Claims by Diamond and Silk",
+          "reviewDate": "2020-11-30T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "If Donald Trump had implemented shutdowns a month earlier like Joe Biden suggested, we'd have fewer coronavirus deaths.",
+      "claimant": "Joe Biden",
+      "claimDate": "2020-06-01T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/was-joe-biden-warning-about-coronavirus",
+          "title": "Was Joe Biden Warning About Coronavirus Back in January?",
+          "reviewDate": "2020-06-02T00:00:00Z",
+          "textualRating": "Mixed: Biden warned about coronavirus in January but continued to hold rallies and other events until early March",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "A supercomputer called Hammer and a software program called Scorecard are being used by Democrats to steal the 2020 election for Joe Biden",
+      "claimant": "Sidney Powell",
+      "claimDate": "2020-11-07T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/fact-check-debunking-the-hammer-and",
+          "title": "Fact Check: Debunking the Hammer and Scorecard Conspiracy Theory",
+          "reviewDate": "2020-11-12T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "The Red Cross said that people who’ve been vaccinated cannot donate blood plasma.",
+      "claimDate": "2021-05-23T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-the-red-cross-say-people-cannot",
+          "title": "Did the Red Cross Say People Cannot Donate Blood Plasma After Being Vaccinated?",
+          "reviewDate": "2021-05-26T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Jeffrey Goldberg confessed that his article about Trump calling soliders \"losers\" and \"suckers\" could be false",
+      "claimant": "Rusty Weiss",
+      "claimDate": "2020-09-08T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-jeffrey-goldberg-confess-that",
+          "title": "Did Jeffrey Goldberg ‘Confess’ That His Atlantic Article About Trump Could Be False?",
+          "reviewDate": "2020-09-15T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Kayleigh McEnany presented Lesley Stahl with a blank binder instead of a binder full of Trump's health care plan.",
+      "claimant": "Sam Stein",
+      "claimDate": "2020-10-21T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-kayleigh-mcenany-give-lesley",
+          "title": "Did Kayleigh McEnany Give Lesley Stahl a ‘Binder of Blank Pages’?",
+          "reviewDate": "2020-10-30T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Antifa Members were \"confirmed\" to be at the Capitol riot",
+      "claimant": "Mark Finchem",
+      "claimDate": "2021-01-11T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/fact-check-an-arizona-state-rep-claims",
+          "title": "Fact Check: An Arizona State Rep Claims Antifa Members Were ‘Confirmed’ to be at the Capitol",
+          "reviewDate": "2021-01-12T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Dr. Fauci, Barack Obama, and Melinda Gates traveled to a lab in Wuhan in 2015",
+      "claimant": "Ted Nugent",
+      "claimDate": "2020-07-15T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-dr-fauci-melinda-gates-and-barack",
+          "title": "Did Dr. Fauci, Melinda Gates, and Barack Obama Visit a Wuhan Lab in 2015?",
+          "reviewDate": "2020-07-15T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Chelsea Clinton tweeted condemning Bill Gates for having an affair with a co-worker",
+      "claimDate": "2021-05-21T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-chelsea-clinton-tweet-about-bill",
+          "title": "Did Chelsea Clinton Tweet About Bill Gates’ Affair With a Microsoft Employee?",
+          "reviewDate": "2021-05-25T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Pfizer has recommended switching to a one-dose policy for its vaccine",
+      "claimDate": "2021-02-17T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/is-pfizer-recommending-a-switch-to",
+          "title": "Is Pfizer Recommending a Switch to a Single-Dose Policy?",
+          "reviewDate": "2021-02-22T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Mike Pence has the ability to decertify the electoral votes or reject slates of electors",
+      "claimant": "Donald Trump",
+      "claimDate": "2021-01-06T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/fact-checking-donald-trumps-speech",
+          "title": "Fact Checking Donald Trump’s Speech From the ‘Save America March’",
+          "reviewDate": "2021-01-07T00:00:00Z",
+          "textualRating": "false",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Trump wandered around aimlessly instead of boarding Marine One",
+      "claimDate": "2020-09-07T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/does-a-video-show-president-trump",
+          "title": "Does a Video Show President Trump Wandering Around Disoriented?",
+          "reviewDate": "2020-09-08T00:00:00Z",
+          "textualRating": "Misleading/cropped",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Rush Limbaugh was nominated for a Nobel Prize in 2007.",
+      "claimant": "Rush Limbaugh",
+      "claimDate": "2020-09-10T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/was-rush-limbaugh-a-nobel-peace-prize",
+          "title": "Was Rush Limbaugh a Nobel Peace Prize Nominee in 2007?",
+          "reviewDate": "2020-09-11T00:00:00Z",
+          "textualRating": "Partially false",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "The flu was abnormally high in December and January and the flu shot didn't work, a sign that COVID-19 was in the United States earlier.",
+      "claimant": "Lijian Zhao",
+      "claimDate": "2020-03-22T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/was-the-flu-abnormally-bad-during",
+          "title": "Was the Flu Abnormally Bad During December and January?",
+          "reviewDate": "2020-03-23T00:00:00Z",
+          "textualRating": "Despite anecdotal evidence, seasonal flu always peaks around December and January, and the flu shot is more effective than last year. Zhao is spouting propaganda.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Hillary Clinton illegally gave $700,000 to Andy McCabe and his wife for a political campaign while she was being investigated for her private email server",
+      "claimant": "Donald Trump",
+      "claimDate": "2020-09-12T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-hillary-clinton-give-andy-mccabes",
+          "title": "Did Hillary Clinton Give Andy McCabe’s Wife $700,000 for a Campaign?",
+          "reviewDate": "2020-09-14T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Aldi is not enforcing face-mask requirements.",
+      "claimDate": "2020-07-27T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/has-aldi-stopped-requiring-customers",
+          "title": "Has Aldi Stopped Requiring Customers to Wear Masks?",
+          "reviewDate": "2020-07-29T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Chris Wallace of Fox News once vacationed with Jeffrey Epstein",
+      "claimDate": "2020-09-30T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-chris-wallace-vacation-with-jeffrey",
+          "title": "Did Chris Wallace Vacation with Jeffrey Epstein?",
+          "reviewDate": "2020-10-05T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Donald Trump falsely claimed that World Health Organization took China at its word early in the coronavirus pandemic",
+      "claimant": "Ari Melber",
+      "claimDate": "2020-04-15T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-the-world-health-organization",
+          "title": "Did the World Health Organization 'Take China's Word' Early On in the Pandemic?",
+          "reviewDate": "2020-04-16T00:00:00Z",
+          "textualRating": "Mostly false.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Dr. Fauci disagreed with President Trump's decision to curtail travel from China early in the pandemic.",
+      "claimant": "Donald Trump",
+      "claimDate": "2020-05-14T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-dr-fauci-disagree-with-trumps",
+          "title": "Did Dr. Fauci Disagree With Trump’s Decision to Curtail Travel From China?",
+          "reviewDate": "2020-05-14T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Black Lives Matter is a 'shell company' for a Liberal Super PAC",
+      "claimant": "Candace Owens",
+      "claimDate": "2020-06-11T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/is-black-lives-matter-a-shell-company",
+          "title": "Is Black Lives Matter a ‘Shell Company’ for a Liberal Super PAC?",
+          "reviewDate": "2020-06-12T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "88 Percent of Intubated Coronavirus Patients in New York Have Died",
+      "claimDate": "2020-04-23T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/have-nearly-90-percent-of-intubated",
+          "title": "Have Nearly 90 Percent of Intubated Coronavirus Patients in New York Died?",
+          "reviewDate": "2020-04-27T00:00:00Z",
+          "textualRating": "Misleading headlines created confusion.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Alexandria Ocasio Cortez said the mob broke into her office on January 6",
+      "claimant": "https://twitter.com/donmoyn/status/1356434936014716932",
+      "claimDate": "2021-02-01T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/clearing-up-what-happened-to-ocasio",
+          "title": "Clearing Up What Happened to Ocasio-Cortez During the Storming of the Capitol",
+          "reviewDate": "2021-02-04T00:00:00Z",
+          "textualRating": "Missing context",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "MSNBC reported that the Democratic Party is interfering with the primaries to help Joe Biden",
+      "claimant": "Shaun King",
+      "claimDate": "2020-03-03T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-msnbc-report-that-the-democratic",
+          "title": "Did MSNBC Report That the Democratic Party ‘Interfered in the Primaries to Stop’ Sanders?",
+          "reviewDate": "2020-03-06T00:00:00Z",
+          "textualRating": "King's assertion is mixed. MSNBC did report that Democratic leaders did talk to Michael Bloomberg about stepping aside, but that is a common practice and does not amount to \"interference.\"",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Antifa supporters were among those who stormed the Capitol",
+      "claimant": "Lin Wood",
+      "claimDate": "2021-01-06T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/were-antifa-supporters-among-those",
+          "title": "Were Antifa Supporters Among Those Who Overtook the Capitol Building?",
+          "reviewDate": "2021-01-06T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "The Trump family \"partied\" in a \"secure bunker\" while protesters stormed the Capitol",
+      "claimDate": "2021-01-08T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-the-trump-family-party-while",
+          "title": "Did the Trump Family 'Party' While the Capitol Was Overtaken?",
+          "reviewDate": "2021-01-12T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Blacks account for 81 percent of the murders against white people in a given year",
+      "claimant": "Various",
+      "claimDate": "2001-07-06T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/what-are-the-real-stats-on-black",
+          "title": "What Are the Real Stats on Black vs. White Violence and Police Shootings?",
+          "reviewDate": "2020-07-14T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "There was foreign interference in the 2020 election",
+      "claimant": "Mike Lindell",
+      "claimDate": "2021-02-05T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/assessing-the-various-claims-in-mike",
+          "title": "Assessing the Various Claims in Mike Lindell’s ‘Absolute Proof’",
+          "reviewDate": "2021-02-16T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Has Donald Trump always known that coronavirus is a pandemic?",
+      "claimant": "Donald Trump",
+      "claimDate": "2020-03-17T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/has-donald-trump-always-known-coronavirus",
+          "title": "Has Donald Trump ‘Always Known’ Coronavirus ‘Is a Pandemic’?",
+          "reviewDate": "2020-03-18T00:00:00Z",
+          "textualRating": "Donald Trump repeatedly downplayed the threat of coronavirus. He is lying.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Dominion Voting Systems machines are connected to the Internet",
+      "claimant": "Mike Flynn",
+      "claimDate": "2021-04-20T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/fact-checking-mike-lindells-absolute",
+          "title": "Fact Checking Mike Lindell’s ‘Absolute Interference’ Video",
+          "reviewDate": "2021-05-10T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "An Italian lawmaker called for Bill Gates to be tried for “crimes against humanity”",
+      "claimant": "Gateway Pundit",
+      "claimDate": "2021-04-16T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-an-italian-lawmaker-call-for",
+          "title": "Did an Italian Lawmaker Call for Bill Gates to Face Trial for ‘Crimes Against Humanity’?",
+          "reviewDate": "2021-04-22T00:00:00Z",
+          "textualRating": "Missing context",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "mRNA vaccines like those from Pfizer and Moderna can alter your DNA",
+      "claimant": "The Defender",
+      "claimDate": "2021-04-08T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/could-the-mrna-vaccines-permanently",
+          "title": "Could the mRNA Vaccines Permanently Alter DNA?",
+          "reviewDate": "2021-04-22T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Donald Trump mocked \"I Can't Breathe\" at an Event",
+      "claimant": "Jon Cooper",
+      "claimDate": "2020-06-06T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-donald-trump-mock-i-cant-breathe",
+          "title": "Did Donald Trump Mock ‘I Can’t Breathe’?",
+          "reviewDate": "2020-06-07T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Steve Mnuchin Said Americans Can Live on $1,200 for 10 Weeks?",
+      "claimant": "Brianna Westbrook",
+      "claimDate": "2020-04-15T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-steve-mnuchin-say-americans-can",
+          "title": "Did Steve Mnuchin Say Americans Can Live on $1,200 for 10 Weeks?",
+          "reviewDate": "2020-04-18T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "A new bill would create a national gun registry",
+      "claimant": "Marjorie Taylor Greene",
+      "claimDate": "2021-03-08T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/would-a-new-gun-control-bill-create",
+          "title": "Would a New Gun Control Bill Create a National Registry?",
+          "reviewDate": "2021-03-22T00:00:00Z",
+          "textualRating": "misleading",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "The Maricopa County audit found more than 17,000 duplicate ballots",
+      "claimant": "Dr. Shiva Ayyadurai",
+      "claimDate": "2021-10-24T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-the-maricopa-county-audit-find",
+          "title": "Did the Maricopa County Audit Find 17,322 Duplicate Ballots?",
+          "reviewDate": "2021-10-04T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Dianne Feinstein's husband owns a share of Dominion Voting Systems",
+      "claimDate": "2020-11-06T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/fact-check-explaining-the-false-allegations",
+          "title": "Fact Check: Explaining the False Allegations About Dominion Voting Systems",
+          "reviewDate": "2020-11-10T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "RealClearPolitics called Pennsylvania for Biden and then rescinded it.",
+      "claimant": "Rudy Giuliani",
+      "claimDate": "2020-11-09T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-realclearpolitics-rescind-a-projection",
+          "title": "Did RealClearPolitics Rescind a Projection That Biden Won Pennsylvania?",
+          "reviewDate": "2020-11-10T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Pennsylvania had more votes than it did voters.",
+      "claimant": "Donald Trump",
+      "claimDate": "2021-01-06T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/fact-checking-donald-trumps-speech",
+          "title": "Fact Checking Donald Trump’s Speech From the ‘Save America March’",
+          "reviewDate": "2021-01-07T00:00:00Z",
+          "textualRating": "false",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "President Obama issued 18,000 pardons or commutations during his time in office.",
+      "claimant": "Joe Biden",
+      "claimDate": "2020-10-05T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-president-obama-issue-clemency",
+          "title": "Did President Obama Issue Clemency to 18,000 People?",
+          "reviewDate": "2020-10-07T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "You Tube removed a video touting a coronavirus treatment to make President Trump look bad",
+      "claimant": "John Roberts, Fox News correspondent",
+      "claimDate": "2020-04-24T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-youtube-remove-a-video-about",
+          "title": "Did YouTube Remove a Video About a Potential Coronavirus Treatment to Make Trump Look Bad?",
+          "reviewDate": "2020-04-28T00:00:00Z",
+          "textualRating": "False.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "There were big spikes in votes only for Biden on Election Night 2020",
+      "claimant": "Mike Lindell",
+      "claimDate": "2021-05-20T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/fact-checking-mike-lindells-absolute",
+          "title": "Fact Checking Mike Lindell’s ‘Absolute Interference’ Video",
+          "reviewDate": "2021-05-10T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Michigan found 138,339 votes and all of them went for Joe Biden",
+      "claimDate": "2020-11-04T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-michigan-magically-find-138339",
+          "title": "Did Michigan 'Magically' Find 138,339 Votes for Joe Biden?",
+          "reviewDate": "2020-11-04T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Joe Biden stumbled over his words while reciting the Pledge of Allegiance.",
+      "claimant": "Steve Guest",
+      "claimDate": "2020-09-21T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-joe-biden-garble-the-pledge-of",
+          "title": "Did Joe Biden Garble the Pledge of Allegiance?",
+          "reviewDate": "2020-09-23T00:00:00Z",
+          "textualRating": "false",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Someone from Nike said the business could afford to lose Trump-supporting customers",
+      "claimDate": "2020-09-08T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-someone-from-nike-say-the-company",
+          "title": "Did Someone From Nike Say the Company Can Afford to Lose ‘MAGA Customers’?",
+          "reviewDate": "2020-09-09T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Donald Trump owes money to the Bank of China",
+      "claimant": "Joe Biden",
+      "claimDate": "2020-04-27T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/does-trump-owe-millions-of-dollars",
+          "title": "Does Trump Owe Millions of Dollars to the Bank of China?",
+          "reviewDate": "2020-04-30T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Dominion Voting Systems contributed to election fraud in \"many states\"",
+      "claimant": "Donald Trump",
+      "claimDate": "2021-01-04T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/fact-checking-trumps-claims-from",
+          "title": "Fact Checking Trump’s Claims From His Call With Brad Raffensperger",
+          "reviewDate": "2021-01-04T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "The COVID vaccines are not FDA approved",
+      "claimant": "Eric Coyle",
+      "claimDate": "2021-04-10T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/are-the-covid-vaccines-experimental",
+          "title": "Are the COVID Vaccines Experimental? Did They Skip Animal Trials?",
+          "reviewDate": "2021-04-20T00:00:00Z",
+          "textualRating": "True",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Pennsylvania took votes from President Trump and gave them to Joe Biden",
+      "claimant": "Diamond and Silk",
+      "claimDate": "2020-11-29T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/fact-check-debunking-several-claims",
+          "title": "Fact Check: Debunking Several Claims by Diamond and Silk",
+          "reviewDate": "2020-11-30T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Twitter suspended the account of Aytu BioScience to make Trump look bad",
+      "claimant": "Josh Barnett",
+      "claimDate": "2020-04-26T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-youtube-remove-a-video-about",
+          "title": "Did YouTube Remove a Video About a Potential Coronavirus Treatment to Make Trump Look Bad?",
+          "reviewDate": "2020-04-28T00:00:00Z",
+          "textualRating": "false",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "A Pennsylvania poll worker claimed to be throwing away ballots for Donald Trump",
+      "claimant": "Sebastian Machado",
+      "claimDate": "2020-11-03T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-a-poll-worker-in-pennsylvania",
+          "reviewDate": "2020-11-03T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Donald Trump cut funding to the Centers for Disease Control and Prevention (CDC).",
+      "claimant": "Michael Bloomberg, Joe Biden, Hillary Clinton, Adam Schiff",
+      "claimDate": "2020-02-25T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-donald-trump-cut-the-cdc-budget",
+          "title": "Did Donald Trump Cut the CDC Budget? - by Alec Dent",
+          "reviewDate": "2020-03-10T00:00:00Z",
+          "textualRating": "Overall funding to the CDC has increased each year Donald Trump has been in office.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Congress gave members a $40,000 raise this year",
+      "claimDate": "2020-12-21T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-congress-give-itself-a-40000",
+          "title": "Did Congress Give Itself a $40,000 Raise? - by Alec Dent",
+          "reviewDate": "2020-12-28T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "The coronavirus will \"magically all of a sudden go away\" after the Nov. 3 election",
+      "claimant": "Eric Trump",
+      "claimDate": "2020-05-16T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/will-coronavirus-magically-all-of",
+          "title": "Will Coronavirus 'Magically All of a Sudden Go Away' After The Election?",
+          "reviewDate": "2020-05-19T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Joe Biden introduced a man in blackface as Michael Jackson at a dinner in 1987",
+      "claimDate": "2020-07-16T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-joe-biden-introduce-a-man-in",
+          "title": "Did Joe Biden Introduce a Man in Blackface Makeup as Michael Jackson?",
+          "reviewDate": "2020-07-17T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Refugees get more in monthly benefits than social security recipients.",
+      "claimant": "Charlie Kirk",
+      "claimDate": "2021-09-26T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/do-refugees-get-more-monthly-benefits",
+          "title": "Do Refugees Get More Monthly Benefits Than Social Security Recipients?",
+          "reviewDate": "2021-10-05T00:00:00Z",
+          "textualRating": "Mostly false",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "A facial recognition software company identified Antifa supporters at the Capitol Hill riots.",
+      "claimant": "The Washington Times",
+      "claimDate": "2021-01-06T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-a-facial-recognition-software",
+          "title": "Did a Facial Recognition Software Company Identify Antifa Members at the Capitol?",
+          "reviewDate": "2021-01-07T00:00:00Z",
+          "textualRating": "false",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Your ballot will be thrown out and not counted if it doesn't arrive by Election Day",
+      "claimant": "Elizabeth Gilbert",
+      "claimDate": "2020-10-28T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/will-your-ballot-be-thrown-out-if",
+          "title": "Will Your Ballot Be Thrown Out If It Arrives After Election Day?",
+          "reviewDate": "2020-10-30T00:00:00Z",
+          "textualRating": "Partly false.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Facebook has banned President Trump's campaign from advertising.",
+      "claimDate": "2020-08-09T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-facebook-ban-president-trumps",
+          "title": "Did Facebook Ban President Trump’s Campaign From Advertising?",
+          "reviewDate": "2020-08-25T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Donald Trump only asked Joe Biden for his list of Supreme Court picks after Ruth Bader Ginsberg died.",
+      "claimant": "Joe Biden",
+      "claimDate": "2020-09-20T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/how-long-has-donald-trump-been-calling",
+          "title": "How Long Has Donald Trump Been Calling on Biden to Name His Supreme Court List?",
+          "reviewDate": "2020-09-22T00:00:00Z",
+          "textualRating": "false",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "A photo depicts a Palestinian girl crying after a recent Israeli airstrike",
+      "claimDate": "2021-05-13T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/palestinian-girl-crying-2018-fact-check",
+          "title": "Does a Viral Photo Show a Young Palestinian Girl Crying After an Israeli Strike?",
+          "reviewDate": "2021-05-18T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "ABC News confirmed that guests at a White House event were paid $150 and had to sign NDAs",
+      "claimDate": "2020-10-12T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/were-guests-at-trumps-white-house",
+          "reviewDate": "2020-10-14T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Tom Hanks did not have coronavirus but was under house arrest for pedophilia in Australia",
+      "claimDate": "2020-07-20T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/was-tom-hanks-arrested-for-pedophilia",
+          "title": "Was Tom Hanks Arrested for Pedophilia in Australia?",
+          "reviewDate": "2020-07-28T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Joe Biden Said \"We cannot win this re-election. We can only re-elect Donald Trump.\"",
+      "claimant": "Dan Scavino",
+      "claimDate": "2020-03-08T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-joe-biden-really-say-we-can-only",
+          "title": "Did Joe Biden Really Say ‘We Can Only Re-Elect Donald Trump’?",
+          "reviewDate": "2020-03-09T00:00:00Z",
+          "textualRating": "The statement is false; the video of Biden saying this was edited deceptively.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "100,000 fake ballots driven from New York to Pennsylvania",
+      "claimant": "Mike LIndell",
+      "claimDate": "2021-02-05T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/assessing-the-various-claims-in-mike",
+          "title": "Assessing the Various Claims in Mike Lindell’s ‘Absolute Proof’",
+          "reviewDate": "2021-02-16T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Ben Shapiro Created a Fake Antifa Recruitment Site",
+      "claimDate": "2020-08-08T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-ben-shapiro-create-a-fake-antifa",
+          "title": "Did Ben Shapiro Create a Fake Antifa Recruitment Site?",
+          "reviewDate": "2020-08-11T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Twitter censored a video from Donald Trump's campaign",
+      "claimant": "Donald Trump",
+      "claimDate": "2020-06-04T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-twitter-censor-a-video-from-the",
+          "title": "Did Twitter Censor a Video From the Trump Campaign?",
+          "reviewDate": "2020-06-08T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "The 2020 election was stolen from Donald Trump",
+      "claimant": "Mike Lindell",
+      "claimDate": "2021-06-03T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/fact-checking-absolutely-9-0-the",
+          "title": "Fact Checking ‘Absolutely 9-0,’ the Latest Documentary From Mike Lindell",
+          "reviewDate": "2021-06-14T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Texas has reported no COVID deaths since March 2",
+      "claimant": "Lauren Boebert",
+      "claimDate": "2021-05-19T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/is-it-true-that-texas-has-reported",
+          "title": "Is It True That Texas Has Reported No COVID Deaths Since Lifting Pandemic Restrictions?",
+          "reviewDate": "2021-05-25T00:00:00Z",
+          "textualRating": "false",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "A photo depicts Nancy Pelosi as drunk.",
+      "claimDate": "2020-10-10T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/does-a-photo-depict-nancy-pelosi",
+          "title": "Does a Photo Depict Nancy Pelosi After a ‘Liquid Lunch’?",
+          "reviewDate": "2020-10-15T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Texas is ‘Completely Open’",
+      "claimant": "Elijah Schaffer",
+      "claimDate": "2021-04-19T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/is-texas-completely-open",
+          "title": "Is Texas ‘Completely Open’? - by Alec Dent",
+          "reviewDate": "2021-04-20T00:00:00Z",
+          "textualRating": "Mostly true",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "No COVID vaccine has completed initial research trials",
+      "claimant": "Eric Coyle",
+      "claimDate": "2021-04-10T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/are-the-covid-vaccines-experimental",
+          "title": "Are the COVID Vaccines Experimental? Did They Skip Animal Trials?",
+          "reviewDate": "2021-04-20T00:00:00Z",
+          "textualRating": "false",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Election servers in Maricopa County were “wiped” before an audit conducted by Cyber Ninjas.",
+      "claimant": "One American News Network",
+      "claimDate": "2021-09-25T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/was-the-maricopa-county-database",
+          "title": "Was the Maricopa County Database ‘Wiped’ Before the Cyber Ninjas Audit?",
+          "reviewDate": "2021-09-28T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Jim Jordan claims he never said the election was stolen.",
+      "claimant": "Jim Jordan",
+      "claimDate": "2021-01-12T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/fact-checking-jim-jordans-claim-that",
+          "title": "Fact Checking Jim Jordan’s Claim That He Never Said ‘The Election Was Stolen’",
+          "reviewDate": "2021-01-13T00:00:00Z",
+          "textualRating": "Mostly false.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "CBS News staged a fake coronavirus testing line at a Michigan hospital to make it look busy.",
+      "claimant": "James O'Keefe",
+      "claimDate": "2020-05-06T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-cbs-news-stage-a-fake-testing",
+          "title": "Did CBS News Stage a ‘Fake Testing Line’ at a Michigan Hospital?",
+          "reviewDate": "2020-05-07T00:00:00Z",
+          "textualRating": "Mixed.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "A YouTube series featuring Kamala Harris talking to kids about science uses paid child actors.",
+      "claimant": "Donald Trump Jr.",
+      "claimDate": "2021-10-12T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-kamala-harris-youtube-show-feature",
+          "title": "Did Kamala Harris’ YouTube Show Feature Child Actors?",
+          "reviewDate": "2021-10-13T00:00:00Z",
+          "textualRating": "True",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "38 Percent of Americans Will Not Buy Corona Beer Because of Corona Virus",
+      "claimant": "5WPR",
+      "claimDate": "2020-02-28T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/are-38-percent-of-americans-avoiding",
+          "title": "Are 38 Percent of Americans Avoiding Corona Beer Because of the Coronavirus?",
+          "reviewDate": "2020-02-28T00:00:00Z",
+          "textualRating": "A flawed survey is yielding misleading news stories.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Andrew Cuomo refused to buy 16,000 ventilators in 2015 for pandemic preparedness",
+      "claimant": "Donald Trump",
+      "claimDate": "2020-03-24T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-gov-cuomo-reject-a-recommendation",
+          "title": "Did Gov. Cuomo Reject a Recommendation in 2015 to Buy 16,000 Ventilators for a Possible Pandemic?",
+          "reviewDate": "2020-03-25T00:00:00Z",
+          "textualRating": "Mixed",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "There were 35,000 votes for Joe Biden already pre-set in the voting machines in Arizona",
+      "claimant": "Mike Flynn",
+      "claimDate": "2021-05-20T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/fact-checking-mike-lindells-absolute",
+          "title": "Fact Checking Mike Lindell’s ‘Absolute Interference’ Video",
+          "reviewDate": "2021-05-10T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Hillary Clinton's emails contained evidence that she participated in child sex trafficking.",
+      "claimDate": "2020-08-07T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-hillary-clintons-emails-include",
+          "title": "Did Hillary Clinton’s Emails Include Evidence of Child Sex Trafficking?",
+          "reviewDate": "2020-08-12T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "CBS used video from a Latinos for Trump event and said it was from a Biden event.",
+      "claimDate": "2020-09-16T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-cbs-conflate-a-latinos-for-trump",
+          "title": "Did CBS Conflate a Latinos for Trump Rally With a Biden Event?",
+          "reviewDate": "2020-09-17T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "The Original Aunt Jemima Model Was a Self-Made Millionaire Entrepreneur",
+      "claimant": "Various",
+      "claimDate": "2020-06-17T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/was-the-original-aunt-jemima-a-millionaire",
+          "title": "Was the Original ‘Aunt Jemima’ a Millionaire Entrepreneur?",
+          "reviewDate": "2020-06-23T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Suitcases full of 18,000 votes, all for Biden, were brought into a Georgia vote processing facility while workers were not present",
+      "claimant": "Donald Trump",
+      "claimDate": "2021-01-02T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/fact-checking-trumps-claims-from",
+          "title": "Fact Checking Trump’s Claims From His Call With Brad Raffensperger",
+          "reviewDate": "2021-01-04T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "The Washington Times ran a photo of \"President Gore\" after Election Day 2000",
+      "claimant": "Tim Murtaugh",
+      "claimDate": "2020-11-08T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-the-washington-times-run-a-president",
+          "title": "Did the Washington Times Run a ‘President Gore’ Cover the Day After the 2000 Election?",
+          "reviewDate": "2020-11-10T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "A lawsuit was filed to stop the Trump campaign rally in Tulsa this Saturday",
+      "claimant": "The Trump campaign",
+      "claimDate": "2020-06-17T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-radical-dems-sue-to-stop-trumps",
+          "title": "Did ‘Radical Dems’ Sue to Stop Trump’s Rally This Weekend?",
+          "reviewDate": "2020-06-18T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Teddy Roosevelt once said: “To anger a conservative, lie to him. To anger a liberal, tell him the truth.”",
+      "claimDate": "2020-07-21T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/is-a-viral-quote-about-liberals-and",
+          "title": "Is a Viral Quote About Liberals and Conservatives Attributable to Teddy Roosevelt?",
+          "reviewDate": "2020-07-23T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "The antibody cocktail that Donald Trump received as part of his COVID treatment was created through research using embryonic stem cells",
+      "claimant": "Ted Lieu",
+      "claimDate": "2020-10-06T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/was-trumps-antibody-cocktail-created",
+          "title": "Was Trump’s Antibody Cocktail Created Through Research Using Embryonic Stem Cells?",
+          "reviewDate": "2020-10-07T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Arizona poll workers passed out Sharpie pends to voters to prevent their votes from registering",
+      "claimDate": "2020-11-03T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-arizona-poll-workers-give-out",
+          "title": "Did Arizona Poll Workers Give Out Sharpies To Prevent Votes From Being Registered?",
+          "reviewDate": "2020-11-04T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Alexandria Ocasio-Cortez Tweeted That We Must Keep the Economy Closed So Trump Will Lose",
+      "claimant": "Jessi Melton",
+      "claimDate": "2020-06-23T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-aoc-tweet-about-wanting-to-keep",
+          "title": "Did AOC Tweet About Wanting to Keep the Economy Closed to Hurt Trump?",
+          "reviewDate": "2020-06-25T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "The COVID vaccines are considered experimental",
+      "claimant": "Eric Coyle",
+      "claimDate": "2021-04-10T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/are-the-covid-vaccines-experimental",
+          "title": "Are the COVID Vaccines Experimental? Did They Skip Animal Trials?",
+          "reviewDate": "2021-04-20T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Anthony Fauci owns half the patent for Moderna",
+      "claimant": "Robert F. Kennedy Jr.",
+      "claimDate": "2020-08-23T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/does-anthony-fauci-own-half-the-patent",
+          "title": "Does Anthony Fauci Own ‘Half the Patent’ for Moderna’s COVID Vaccine?",
+          "reviewDate": "2020-08-07T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "President Trump and Colin Kaepernick got into a fight on Twitter",
+      "claimDate": "2020-09-08T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-donald-trump-and-colin-kaepernick",
+          "title": "Did Donald Trump and Colin Kaepernick Have a Twitter Spat?",
+          "reviewDate": "2020-09-09T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Xavier Becerra \"never sued any nuns\" as California attorney general.",
+      "claimant": "Xavier Becerra",
+      "claimDate": "2021-02-24T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/fact-checking-xavier-becerras-claim",
+          "title": "Fact Checking Xavier Becerra’s Claim That He ‘Never Sued Any Nuns’",
+          "reviewDate": "2021-02-26T00:00:00Z",
+          "textualRating": "Missing context",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "A tweet from the 60 Minutes account falsley accused Mike Pompeo of reviving a debunked conspiracy theory about coronavirus",
+      "claimDate": "2020-05-10T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-60-minutes-wrongly-accuse-mike",
+          "title": "Did 60 Minutes Wrongly Accuse Mike Pompeo of Reviving a Debunked Theory About Coronavirus?",
+          "reviewDate": "2020-05-12T00:00:00Z",
+          "textualRating": "True, the tweet was wrong.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "23,000 Maricopa County Ballots Came From Voters Using a Previous Address?",
+      "claimant": "Liz Harrington",
+      "claimDate": "2021-10-07T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-23000-maricopa-county-ballots",
+          "title": "Did 23,000 Maricopa County Ballots Come From Voters Using a Previous Address?",
+          "reviewDate": "2021-10-08T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "The CDC is creating camps for individuals at high-risk of complications from COVID-19.",
+      "claimant": "Candace Owens",
+      "claimDate": "2021-08-09T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/does-the-cdc-have-a-plan-to-put-high",
+          "title": "Does the CDC Have a Plan to Put High-Risk Individuals in Camps?",
+          "reviewDate": "2021-08-10T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Those who are vaccinated against COVID-19 will be injected with a microchip",
+      "claimDate": "2020-11-15T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/will-those-who-get-vaccinated-against",
+          "title": "Will Those Who Get Vaccinated Against COVID-19 Be Injected With a Microchip?",
+          "reviewDate": "2020-12-28T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Ron DeSantis was photographed holding up a T-shirt with an anti-mask message",
+      "claimant": "Joe Wauben",
+      "claimDate": "2021-08-08T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-ron-desantis-pose-holding-an",
+          "title": "Did Ron DeSantis Pose Holding an Anti-Mask T-Shirt?",
+          "reviewDate": "2021-08-11T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "The federal government is sending private security contractors into Portland.",
+      "claimDate": "2020-07-25T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/is-the-federal-government-sending",
+          "title": "Is the Federal Government Sending Private Security Forces into Portland?",
+          "reviewDate": "2020-07-28T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Fox News called Arizona for Joe Biden with Less Than 1 Percent of the Vote In",
+      "claimant": "Robert O’Neill",
+      "claimDate": "2021-10-07T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-fox-news-call-arizona-for-biden",
+          "title": "Did Fox News Call Arizona for Biden With ‘Less Than 1 Percent’ of the Vote In?",
+          "reviewDate": "2021-10-11T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "The U.S. is expelling most families attempting to cross the border.",
+      "claimant": "Joe Biden",
+      "claimDate": "2021-03-25T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/fact-checking-president-bidens-claims",
+          "title": "Fact Checking President Biden's Claims on Immigration",
+          "reviewDate": "2021-03-29T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Georgia rejected fewer mail-in ballots than usual this year",
+      "claimant": "Donald Trump",
+      "claimDate": "2020-11-19T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/fact-check-addressing-president-trumps",
+          "title": "Fact Check: Addressing President Trump’s Claims About Rejected Georgia Ballots",
+          "reviewDate": "2020-11-24T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "In Maricopa County, 296,589 ballots need investigating",
+      "claimant": "Mike Lindell",
+      "claimDate": "2021-02-05T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/assessing-the-various-claims-in-mike",
+          "title": "Assessing the Various Claims in Mike Lindell’s ‘Absolute Proof’",
+          "reviewDate": "2021-02-16T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "The postmaster general ordered works to \"slow down the mail.\"",
+      "claimDate": "2020-07-30T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-the-postmaster-general-order",
+          "title": "Did the Postmaster General Order Postal Workers to Slow Down the Mail?",
+          "reviewDate": "2020-08-04T00:00:00Z",
+          "textualRating": "Mostly false.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "The U.S. is expelling most migrants attempting to cross the border.",
+      "claimant": "Joe Biden",
+      "claimDate": "2021-03-25T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/fact-checking-president-bidens-claims",
+          "title": "Fact Checking President Biden's Claims on Immigration",
+          "reviewDate": "2021-03-29T00:00:00Z",
+          "textualRating": "True",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Kamala Harris framed and prosecuted a man for murder",
+      "claimDate": "2020-08-12T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-kamala-harris-frame-and-prosecute",
+          "title": "Did Kamala Harris Frame and Prosecute a Man for Murder?",
+          "reviewDate": "2020-08-14T00:00:00Z",
+          "textualRating": "Mostly false",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Kayleigh McEnany claimed that Obama promised a COVID vaccine",
+      "claimant": "Laurence Tribe",
+      "claimDate": "2020-09-08T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-kayleigh-mcenany-claim-obama",
+          "title": "Did Kayleigh McEnany Claim Obama Promised a COVID Vaccine?",
+          "reviewDate": "2020-09-11T00:00:00Z",
+          "textualRating": "false",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "More people will die in car crashes than Coronavirus",
+      "claimant": "Elon Musk",
+      "claimDate": "2020-03-13T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/will-more-people-die-in-car-crashes",
+          "title": "Will More People Die in Car Crashes This Year Than From Coronavirus?",
+          "reviewDate": "2020-03-16T00:00:00Z",
+          "textualRating": "The assertion cannot be judged on a true/false scale until we know more, but even conservative estimates indicate more people will die of coronavirus.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Donald Trump has a stake in a company that makes and sells hydroxycholorquine",
+      "claimant": "New York Times",
+      "claimDate": "2020-04-06T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/does-president-trump-have-an-interest",
+          "title": "Does President Trump Have an Interest in the Company That Makes Hydroxychloroquine?",
+          "reviewDate": "2020-04-08T00:00:00Z",
+          "textualRating": "President Trump does have investments in Sanofi, but the amount is not significant.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Georgia has no signature verification for mail-in ballots",
+      "claimant": "Donald Trump",
+      "claimDate": "2020-11-19T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/fact-check-addressing-president-trumps",
+          "title": "Fact Check: Addressing President Trump’s Claims About Rejected Georgia Ballots",
+          "reviewDate": "2020-11-24T00:00:00Z",
+          "textualRating": "false",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "White House press secretary Kayleigh McEnany falsely claimed that voter registration in Los Angeles County is at 112 percent",
+      "claimant": "Washington Post",
+      "claimDate": "2020-05-28T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/is-voter-registration-in-los-angeles",
+          "title": "Is Voter Registration in Los Angeles County at 112 Percent?",
+          "reviewDate": "2020-06-01T00:00:00Z",
+          "textualRating": "Mixed",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "The address on SpongeBob SquarePants' driver's license is the same as Jeffrey Epstein's compound in the Virgin Islans.",
+      "claimDate": "2020-07-22T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/is-there-a-connection-between-jeffrey",
+          "title": "Is There a Connection Between Jeffrey Epstein and … SpongeBob SquarePants?",
+          "reviewDate": "2020-07-23T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Bill Gates Tested Unapproved Vaccines on Children in Africa?",
+      "claimant": "Candace Owens",
+      "claimDate": "2020-04-15T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-bill-gates-test-unapproved-vaccines",
+          "title": "Did Bill Gates Test Unapproved Vaccines on Children in Africa?",
+          "reviewDate": "2020-04-22T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "The U.S. National Institute of Allergy and Infectious Diseases did not fund research at the Wuhan Institute of Virology",
+      "claimant": "Anthony Fauci",
+      "claimDate": "2021-05-11T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/fauci-paul-niaid-research-funding",
+          "title": "Did the NIAID Fund Research at the Wuhan Institute of Virology?",
+          "reviewDate": "2021-05-17T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "A judge who reversed an order in Georgia to impound and preserve voting machines is \"in someone's back pocket\"",
+      "claimant": "David Harris Jr.",
+      "claimDate": "2020-11-30T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/why-did-a-georgia-judge-reverse-an",
+          "title": "Why Did a Georgia Judge Reverse an Order to Impound and Preserve Voting Machines?",
+          "reviewDate": "2020-12-01T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Joe Biden's DNC speech was recorded, not aired live",
+      "claimant": "Rush Limbaugh",
+      "claimDate": "2020-08-21T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/was-joe-bidens-speech-recorded-rather",
+          "title": "Was Joe Biden’s Speech Recorded Rather Than Delivered Live?",
+          "reviewDate": "2020-08-24T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Sometimes 100,000 people or more die from the seasonal flu",
+      "claimant": "Donald Trump",
+      "claimDate": "2020-10-06T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/do-flu-deaths-ever-top-100000",
+          "title": "Do Flu Deaths Ever Top 100,000? - by Khaya Himmelman",
+          "reviewDate": "2020-10-06T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "2010 national census data was used to manipulate the 2020 election rolls and to inject phantom votes into the election totals",
+      "claimant": "Dr. Douglas G. Fran",
+      "claimDate": "2021-05-20T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/fact-checking-mike-lindells-absolute",
+          "title": "Fact Checking Mike Lindell’s ‘Absolute Interference’ Video",
+          "reviewDate": "2021-05-10T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Doctors are profiting by declaring \"everybody dies of COVID\"",
+      "claimant": "Donald Trump",
+      "claimDate": "2020-10-30T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/are-doctors-profiting-by-reporting",
+          "title": "Are Doctors Profiting by Reporting That 'Everybody Dies of COVID'?",
+          "reviewDate": "2020-11-03T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "The New York Times Published Tucker Carlson's Home Address",
+      "claimDate": "2020-07-20T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-the-new-york-times-publish-tucker",
+          "title": "Did the New York Times Publish Tucker Carlson’s Address?",
+          "reviewDate": "2020-07-22T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Vice President Mike Pence has the power to decertify the electoral votes in a joint session of Congress.",
+      "claimant": "Donald Trump",
+      "claimDate": "2021-01-05T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/does-mike-pence-have-the-power-to",
+          "title": "Does Mike Pence Have the Power to Reject Slates of Electors?",
+          "reviewDate": "2021-01-06T00:00:00Z",
+          "textualRating": "false",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Black Lives Matter is taking donations from China and sending the money to the Democratic Party",
+      "claimant": "Herschel Walker",
+      "claimDate": "2020-09-21T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/is-blm-funneling-money-from-china",
+          "title": "Is BLM Funneling Money From China to the Democrats?",
+          "reviewDate": "2020-09-24T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Anti-Trump postal workers threw away ballots in Luzerne County, Pennsylvania",
+      "claimant": "Diamond and Silk",
+      "claimDate": "2020-09-29T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-mail-carriers-discard-the-pennsylvania",
+          "title": "Did Mail Carriers Discard the Pennsylvania Ballots Subject to FBI and DoJ Investigation?",
+          "reviewDate": "2020-09-30T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "The U.S. has reduced carbon dioxide emissions more than the countries who signed the Paris Climate Agreement",
+      "claimant": "Mike Pence",
+      "claimDate": "2020-10-07T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/has-the-us-reduced-carbon-dioxide",
+          "title": "Has the U.S. Reduced Carbon Dioxide Emissions More Than Countries Who Are in the Paris Climate Agreement?",
+          "reviewDate": "2020-10-09T00:00:00Z",
+          "textualRating": "partially false",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "President Trump suspended all travel from China",
+      "claimant": "Donald Trump and Mike Pence",
+      "claimDate": "2020-03-04T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-president-trump-ban-travel-to",
+          "title": "Did President Trump Ban Travel to the United States from China?",
+          "reviewDate": "2020-04-02T00:00:00Z",
+          "textualRating": "Trump has restricted travel from China, but he has not shut it down or implemented a travel ban.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Democrats are committing voter fraud by manipulating Dominion Voting Systems software",
+      "claimant": "Sidney Powell",
+      "claimDate": "2020-11-09T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/fact-check-explaining-the-false-allegations",
+          "title": "Fact Check: Explaining the False Allegations About Dominion Voting Systems",
+          "reviewDate": "2020-11-10T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "The Democrats took the word GOD out of the Pledge of Allegiance",
+      "claimant": "Donald Trump",
+      "claimDate": "2020-08-22T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-democrats-remove-under-god-from",
+          "title": "Did Democrats Remove ‘Under God’ From the Pledge of Allegiance at the DNC?",
+          "reviewDate": "2020-08-24T00:00:00Z",
+          "textualRating": "Partially false",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Mike Pence carried empty boxes of PPE into a medical facility as a publicity stunt.",
+      "claimant": "Jimmy Kimmel",
+      "claimDate": "2020-05-08T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-mike-pence-carry-empty-boxes",
+          "title": "Did Mike Pence Carry Empty Boxes of PPE Into a Facility as a Publicity Stunt?",
+          "reviewDate": "2020-05-08T00:00:00Z",
+          "textualRating": "False.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "President Trump's Nobel Peace Prize nomination was forged",
+      "claimDate": "2020-09-11T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/was-president-trumps-nobel-peace",
+          "title": "Was President Trump’s Nobel Peace Prize Nomination Forged?",
+          "reviewDate": "2020-09-14T00:00:00Z",
+          "textualRating": "Partially false",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Joe Biden confused Donald Trump with Abraham Lincoln",
+      "claimDate": "2020-10-22T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-joe-biden-really-confuse-donald",
+          "title": "Did Joe Biden Really Confuse Donald Trump With Abraham Lincoln?",
+          "reviewDate": "2020-10-28T00:00:00Z",
+          "textualRating": "Missing context",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Donald Trump won the election",
+      "claimant": "Donald Trump",
+      "claimDate": "2021-01-06T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/fact-checking-donald-trumps-speech",
+          "title": "Fact Checking Donald Trump’s Speech From the ‘Save America March’",
+          "reviewDate": "2021-01-07T00:00:00Z",
+          "textualRating": "false",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Donald Trump won Georgia.",
+      "claimant": "Donald Trump",
+      "claimDate": "2021-01-02T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/fact-checking-trumps-claims-from",
+          "title": "Fact Checking Trump’s Claims From His Call With Brad Raffensperger",
+          "reviewDate": "2021-01-04T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Joe Biden's great-grandfather was the first Irish Catholic State Senator in Pennsylvania",
+      "claimant": "Joe Biden",
+      "claimDate": "2020-10-10T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/is-joe-biden-descended-from-the-first",
+          "title": "Is Joe Biden Descended From the First Irish-Catholic State Senator in Pennsylvania?",
+          "reviewDate": "2020-10-12T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Ronald Reagan said that Democrats would restrict freedoms to protect \"professional victims\"",
+      "claimDate": "2020-07-18T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-ronald-reagan-warn-that-democrats",
+          "title": "Did Reagan Say Dems Would ‘Restrict Your Freedoms … in the Name of Professional Victims’?",
+          "reviewDate": "2020-07-20T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Eric Trump was taken out of context when he said the virus would magically disappear",
+      "claimant": "Tim Murtagh",
+      "claimDate": "2020-05-17T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/will-coronavirus-magically-all-of",
+          "title": "Will Coronavirus 'Magically All of a Sudden Go Away' After The Election?",
+          "reviewDate": "2020-05-19T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Joe Biden couldn't possibly have gotten 80 million votes or more",
+      "claimant": "Donald Trump",
+      "claimDate": "2021-01-06T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/fact-checking-donald-trumps-speech",
+          "title": "Fact Checking Donald Trump’s Speech From the ‘Save America March’",
+          "reviewDate": "2021-01-07T00:00:00Z",
+          "textualRating": "false",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Justice Alito can overturn decisions by the 3rd Circuit Court of Appeals",
+      "claimant": "CleanTV",
+      "claimDate": "2020-11-24T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/can-justice-alito-overturn-pennsylvania",
+          "title": "Can Justice Alito Overturn Pennsylvania Supreme Court Decisions By Himself?",
+          "reviewDate": "2020-11-30T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Antifa led the riots on Capito Hill",
+      "claimant": "Sarah Palin",
+      "claimDate": "2021-01-06T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/debunking-the-conspiracy-theories",
+          "title": "Debunking the Conspiracy Theories Claiming That Antifa Led the Attack on the Capitol",
+          "reviewDate": "2021-01-08T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Amy Coney Barrett wants to end the separation of church and state.",
+      "claimant": "Bryan Dawson",
+      "claimDate": "2020-09-21T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/does-amy-coney-barrett-want-to-end",
+          "title": "Does Amy Coney Barrett Want to ‘End the Separation of Church and State’?",
+          "reviewDate": "2020-09-24T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Angry Bernie Sanders supporters on social media may be Russian bots.",
+      "claimant": "Bernie sanders",
+      "claimDate": "2020-02-03T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/is-russia-behind-the-angry-bernie",
+          "title": "Is Russia Behind the ‘Angry Bernie Bro’ Narrative?",
+          "reviewDate": "2020-02-22T00:00:00Z",
+          "textualRating": "Russia may very well be interfering in Sanders’ campaign, but to blame all hostility on a foreign adversary leaves out important information.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "A nurse fainted as a side effect from taking the COVID vaccine",
+      "claimDate": "2020-12-18T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-the-covid-vaccine-cause-a-nurse",
+          "title": "Did the COVID Vaccine Cause a Nurse to Faint?",
+          "reviewDate": "2020-12-24T00:00:00Z",
+          "textualRating": "Missing context",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "The Biden Administration Issued a ‘Gag Order’ on Border Guards",
+      "claimDate": "2021-03-23T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/has-the-biden-administration-issued",
+          "title": "Has the Biden Administration Issued a ‘Gag Order’ on Border Guards?",
+          "reviewDate": "2021-03-25T00:00:00Z",
+          "textualRating": "Mostly true",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "The Trump administration eliminated funding for community policing.",
+      "claimant": "Joe Biden",
+      "claimDate": "2001-10-15T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-the-trump-administration-eliminate",
+          "title": "Did the Trump Administration Eliminate Funding for Community Policing?",
+          "reviewDate": "2020-10-20T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Kamala Harris's husband referred to her as the \"next President of the United States\"",
+      "claimDate": "2020-10-21T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-kamala-harriss-husband-say-hes",
+          "title": "Did Kamala Harris's Husband Say He's 'Married to the Next President of the United States'?",
+          "reviewDate": "2020-10-24T00:00:00Z",
+          "textualRating": "Missing context",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Two Democratic senators vote more with Republicans than Democrats.",
+      "claimant": "Joe Biden",
+      "claimDate": "2021-06-01T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/do-two-democratic-senators-vote-more",
+          "title": "Do Two Democratic Senators ‘Vote More’ With Republicans?",
+          "reviewDate": "2021-06-02T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Dominion Voting Systems, and similar voting technology, switched votes from Trump to Joe Biden",
+      "claimant": "Mike Lindell",
+      "claimDate": "2021-02-05T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/assessing-the-various-claims-in-mike",
+          "title": "Assessing the Various Claims in Mike Lindell’s ‘Absolute Proof’",
+          "reviewDate": "2021-02-16T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "The NFL is giving $250 million to Black Lives Matter",
+      "claimDate": "2020-07-21T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/is-the-nfl-donating-250-million-to",
+          "title": "Is the NFL Donating $250 Million to Black Lives Matter?",
+          "reviewDate": "2020-07-29T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Kamala Harris is listed as 'Caucasian' on her birth certificate.",
+      "claimDate": "2020-08-12T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/is-kamala-harris-described-as-caucasian",
+          "title": "Is Kamala Harris Described as ‘Caucasian’ on Her Birth Certificate?",
+          "reviewDate": "2020-08-17T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Tickets are on sale for Donald Trump’s second inauguration",
+      "claimDate": "2021-06-13T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/are-tickets-available-for-a-second",
+          "title": "Are Tickets Available for a Second Inauguration of Donald Trump?",
+          "reviewDate": "2021-06-15T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Joe Biden has refused to denounce violent protests and looting in Kenosha and elsewhere",
+      "claimant": "Josh Hawley",
+      "claimDate": "2020-08-26T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/has-joe-biden-failed-to-condemn-violent",
+          "title": "Has Joe Biden Failed to Condemn Violent Protests and Looting?",
+          "reviewDate": "2020-08-27T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Amy Coney Barrett is an originalist, so she follows the laws as they were when the country was founded, including the Three-Fifths compromise.",
+      "claimDate": "2020-10-26T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/does-originalism-mean-adhering-to",
+          "title": "Does ‘Originalism’ Mean Adhering to the Three-Fifths Compromise?",
+          "reviewDate": "2020-10-30T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Donald Trump holds patents in China",
+      "claimant": "Joe Biden",
+      "claimDate": "2020-04-27T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/does-trump-owe-millions-of-dollars",
+          "title": "Does Trump Owe Millions of Dollars to the Bank of China?",
+          "reviewDate": "2020-04-30T00:00:00Z",
+          "textualRating": "Mixed: Donald Trump has intellectual property registered in china, but it's trademarks, not patents.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "The COVID vaccines skipped animal trials",
+      "claimDate": "2021-04-10T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/are-the-covid-vaccines-experimental",
+          "title": "Are the COVID Vaccines Experimental? Did They Skip Animal Trials?",
+          "reviewDate": "2021-04-20T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Antifa members bused to the Capitol for a false-flag operation",
+      "claimant": "Paul Sperry",
+      "claimDate": "2021-01-06T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/debunking-the-conspiracy-theories",
+          "title": "Debunking the Conspiracy Theories Claiming That Antifa Led the Attack on the Capitol",
+          "reviewDate": "2021-01-08T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Those who sued over the Trump rally were \"radical Democrats.\"",
+      "claimant": "https://twitter.com/TeamTrump/status/1273258558180728834",
+      "claimDate": "2020-06-17T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The Dispatch Fact Check",
+            "site": "factcheck.thedispatch.com"
+          },
+          "url": "https://factcheck.thedispatch.com/p/did-radical-dems-sue-to-stop-trumps",
+          "title": "Did ‘Radical Dems’ Sue to Stop Trump’s Rally This Weekend?",
+          "reviewDate": "2020-06-18T00:00:00Z",
+          "textualRating": "There is no evidence to support this claim.",
+          "languageCode": "en"
+        }
+      ]
+    }
+  ]
+}
+
