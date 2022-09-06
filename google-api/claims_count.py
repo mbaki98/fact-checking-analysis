@@ -1,7 +1,7 @@
 """
 Counts the number of claims in the given json file
 """
-
+import csv
 import json
 import os
 from util.claimant_categoriser import return_category, get_politician_list
@@ -17,6 +17,7 @@ def count_multiple_json():
 # counts claims not separate fact checks
 def count_all_claims():
     directory = 'data'
+    total_claims = 0
     for filename in os.listdir(directory):
         file = os.path.join(directory, filename)
         # checking if it is a file and excluding initial file
@@ -27,6 +28,9 @@ def count_all_claims():
 
         data = json.load(f)
         print(f'Number of claims in {filename}: {len(data["claims"])}')
+        total_claims += len(data["claims"])
+
+    print(f'Total claims is: {total_claims}')
 
 
 def count_by_region():
@@ -118,6 +122,25 @@ def count_claimants(politicians: set):
 
     print(f'Claimants appearing less than 50 times: {other}')
 
+
+def write_to_csv(header, file, data):
+    # header = ['claimant', 'count']
+    # file = 'data/extra/claimants.csv'
+    with open(file, 'w', encoding='UTF8', newline='') as f:
+        writer = csv.writer(f)
+        # write the header
+        writer.writerow(header)
+
+        other = 0
+        for claimant, count in data.items():
+            if count < 50:
+                other += 1
+            else:
+                print(f'{claimant}: {count}')
+                writer.writerow([claimant, count])
+
+        writer.writerow(['other', other])
+    print(f'Claimants appearing less than 50 times: {other}')
 
 
 def main():
