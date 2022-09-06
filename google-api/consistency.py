@@ -39,7 +39,7 @@ def create_fact_check_list(data):
 
 
 # Analysing consistency
-def create_consistency_dict(claim_dict):
+def create_consistency_dict(claim_dict: dict):
     consistency_dict = {}
     for key in claim_dict.keys():
         for claim in claim_dict[key]:
