@@ -68,7 +68,7 @@ def rating_scale():
             ratings_to_delete = []
             other = 0
             for rating, frequency in frequencies.items():
-                if frequency < 5:
+                if frequency < 50:
                     other += frequency
                     ratings_to_delete.append(rating)
             frequencies['other'] = other
@@ -77,7 +77,7 @@ def rating_scale():
 
         # pprint(frequency_dict)
 
-        # write_to_csv(filename, frequency_dict)
+        write_to_csv(filename, frequency_dict)
         website_ratings_frequency[filename[:-5]] = frequency_dict
 
     return website_ratings_frequency
@@ -93,6 +93,7 @@ def plot_results(frequency_dict: dict):
         plt.show()
 
 
+# write each website and its ratings into separate csv files
 def write_to_csv(filename, frequency_dict: dict):
     csv_columns = ['Year', 'Rating', 'Frequency']
 
@@ -108,7 +109,7 @@ def write_to_csv(filename, frequency_dict: dict):
         print("I/O error")
 
 
-# convert the structure, instead of having the year as key and frequency as value {2020: 150}, have a year key and frequency key {year: 2020, frequency: 150}
+# write all the websites and their ratings and their frequencies into one massive csv file
 def write_all_ratings_to_csv(website_ratings_frequency: dict):
     csv_columns = ['Website', 'Year', 'Rating', 'Frequency']
     csv_file = f"frequency-csv/rating_scales.csv"
@@ -137,7 +138,6 @@ def convert_website_ratings_frequency_to_csv(website_ratings_frequency: dict):
 def main():
     website_ratings_frequency = rating_scale()
     write_all_ratings_to_csv(website_ratings_frequency)
-    # convert_website_ratings_frequency_to_csv(website_ratings_frequency)
 
 
 if __name__ == "__main__":
