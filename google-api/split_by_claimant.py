@@ -1,7 +1,7 @@
 import json
 import csv
 
-with open('./data/politifact.json', 'r', encoding="utf8") as f:  # load json file
+with open('./multiple.json', 'r', encoding="utf8") as f:  # load json file
     data = json.load(f)
 
 claims = data['claims']  # get all the claims
@@ -20,17 +20,17 @@ for claim in claims:
             all_ratings[claim['claimReview'][0]['textualRating']] += 1
         else:
             all_ratings[claim['claimReview'][0]['textualRating']] = 1
-with open('noMultipleEntireFile.csv', 'w', newline='') as f:
-    writer = csv.writer(f)
-    writer.writerow(['Textual Rating', 'Percentage'])
-    for rating in all_ratings.keys():
-        row = []
-        row.append(rating)
-        total_rating_sum = sum(list(all_ratings.values()))
-        perc = (all_ratings[rating]/total_rating_sum)*100
-        perc = round(perc, 2)
-        row.append(str(perc))
-        writer.writerow(row)
+# with open('data_split_by_claimant_&_ratings/afp_ratings_&_percentages.csv', 'w', newline='') as f:
+#     writer = csv.writer(f)
+#     writer.writerow(['Textual Rating', 'Percentage'])
+#     for rating in all_ratings.keys():
+#         row = []
+#         row.append(rating)
+#         total_rating_sum = sum(list(all_ratings.values()))
+#         perc = (all_ratings[rating]/total_rating_sum)*100
+#         perc = round(perc, 2)
+#         row.append(str(perc))
+#         writer.writerow(row)
 
 
 # get all the unique claimants
@@ -57,19 +57,19 @@ for claimant in claimants:
                                                [0]['textualRating']] = 1
 
 # saving data to a csv file
-with open('noMultiple.csv', 'w', newline='') as file:
-    writer = csv.writer(file)
-    writer.writerow(['Claimant', 'Total no. of entries' 'Rating 1', 'Rating 2', 'Rating 3', 'Rating 4', 'Rating 5', 'Rating 6',
-                    'Rating 7', 'Rating 8', 'Rating 9', 'Rating 10'])
-    for claimant in ratings_with_frq.keys():
-        row = []
-        row.append(claimant)
-        total_rating_sum = sum(list(ratings_with_frq[claimant].values()))
-        row.append(str(total_rating_sum))
-        for rating in ratings_with_frq[claimant].keys():
-            perc = ((ratings_with_frq[claimant]
-                    [rating])/(total_rating_sum))*100
-            perc = round(perc, 2)
-            row.append(rating+"( "+str(perc)+"% )")
-        writer.writerow(row)
-    print('Data saved to file')
+# with open('data_split_by_claimant_&_ratings/afp_claimants_info.csv', 'w', newline='') as file:
+#     writer = csv.writer(file)
+#     writer.writerow(['Claimant', 'Total no. of entries' 'Rating 1', 'Rating 2', 'Rating 3', 'Rating 4', 'Rating 5', 'Rating 6',
+#                     'Rating 7', 'Rating 8', 'Rating 9', 'Rating 10'])
+#     for claimant in ratings_with_frq.keys():
+#         row = []
+#         row.append(claimant)
+#         total_rating_sum = sum(list(ratings_with_frq[claimant].values()))
+#         row.append(str(total_rating_sum))
+#         for rating in ratings_with_frq[claimant].keys():
+#             perc = ((ratings_with_frq[claimant]
+#                     [rating])/(total_rating_sum))*100
+#             perc = round(perc, 2)
+#             row.append(rating+"( "+str(perc)+"% )")
+#         writer.writerow(row)
+#     print('Data saved to file')

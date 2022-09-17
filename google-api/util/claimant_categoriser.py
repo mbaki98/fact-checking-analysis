@@ -1,9 +1,10 @@
 import csv
-
+import re
+import validators
 
 def return_category(claim: str, politicians: set, full):
     claim = claim.lower()
-    social_media = ['social media', 'facebook', 'twitter', 'instagram', 'tweet']
+    social_media = ['social media', 'facebook', 'twitter', 'instagram', 'tweet', 'fb', 'tweet', 'social', '']
     multiple_source = ['mutliple sources', 'multiple resources', 'multiples sources', 'various sources',
                        'sources multiples', 'multiple people', 'multiple source', 'multiple', 'several', 'مصادر عدّة', 'عدة مصادر', 'مصادر عدة', 'أطراف عدّة']
     youtube = ['youtube', 'youtu']
