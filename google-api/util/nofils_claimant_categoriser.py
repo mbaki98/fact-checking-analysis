@@ -1,6 +1,7 @@
 import csv
 
-def return_category(claim: str, politicians: set, full):
+
+def return_category(claim: str):
     claim = claim.lower()
     social_media = ['social media', 'facebook', 'twitter', 'instagram', 'tweet', 'fb', 'tweet', 'social', 'tiktok.com',
                     'tiktok', 'i.imgur.com']
@@ -22,7 +23,7 @@ def return_category(claim: str, politicians: set, full):
                   'dailyexpose.co.uk', 'bbc news', 'trend news', 'africanews', 'worldnewsdailyreport.com',
                   'worldgreynews.com', 'worldnewsdailyreport', 'world grey news', 'westernjournal.com', 'the mirror',
                   'the herald', 'the daily telegraph', 'skyline news', 'sky news kenya', 'naturalnews.com', 'daily mirror', 'theexpose.uk', 'natural news', 'mail online']
-
+    pol_info = get_politician_list()
     # returns true if claim contains any elements from list social media
     if [element for element in social_media if (element in claim)]:
         return 'social media'
@@ -36,12 +37,18 @@ def return_category(claim: str, politicians: set, full):
         return 'donald trump'
     if [element for element in biden if (element in claim)]:
         return 'joe biden'
-    if [element for element in politicians if (element in claim)]:
-        return 'US politicians'
+    # if [element for element in pol_info.keys() if (element in claim)]:
+    #     return 'US politicians - '
     if [element for element in news_sites if (element in claim)]:
         return 'news site'
-    else:
-        return claim
+
+    for key, value in pol_info.items():
+        if key in claim:
+            # print('key: '+key)
+            # print('claim: '+claim)
+            return 'US politician - ' + value
+
+    return claim
 
 
 def get_politician_list():
@@ -49,8 +56,16 @@ def get_politician_list():
         reader = csv.reader(f)
         data = list(reader)
 
-    name_list = []
+    name_list = {}
     for politician in data:
-        name_list.append(politician[0].lower())
+        name_list[politician[0].lower()] = politician[9].lower()
+        # name_list.append(tuple([politician[0].lower(), politician[9].lower()]))
 
-    return set(name_list)
+    # print(name_list)
+    # for key, value in name_list.items():
+    #     print(key)
+    #     if (value == 'democratic party'):
+    #         print('dem dog')
+    #     else:
+    #         print('repub pig')
+    return name_list

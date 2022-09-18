@@ -2,7 +2,7 @@ import json
 import os
 from pprint import pprint
 from collections import defaultdict, Counter
-from util.claimant_categoriser import return_category, get_politician_list
+from util.nofils_claimant_categoriser import return_category, get_politician_list
 import operator
 
 
@@ -41,7 +41,7 @@ def split_by_year_v2(data, year_dict, politicians: set):
             continue  # skip this one, move to next claim
 
         claimant = claimant.lower()
-        claimant = return_category(claimant, politicians, claim)
+        claimant = return_category(claimant)
 
         for review in claim['claimReview']:
             if 'reviewDate' in review.keys():
@@ -191,10 +191,6 @@ def main():
         data = json.load(f)
         year_dict = split_by_year_v2(data, year_dict, politicians)
 
-    # sorted_x = sorted(x.items(), key=operator.itemgetter(1))
-    # sorted_dc = sorted(year_dict.items(), key=operator.itemgetter(1))
-    # dict(sorted(x.items(), key=lambda item: item[1]))
-    # year_dict = dict(sorted(year_dict.items(), key=lambda item: item[1]))
     pprint(year_dict)
     print('counter: ', counter)
 
