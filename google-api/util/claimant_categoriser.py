@@ -1,16 +1,16 @@
 import csv
 import re
-import validators
 
 def return_category(claim: str, politicians: set, full):
     claim = claim.lower()
-    social_media = ['social media', 'facebook', 'twitter', 'instagram', 'tweet', 'fb', 'tweet', 'social', '']
+    social_media = ['social media', 'facebook', 'twitter', 'instagram', 'tweet', 'fb', 'tweet', 'social', 'tiktok.com', 'tiktok', 'i.imgur.com']
     multiple_source = ['mutliple sources', 'multiple resources', 'multiples sources', 'various sources',
                        'sources multiples', 'multiple people', 'multiple source', 'multiple', 'several', 'مصادر عدّة', 'عدة مصادر', 'مصادر عدة', 'أطراف عدّة']
     youtube = ['youtube', 'youtu']
     whatsapp = ['whatsapp']
-    trump = ['donald trump', 'donald j trump', 'donald j. trump']
-    biden = ['joe biden']
+    trump = ['donald trump', 'donald j trump', 'donald j. trump', 'trump white house', 'trump campaign', 'donaldjtrump.com', 'team trump', 'the trump campaign', 'newsdonaldtrumps.com', 'president trumps lawyers', 'truetrumpers.com']
+    biden = ['joe biden', 'biden']
+    news_sites = ['Realrawnews.com', 'duffelblog.com','southendnewsnetwork.net','your news wire','yournewswire.com', 'huzlers.com', 'the times', 'boom','Dailyexpose.Uk', 'the expose', 'thegatewaypundit.com', 'rumble.com', 'daily express', 'bitchute.com', 'real raw news', 'the telegraph', 'the guardian', 'beforeitsnews.com', 'redvoicemedia.com', 'daily mail', 'the sun', 'the gateway pundit', 'tvc news', 'the daily expose', 'daily expose', 'bestnewshere.com', 'sky news', 'the africa report', 'thetruereporter.com', 'the independent', 'daily telegraph', 'daily mail', 'infowars', 'infowars.com', 'dailyexpose.co.uk', 'bbc news', 'trend news','africanews', 'worldnewsdailyreport.com', 'worldgreynews.com', 'worldnewsdailyreport', 'world grey news', 'westernjournal.com', 'the mirror', 'the herald', 'the daily telegraph', 'skyline news', 'sky news kenya', 'naturalnews.com']
     # returns true if claim contains any elements from list social media
     if [element for element in social_media if (element in claim)]:
         return 'social media'
@@ -26,6 +26,8 @@ def return_category(claim: str, politicians: set, full):
         return 'joe biden'
     if [element for element in politicians if (element in claim)]:
         return 'US politicians'
+    if [element for element in news_sites if (element in claim)]:
+        return 'news site'
     else:
         return claim
 
