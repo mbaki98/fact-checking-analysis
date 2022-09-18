@@ -3,33 +3,19 @@ import os
 from pprint import pprint
 from collections import defaultdict, Counter
 from util.nofils_claimant_categoriser import return_category, get_politician_list
-import operator
 
+'''
+Output of this file: claimants-grouped.csv . A file which is split by year and contains every unique claimant and thier 
+count for that year
 
-import csv
+This file runs the function split_by_year_v2(data, year_dict) from main. In main it loops through the /data folder which
+contains all of the fact checking orgs fact checks pulled using the google API. In every file the function is called 
+and given a dict (year_dict) and the file (data). It loops through all the claims in the file, and for every claim with
+a claimant, runs it through the return_category(claimant) function to categorise the claimant and then adds it to the 
+year_dict if it hasn't been added already or increments that claimants counter. 
 
-"""
-Create empty dictionary called year_dict
-
-Loop through claims in Politifact
-
-for each claim
-    look at the year
-    
-    if the year is NOT PRESENT in the year_dict
-        add the year 
-        add a tuple of the claimant and a counter incremeneted to 1
-        
-    if the year is PRESENT in the year_dict
-        check if the claimant is already present
-            if claimant has already been added 
-                increment the counter
-            if claimant has not been added
-                add claimant and increment the counter to 1
-                
-                
-4764/8762 in Politifact have a reviewDate
-"""
+Note: It splits by year by taking the 'reviewDate' from the claim
+'''
 
 
 def split_by_year_v2(data, year_dict, politicians: set):
@@ -53,36 +39,6 @@ def split_by_year_v2(data, year_dict, politicians: set):
 
     return year_dict
 
-'''
-                Added two ways of doing it. First starts if year is present
-                in dic. Second other way around. Pretty sure need to go
-                with first route. 
-                
-                Check if it exists, if so then increment, if not then 
-                add and increment
-                
-                needs to go:
-                
-                if year in dict:
-                    if claimant already exists
-                        increment
-                    else
-                        append to year
-                        increment
-                else
-                    add year to dict
-                    append claimant to year
-                    increment
-                    
-                # if year not in year_dict:
-                #     # if year is not in dic, add it with the claimant and the claimants counter
-                #     year_dict[year] = [claimant, 1]
-                # else:
-                #     # if the year is already in the dic, find the claimant and increment its counter
-                #     # not sure how to access the claimant
-                #     counter += 1
-                #     year_dict[year][1] += 1
-'''
 
 def split_by_year(politicians: set):
     year_dict = {}
@@ -90,10 +46,10 @@ def split_by_year(politicians: set):
     counter = 0
     for filename in os.listdir(directory):
         counter += 1
-        file = os.path.join(directory,filename)
+        file = os.path.join(directory, filename)
 
         if os.path.isfile(file):
-            f = open(file,encoding='utf-8')
+            f = open(file, encoding='utf-8')
         else:
             continue
 
@@ -128,10 +84,10 @@ def try2(politicians: set):
     counter = 0
     for filename in os.listdir(directory):
         counter += 1
-        file = os.path.join(directory,filename)
+        file = os.path.join(directory, filename)
 
         if os.path.isfile(file):
-            f = open(file,encoding='utf-8')
+            f = open(file, encoding='utf-8')
         else:
             continue
 
@@ -151,7 +107,7 @@ def try2(politicians: set):
                     # get the year
                     year = review['reviewDate'][0:4]
 
-                    #fix claimant and assign bucket
+                    # fix claimant and assign bucket
                     claimant = claimant.lower()
                     claimant = return_category(claimant, politicians, claim)
 
@@ -171,9 +127,6 @@ def try2(politicians: set):
     print('counter: ', counter)
 
 
-
-
-# f = open('data/politifact.json', encoding='utf-8')
 def main():
     counter = 0
     year_dict = defaultdict(Counter)
@@ -205,7 +158,6 @@ def main():
 
     # politicians = get_politician_list()
     # split_by_year(politicians)
-
 
 
 if __name__ == "__main__":
