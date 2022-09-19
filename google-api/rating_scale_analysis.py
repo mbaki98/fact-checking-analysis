@@ -5,6 +5,27 @@ from matplotlib import pyplot as plt
 import numpy as np
 import csv
 import pandas as pd
+import re
+
+
+# processes ratings such that "false - not enough evidence" is converted to "false"
+def process_rating(rating: str):
+    ratings = re.split("\W+|_", rating)
+    # print(ratings)
+    # Converting AAP to politifact. Somewhat and mostly combined to mostly. Partly true/false combined to half true
+    if ratings[0] == 'false':
+        return "false"
+    elif ratings[0] == "partly":
+        return "half true"
+    elif ratings[0] == "somewhat" or ratings[0] == "mostly":
+        if ratings[1] == "false":
+            return "mostly false"
+        elif ratings[1] == "true":
+            return "mostly true"
+    elif ratings[0] == "true":
+        return "true"
+    else:
+        return rating
 
 
 def rating_scale():
@@ -15,7 +36,7 @@ def rating_scale():
     for filename in os.listdir(directory):
         file = os.path.join(directory, filename)
         # checking if it is a file and excluding initial file
-        if os.path.isfile(file):
+        if os.path.isfile(file) and filename:
             f = open(file, encoding='utf-8')
         else:
             continue
@@ -38,6 +59,7 @@ def rating_scale():
                     rating = review['textualRating']
                     # convert rating to lowercase
                     rating = rating.lower()
+                    rating = process_rating(rating)
                     if year not in year_dict.keys():
                         ratings_list = [rating]
                         year_dict[year] = ratings_list
@@ -68,7 +90,7 @@ def rating_scale():
             ratings_to_delete = []
             other = 0
             for rating, frequency in frequencies.items():
-                if frequency < 50:
+                if frequency < 20:
                     other += frequency
                     ratings_to_delete.append(rating)
             frequencies['other'] = other
@@ -126,7 +148,6 @@ def write_all_ratings_to_csv(website_ratings_frequency: dict):
                         writer.writerow({'Website': website, 'Year': year, 'Rating': rating, 'Frequency': frequency})
     except IOError:
         print("I/O error")
-
 
 
 def convert_website_ratings_frequency_to_csv(website_ratings_frequency: dict):
