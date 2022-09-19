@@ -1,7 +1,7 @@
 import json
 import csv
 
-with open('./data/politifact.json', 'r', encoding="utf8") as f:  # load json file
+with open('./multiple.json', 'r', encoding="utf8") as f:  # load json file
     data = json.load(f)
 
 claims = data['claims']  # get all the claims
@@ -20,17 +20,17 @@ for claim in claims:
             all_ratings[claim['claimReview'][0]['textualRating']] += 1
         else:
             all_ratings[claim['claimReview'][0]['textualRating']] = 1
-with open('noMultipleEntireFile.csv', 'w', newline='') as f:
-    writer = csv.writer(f)
-    writer.writerow(['Textual Rating', 'Percentage'])
-    for rating in all_ratings.keys():
-        row = []
-        row.append(rating)
-        total_rating_sum = sum(list(all_ratings.values()))
-        perc = (all_ratings[rating]/total_rating_sum)*100
-        perc = round(perc, 2)
-        row.append(str(perc))
-        writer.writerow(row)
+# with open('data_split_by_claimant_&_ratings/afp_ratings_&_percentages.csv', 'w', newline='') as f:
+#     writer = csv.writer(f)
+#     writer.writerow(['Textual Rating', 'Percentage'])
+#     for rating in all_ratings.keys():
+#         row = []
+#         row.append(rating)
+#         total_rating_sum = sum(list(all_ratings.values()))
+#         perc = (all_ratings[rating]/total_rating_sum)*100
+#         perc = round(perc, 2)
+#         row.append(str(perc))
+#         writer.writerow(row)
 
 
 # get all the unique claimants
