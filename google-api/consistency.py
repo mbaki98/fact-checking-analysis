@@ -6,9 +6,15 @@ Then use that tuple as a key. For the value, we have a dictionary of one website
 as the value.
 
 """
+import csv
 
+from sklearn.metrics import cohen_kappa_score
 import json
 from pprint import pprint
+import itertools
+import numpy as np
+import seaborn as sns
+import matplotlib.pyplot as plt
 
 
 def create_fact_check_list(data):
@@ -27,7 +33,7 @@ def create_fact_check_list(data):
                 website_ratings.append(website_rating)
 
         website_list.sort()
-        print(website_list)
+        #print(website_list)
         website_tuple = tuple(website_list)
         if website_tuple not in claim_dict.keys():
             fact_check_list = [website_ratings]
@@ -47,31 +53,31 @@ def create_consistency_dict(claim_dict: dict):
             if len(claim) == 2:
                 # if they're consistent set value to 1 for this item in the list of the tuple
                 if claim[0][1] == claim[1][1]:
-                    print("The two claims are consistent", end=" - ")
-                    print(claim)
+                    #print("The two claims are consistent", end=" - ")
+                    #print(claim)
                     if key not in consistency_dict:
                         consistency_dict[key] = [1]
                     else:
                         consistency_dict[key].append(1)
                 # if inconsistent set value to 0
                 else:
-                    print("The two claims are inconsistent", end=" - ")
-                    print(claim)
+                    #print("The two claims are inconsistent", end=" - ")
+                    #print(claim)
                     if key not in consistency_dict:
                         consistency_dict[key] = [0]
                     else:
                         consistency_dict[key].append(0)
             elif len(claim) == 3:
                 if claim[0][1] == claim[1][1] == claim[2][1]:
-                    print("The three claims are consistent", end=" - ")
-                    print(claim)
+                    #print("The three claims are consistent", end=" - ")
+                    #print(claim)
                     if key not in consistency_dict:
                         consistency_dict[key] = [111]
                     else:
                         consistency_dict[key].append(111)
                 elif claim[0][1] == claim[1][1] != claim[2][1]:
-                    print("The first two claims are consistent", end=" - ")
-                    print(claim)
+                    #print("The first two claims are consistent", end=" - ")
+                    #print(claim)
                     new_key = (claim[0][1], claim[1][1])
                     if key not in consistency_dict:
                         consistency_dict[key] = [110]
@@ -79,31 +85,31 @@ def create_consistency_dict(claim_dict: dict):
                         consistency_dict[key].append(110)
 
                 elif claim[0][1] != claim[1][1] == claim[2][1]:
-                    print("The last two claims are consistent", end=" - ")
-                    print(claim)
+                    #print("The last two claims are consistent", end=" - ")
+                    #print(claim)
                     if key not in consistency_dict:
                         consistency_dict[key] = [11]
                     else:
                         consistency_dict[key].append(11)
                 elif claim[0][1] == claim[2][1] != claim[1][1]:
-                    print("The first and last claims are consistent", end=" - ")
-                    print(claim)
+                    #print("The first and last claims are consistent", end=" - ")
+                    #print(claim)
                     if key not in consistency_dict:
                         consistency_dict[key] = [101]
                     else:
                         consistency_dict[key].append(101)
                 else:
-                    print("All three claims are inconsistent", end=" - ")
-                    print(claim)
+                    #print("All three claims are inconsistent", end=" - ")
+                    #print(claim)
                     if key not in consistency_dict:
                         consistency_dict[key] = [0]
                     else:
                         consistency_dict[key].append(0)
             # if length of items in the claim is 1, then it is a case where the same website fact checked info more than once, which in the current state of the script we're not taking into account
-            elif len(claim) == 1:
+            """elif len(claim) == 1:
                 print("Invalid" + str(len(claim)))
             else:
-                print("Unknown Error")
+                print("Unknown Error")"""
 
     return consistency_dict
 
@@ -111,10 +117,11 @@ def create_consistency_dict(claim_dict: dict):
 def count_consistency_dict(consistency_dict: dict):
     counter = 0
     for key in consistency_dict.keys():
-        print(key, consistency_dict[key])
+        # print(key, consistency_dict[key])
+        # print(len(consistency_dict[key]))
         counter = counter + len(consistency_dict[key])
 
-    print(counter)
+    # print(counter)
 
 
 def create_percentages_dict(consistency_dict):
@@ -150,6 +157,95 @@ def create_percentages_dict(consistency_dict):
     return percentages_dict
 
 
+def calculate_reliability(consistency_dict: dict):
+    # reverse code my original coding into a structure where labeller 1 and 2 are separate
+    # so ('The New York Times', 'The Washington Post') [0, 0] becomes labeller 1 [0,0] labeller 2 [1,1]
+    # cohens capper isn't just a 1 or 0 thing though, works on a scale as well for continuous variables.
+    # migth be worthwhile to reconsider my idea of creating a standardised scale of 0 5o for example across various fact checkers.
+    # e.g. false is 0, four pinnochios also 0, true is 5, correct is 5, accurate is 5 etc. that way we actually get descrepancy measured as well.
+
+    for websites, consistencies in consistency_dict.items():
+        print(websites)
+        if len(websites) == 2:
+            rater1 = []
+            rater2 = []
+            for isConsistent in consistencies:
+                if isConsistent:
+                    rater1.append(1)
+                    rater2.append(1)
+                else:
+                    rater1.append(0)
+                    rater2.append(1)
+            print(rater1)
+            print(rater2)
+            print("----")
+
+            #raters = [rater1, rater2]
+            #print(cohen_kappa_score(rater2, rater1))
+
+            labeler1 = [1,1]
+            labeler2 = [1,1]
+            print(cohen_kappa_score(labeler1, labeler2))
+            """data = np.zeros((len(raters), len(raters)))
+            # Calculate cohen_kappa_score for every combination of raters
+            # Combinations are only calculated j -> k, but not k -> j, which are equal
+            # So not all places in the matrix are filled.
+            for j, k in list(itertools.combinations(range(len(raters)), r=2)):
+                data[j, k] = cohen_kappa_score(raters[j], raters[k])
+
+            sns.heatmap(
+                data,
+                mask=np.tri(len(raters)),
+                annot=True, linewidths=5,
+                vmin=0, vmax=1,
+                xticklabels=[f"Rater {k + 1}" for k in range(len(raters))],
+                yticklabels=[f"Rater {k + 1}" for k in range(len(raters))],
+            )
+            plt.show()"""
+
+
+def convert_to_csv(data: dict):
+    csv_columns = ["PolitiFact", "FactCheck.org", "The Washington Post", "The New York Times", "BBC"]
+    csv_file = f"interrater.csv"
+    try:
+        with open(csv_file, 'w', newline='', encoding="utf-8") as csvfile:
+            writer = csv.writer(csvfile)
+            writer.writerow(csv_columns)
+            for claim in data:
+                print(claim)
+                # use this bool to track if website other than 5 above is found, so that claim is ignored
+                valid_website = True
+                websites = []
+                for review in claim['claimReview']:
+                    if review['publisher']['name'] not in csv_columns:
+                        valid_website = False
+                        break
+                    websites.append([review['publisher']['name'], review['textualRating']])
+
+                if not valid_website:
+                    continue
+
+                row = ["", "", "", "", ""]
+                for website in websites:
+                    if website[0] == "PolitiFact":
+                        row[0] = website[1]
+                    if website[0] == "FactCheck.org":
+                        row[1] = website[1]
+                    if website[0] == "The Washington Post":
+                        row[2] = website[1]
+                    if website[0] == "The New York Times":
+                        row[3] = website[1]
+                    if website[0] == "BBC":
+                        row[4] = website[1]
+                print(row)
+                writer.writerow(row)
+    except IOError:
+        print("IO Error")
+
+
+
+
+
 def main():
     # parsing json - need to add this to own class
     # parse initial file so that future data could be appended
@@ -158,21 +254,25 @@ def main():
 
     claim_dict = create_fact_check_list(data)
 
-    # number of website combinations
-    print(claim_dict.__len__())
-    # list of website combinations
-    print(claim_dict.keys())
-    # pretty print dictionary
-    pprint(claim_dict)
+    convert_to_csv(data)
 
+    # number of website combinations
+    #print(claim_dict.__len__())
+    # list of website combinations
+    #print(claim_dict.keys())
+    # pretty print dictionary
+    # pprint(claim_dict)
+    print("--------------")
     consistency_dict = create_consistency_dict(claim_dict)
 
     count_consistency_dict(consistency_dict)
 
     percentages_dict = create_percentages_dict(consistency_dict)
 
-    for key in percentages_dict.keys():
-        print(key, percentages_dict[key])
+    """for key in percentages_dict.keys():
+        print(key, percentages_dict[key])"""
+
+    # calculate_reliability(consistency_dict)
 
 
 if __name__ == "__main__":
