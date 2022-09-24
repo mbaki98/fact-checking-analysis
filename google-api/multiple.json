@@ -2645,7 +2645,7 @@
         "url": "https://www.bbc.co.uk/news/election-us-2020-55529230",
         "title": "Georgia election: Donald Trump's phone call fact-checked",
         "reviewDate": "2021-01-04T00:00:00Z",
-        "textualRating": "There's no evidence to support this claim. Georgia's top election official, Republican Secretary of State Brad Raffensperger rejected the president's assertion, saying there were just two confirmed cases of votes attributed to dead people.",
+        "textualRating": "no evidence",
         "languageCode": "en"
       },
       {
@@ -3042,7 +3042,7 @@
         "url": "https://www.bbc.co.uk/news/election-us-2020-55529230",
         "title": "Georgia election: Donald Trump's phone call fact-checked",
         "reviewDate": "2021-01-04T00:00:00Z",
-        "textualRating": "There's no evidence to support this claim. A lawyer representing Georgia's secretary of state's office called the data \"inaccurate\".",
+        "textualRating": "no evidence",
         "languageCode": "en"
       },
       {
@@ -3866,7 +3866,7 @@
         "url": "https://www.bbc.co.uk/news/54023884",
         "title": "US protests: Dark-clad thugs on planes and other claims fact-checked",
         "reviewDate": "2020-09-05T00:00:00Z",
-        "textualRating": "There have been no reports that this incident took place, and the White House has provided no evidence of such a plane",
+        "textualRating": "no evidence",
         "languageCode": "en"
       },
       {
@@ -4373,7 +4373,7 @@
         "url": "https://www.bbc.co.uk/news/world-us-canada-53858940",
         "title": "DNC 2020: Joe Biden convention speech fact-checked",
         "reviewDate": "2020-08-21T00:00:00Z",
-        "textualRating": "This is true based on the total number of Americans who have filed for unemployment since the virus struck. The number of people currently claiming unemployment benefits is 14.8 million, according to the latest release of weekly figures. It has been declining since May, when there were more than 20 million claims.",
+        "textualRating": "true",
         "languageCode": "en"
       },
       {
@@ -4876,7 +4876,7 @@
         "url": "https://www.bbc.co.uk/news/world-us-canada-53922706",
         "title": "US election 2020: Donald Trump's convention speech fact-checked",
         "reviewDate": "2020-09-28T00:00:00Z",
-        "textualRating": "Since January 2017, when Mr Trump assumed the presidency, 275 miles of wall along the border with Mexico has been completed, according to the latest US Customs and Border Protection report. However, most of that was to replace existing structures.",
+        "textualRating": "false",
         "languageCode": "en"
       },
       {
@@ -5373,7 +5373,7 @@
         "url": "https://www.bbc.co.uk/news/election-us-2020-54512170",
         "title": "US election 2020: Fact-checking Trump and Biden on the campaign trail",
         "reviewDate": "2020-10-16T00:00:00Z",
-        "textualRating": "We can find no evidence to support this claim. Referring to the study, the US Centers for Disease Control said: \"The interpretation that more mask-wearers are getting infected compared to non-mask wearers is incorrect.\"",
+        "textualRating": "no evidence",
         "languageCode": "en"
       },
       {
@@ -5539,7 +5539,7 @@
         "url": "https://www.bbc.co.uk/news/world-us-canada-53922706",
         "title": "US election 2020: Donald Trump's convention speech fact-checked",
         "reviewDate": "2020-09-28T00:00:00Z",
-        "textualRating": "This is misleading. It's true that - since April 2020 - there have been nine million people added to the US payroll, according to the US Bureau for Labor Statistics. But what Mr Trump didn't mention was that this rise followed a much bigger loss of 22 million people from the payroll in March, when measures to tackle the pandemic were introduced.",
+        "textualRating": "misleading",
         "languageCode": "en"
       },
       {
