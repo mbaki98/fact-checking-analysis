@@ -7,6 +7,8 @@ as the value.
 
 """
 import csv
+import re
+import sys
 
 from sklearn.metrics import cohen_kappa_score
 import json
@@ -15,6 +17,7 @@ import itertools
 import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
+import string
 
 
 def create_fact_check_list(data):
@@ -203,10 +206,50 @@ def calculate_reliability(consistency_dict: dict):
             )
             plt.show()"""
 
+# !does not standardise ratings! simply processes them if they are long or contain other text
+# e.g. rating "mostly false. Trump said this in a different context" is converted to "mostly false"
+def process_ratings(rating: str):
+    ratings = re.split("\W+|_", rating)
+    if ratings[0] in ['false']:
+        return "false"
+    if ratings[0] in ['wrong']:
+        return "wrong"
+    if ratings[0] == "partly":
+        return "half true"
+    elif ratings[0] in ["mostly"]:
+        if ratings[1] == "false":
+            return "mostly false"
+        elif ratings[1] == "true":
+            return "mostly true"
+    elif ratings[0] in ["somewhat"]:
+        if ratings[1] == "false":
+            return "somewhat false"
+        elif ratings[1] == "true":
+            return "somewhat true"
+    elif ratings[0] == "true":
+        return "true"
+    # elif ' '.join(ratings[0:2]) == "half right":
+    #     return "half true"
+    elif ratings[0] in ['exagerated', 'exaggerates'] or ' '.join(ratings[0:3]) == "this is exaggerated":
+        return "exaggerated"
+    elif ' '.join(ratings[0:3]) in ["no evidence provided", "this lacks evidence"]:
+        return "no evidence"
+    elif ' '.join(ratings[0:2]) in ["lacks context", "needs context"] or ' '.join(ratings[0:3]) == "needs more context":
+        return "out of context"
+    elif ' '.join(ratings[0:3]) in ["this is misleading"]:
+        return "misleading"
+    else:
+        return rating
 
-def convert_to_csv(data: dict):
+
+# converts to csv file, if process = True, then punctuation will be removed and process_ratings() will be called
+def convert_to_csv(data: dict, process: bool):
     csv_columns = ["PolitiFact", "FactCheck.org", "The Washington Post", "The New York Times", "BBC"]
-    csv_file = f"interrater.csv"
+    if process:
+        csv_file = "processed_interrater.csv"
+    else:
+        csv_file = "unprocessed_interrater.csv"
+    final_list = []
     try:
         with open(csv_file, 'w', newline='', encoding="utf-8") as csvfile:
             writer = csv.writer(csvfile)
@@ -220,13 +263,17 @@ def convert_to_csv(data: dict):
                     if review['publisher']['name'] not in csv_columns:
                         valid_website = False
                         break
-                    websites.append([review['publisher']['name'], review['textualRating']])
+                    websites.append([review['publisher']['name'], review['textualRating'].lower()])
 
                 if not valid_website:
                     continue
 
                 row = ["", "", "", "", ""]
                 for website in websites:
+                    # remove punctuation from rating if process param is True
+                    if process:
+                        website[1] = website[1].translate(str.maketrans('', '', string.punctuation))
+                        website[1] = process_ratings(website[1])
                     if website[0] == "PolitiFact":
                         row[0] = website[1]
                     if website[0] == "FactCheck.org":
@@ -239,14 +286,50 @@ def convert_to_csv(data: dict):
                         row[4] = website[1]
                 print(row)
                 writer.writerow(row)
+                final_list.append(row)
     except IOError:
         print("IO Error")
 
+    return final_list
 
 
+def standardise_ratings(final_list):
+    false = ["pants on fire", "no evidence", ]
+    mostly_false = ["mostly false"]
+    half_true = ["half true", "half right", "half-right", "half-true"]
+    mostly_true = ["mostly true"]
+    true = ["true"]
+    for i, claim in enumerate(final_list):
+        for j, website_rating in enumerate(claim):
+            if [element for element in false if (element in website_rating)]:
+                final_list[i][j] = "false"
+            if [element for element in mostly_false if (element in website_rating)]:
+                final_list[i][j] = "mostly false"
+            if [element for element in half_true if (element in website_rating)]:
+                final_list[i][j] = "half true"
+            if [element for element in mostly_true if (element in website_rating)]:
+                final_list[i][j] = "mostly true"
+            if [element for element in true if (element in website_rating)]:
+                final_list[i][j] = "true"
+
+    return final_list
+
+
+def read_inter_csv():
+    with open ("unprocessed_interrater.csv", 'r') as file:
+        csvreader = csv.reader(file)
+        final_list = []
+        for i, row in enumerate(csvreader):
+            if i == 0:
+                continue
+            else:
+                final_list.append(row)
+
+        return final_list
 
 
 def main():
+    args = sys.argv[1:]
     # parsing json - need to add this to own class
     # parse initial file so that future data could be appended
     f = open('multiple.json', encoding='utf-8')
@@ -254,20 +337,27 @@ def main():
 
     claim_dict = create_fact_check_list(data)
 
-    convert_to_csv(data)
+    # getting final list after converting to csv
+    # final_list = convert_to_csv(data, process=True)
+
+    # getting final list by reading from interrater.csv
+    final_list  = read_inter_csv()
+
+    # standardise_ratings(final_list)
+
 
     # number of website combinations
-    #print(claim_dict.__len__())
+    # print(claim_dict.__len__())
     # list of website combinations
-    #print(claim_dict.keys())
+    # print(claim_dict.keys())
     # pretty print dictionary
     # pprint(claim_dict)
     print("--------------")
-    consistency_dict = create_consistency_dict(claim_dict)
-
-    count_consistency_dict(consistency_dict)
-
-    percentages_dict = create_percentages_dict(consistency_dict)
+    # consistency_dict = create_consistency_dict(claim_dict)
+    #
+    # count_consistency_dict(consistency_dict)
+    #
+    # percentages_dict = create_percentages_dict(consistency_dict)
 
     """for key in percentages_dict.keys():
         print(key, percentages_dict[key])"""
