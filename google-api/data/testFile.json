@@ -1,0 +1,58 @@
+{
+  "claims": [
+    {
+      "text": "The Pfizer-BioNTech coronavirus vaccine could cause infertility in women.",
+      "claimant": "Social media posts",
+      "claimDate": "2020-12-10T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The New York Times",
+            "site": "nytimes.com"
+          },
+          "url": "https://www.nytimes.com/live/2020/2020-election-misinformation-distortions#pfizer-vaccine-infertility-disinformation",
+          "title": "Tracking Viral Misinformation: Latest Updates",
+          "reviewDate": "2020-12-10T00:00:00Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "My 2-cent wealth tax can pay for universal child care, free college tuition and reduce loan debt for 95 of students.",
+      "claimant": "Elizabeth Warren",
+      "claimDate": "2019-04-21T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The New York Times",
+            "site": "nytimes.com"
+          },
+          "url": "https://www.nytimes.com/2019/06/01/us/politics/fact-check-elizabeth-warren-campaign.html",
+          "title": "Fact-Checking Elizabeth Warren on the Campaign Trail (Published 2019)",
+          "reviewDate": "2019-05-31T00:00:00Z",
+          "textualRating": "Maybe.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "My 2-cent wealth tax can pay for universal child care, free college tuition and reduce loan debt for 95 of students.",
+      "claimant": "Donald Trump",
+      "claimDate": "2019-04-21T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "The New York Times",
+            "site": "nytimes.com"
+          },
+          "url": "https://www.nytimes.com/2019/06/01/us/politics/fact-check-elizabeth-warren-campaign.html",
+          "title": "Fact-Checking Elizabeth Warren on the Campaign Trail (Published 2019)",
+          "reviewDate": "2019-05-31T00:00:00Z",
+          "textualRating": "Maybe.",
+          "languageCode": "en"
+        }
+      ]
+    }
+  ]
+}

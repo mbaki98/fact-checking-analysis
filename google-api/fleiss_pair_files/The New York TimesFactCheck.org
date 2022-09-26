@@ -1,0 +1,36 @@
+The New York Times,FactCheck.org
+This is exaggerated.,False
+False,Cherry Picks
+False,False
+Mental health experts say no,We Explain the Research
+False,False
+False,False
+Wrong,False
+Mostly False,Misuse of IRS data
+Gov't data shows otherwise,False
+Not what Zelensky said,This is misleading.
+"There's no evidence to support this claim. Georgia's top election official, Republican Secretary of State Brad Raffensperger rejected the president's assertion, saying there were just two confirmed cases of votes attributed to dead people.",False.
+Mostly False,This is exaggerated.
+Mostly false,False.
+Half True,This is misleading.
+Not in every state,"True, but cherry-picked."
+Half True,This is exaggerated.
+False,False.
+Misrepresents the record,This is misleading.
+Greatly oversold,This is misleading.
+"There's no evidence to support this claim. A lawyer representing Georgia's secretary of state's office called the data ""inaccurate"".",This is misleading.
+False,This is misleading.
+False,This is misleading.
+Mostly False,Distorts The Facts
+Pants on Fire,No Evidence
+Not historic or final,False
+False,False
+False,False
+False,False
+False,False
+Mostly False,False
+False,False.
+False,Cherry Picks
+Greatly oversold,This is misleading.
+False,False
+Mostly False,Misuse of IRS data
