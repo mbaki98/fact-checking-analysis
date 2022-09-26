@@ -1,0 +1,2165 @@
+{
+  "claims": [
+    {
+      "text": "Ethiopia will plant 20 billion seedlings in four years.",
+      "claimant": "Prime Minister of Ethiopia Abiy Ahmed",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/world-africa-57158038",
+          "title": "Ethiopian elections 2021: Fact-checking Abiy's record",
+          "reviewDate": "2021-06-08T00:00:00Z",
+          "textualRating": "We looked into these ambitious targets and found them very difficult to verify.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Congress party politician Amarinder Singh is working against the farmers' interests",
+      "claimant": "Various - shared on social media",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/world-asia-india-55258284",
+          "title": "India farmers: Misleading claims about high-profile support",
+          "reviewDate": "2020-12-13T00:00:00Z",
+          "textualRating": "The photo provoking this speculation is from 2017.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Voting to recall me \"elects an anti-vax Republican\"",
+      "claimant": "Gavin Newsom, California Governor",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/58491575",
+          "title": "California recall election: Fact-checking Governor Newsom and his challengers",
+          "reviewDate": "2021-09-15T00:00:00Z",
+          "textualRating": "We checked and all of his Republican challengers have been vaccinated.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Rajnath Singh, a senior government member and ruling BJP (Bharatiya Janata Party) stalwart, supports the farmers' protests in India",
+      "claimant": "Various - shared on social media",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/world-asia-india-55258284",
+          "title": "India farmers: Misleading claims about high-profile support",
+          "reviewDate": "2020-12-13T00:00:00Z",
+          "textualRating": "The clip is old and from 2013 when Mr Singh was in opposition.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"We're putting £15.8bn into supporting our police\"",
+      "claimant": "Boris Johnson, UK Prime Minister",
+      "claimDate": "2021-07-27T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/57987932",
+          "title": "Boris Johnson's police numbers claim fact-checked",
+          "reviewDate": "2021-07-27T00:00:00Z",
+          "textualRating": "For context, this figure depends in part on whether police and crime commissioners take advantage of being able to add £15 a year to council tax for a typical Band D property.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"One in four children in Scotland live in poverty. In her own constituency almost 50% of children live in poverty\"",
+      "claimant": "Anas Sarwar",
+      "claimDate": "2021-03-30T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/56583531",
+          "title": "Scottish election 2021: Leaders' debate fact-checked",
+          "reviewDate": "2021-03-30T00:00:00Z",
+          "textualRating": "The first part of the claim is correct. But the claim about the first minister's constituency is more difficult to get to the bottom of.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"His government chose to cut the income of a worker on £18,000 a year by over £1,100\"",
+      "claimant": "Angela Rayner, Labour Party deputy leader",
+      "claimDate": "2021-09-22T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/58653655",
+          "title": "Claims on pay, tax and the cost of living checked",
+          "reviewDate": "2021-09-22T00:00:00Z",
+          "textualRating": "We've added context. To get to this figure, £1,040 would come from the loss of the £20 a week 'uplift' to Universal Credit.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Covid-19 was created in a laboratory",
+      "claimant": "Dr Li-Meng Yan, a former University of Hong Kong research fellow",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/54202656",
+          "title": "Coronavirus: There's no law to 'harvest' DNA from Covid-19 tests",
+          "reviewDate": "2020-09-22T00:00:00Z",
+          "textualRating": "The BBC science team has looked at claims that coronavirus was released from a lab and found no credible scientific evidence. We spoke to other scientists who dismissed the scientific basis for the Chinese scientist's claims.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"We have cut our greenhouse-gas emissions by 44% in the last 30 years while expanding our GDP by 78%\"",
+      "claimant": "Boris Johnson, UK Prime Minister",
+      "claimDate": "2021-09-22T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/58662358",
+          "title": "Boris Johnson at the UN fact-checked",
+          "reviewDate": "2021-09-23T00:00:00Z",
+          "textualRating": "He's right about the general trends but his figures are a bit out of date and do not reflect the extraordinary impact of the pandemic.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "£80,000 salary is nowhere near in the top 5%...not even in the top 50%",
+      "claimant": "BBC Question Time audience member",
+      "claimDate": "2019-11-21T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/50517136",
+          "title": "General election 2019: Does £80,000 put you in the top 5% of earners?",
+          "reviewDate": "2019-11-22T00:00:00Z",
+          "textualRating": "This is not correct",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"He's complaining about having to share his 115-room, taxpayer-funded mansion with the foreign secretary\"",
+      "claimant": "Angela Rayner, Labour Party deputy leader",
+      "claimDate": "2021-09-22T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/58653655",
+          "title": "Claims on pay, tax and the cost of living checked",
+          "reviewDate": "2021-09-22T00:00:00Z",
+          "textualRating": "False - it is not funded by the taxpayer.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"We cut income tax, saving every worker £1,200 each year\"",
+      "claimant": "Dominic Raab, UK Deputy Prime Minister",
+      "claimDate": "2021-09-22T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/58653655",
+          "title": "Claims on pay, tax and the cost of living checked",
+          "reviewDate": "2021-09-22T00:00:00Z",
+          "textualRating": "Many workers will receive this tax cut, but not every one.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"Just the other day, they came out with a statement that 85% of the people that wear masks catch it.\"",
+      "claimant": "Donald Trump",
+      "claimDate": "2020-10-15T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/election-us-2020-54512170",
+          "title": "US election 2020: Fact-checking Trump and Biden on the campaign trail",
+          "reviewDate": "2020-10-16T00:00:00Z",
+          "textualRating": "We can find no evidence to support this claim. Referring to the study, the US Centers for Disease Control said: \"The interpretation that more mask-wearers are getting infected compared to non-mask wearers is incorrect.\"",
+          "languageCode": "en"
+        },
+        {
+          "publisher": {
+            "name": "PolitiFact",
+            "site": "politifact.com"
+          },
+          "url": "https://www.politifact.com/article/2020/oct/16/fact-checking-head-head-town-halls-joe-biden-donal/",
+          "title": "Fact-checking Donald Trump, Joe Biden in head-to-head town halls",
+          "reviewDate": "2020-10-16T04:26:51Z",
+          "textualRating": "False",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"He [Starmer] was attacking quarantine only recently and saying it was a 'blunt instrument' and that it should be lessened\"",
+      "claimant": "Boris Johnson, UK Prime Minister",
+      "claimDate": "2021-06-16T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/57500637",
+          "title": "Delta variant: Fact-checking claims about Covid and borders",
+          "reviewDate": "2021-06-16T00:00:00Z",
+          "textualRating": "Mr Starmer called quarantine a \"blunt instrument\" a year ago. But his position on quarantine for arrivals has toughened since.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"When I was a kid, we produced almost 80% of our electricity from coal... that percentage is now down to 2% or less\"",
+      "claimant": "Boris Johnson, UK Prime Minister",
+      "claimDate": "2021-09-22T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/58662358",
+          "title": "Boris Johnson at the UN fact-checked",
+          "reviewDate": "2021-09-23T00:00:00Z",
+          "textualRating": "He's right about how much of the UK's electricity generation comes from coal.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"It's this Conservative government that has built 244,000 homes in the last year which is a record over the last 30 years\"",
+      "claimant": "UK Prime Minister Boris Johnson",
+      "claimDate": "2021-04-28T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/56915918",
+          "title": "PMQs: Five Boris Johnson claims fact-checked",
+          "reviewDate": "2021-04-28T00:00:00Z",
+          "textualRating": "The figure of 244,000 is for the number of net additional dwellings - a broad definition of housing - in England between April 2019 and March 2020 - a 30 year record. It's worth noting that very few of the new homes are being built by government.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"Our Nato partners, as an example, were far behind in their defence payments. But at my strong urging, they agreed to pay $130bn more a year\"",
+      "claimant": "Donald Trump",
+      "claimDate": "2020-08-28T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/world-us-canada-53922706",
+          "title": "US election 2020: Donald Trump's convention speech fact-checked",
+          "reviewDate": "2020-09-28T00:00:00Z",
+          "textualRating": "The $130bn referred to isn't an annual figure, it's the total added by Nato countries since 2016. Nato Secretary General Jens Stoltenberg said in December 2019 that \"Since 2016, Canada and European allies have added $130 billion more to the defense budgets, and this number will increase to 400 billion US dollars by 2024.\"",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"In the last decade of Conservative governments, defence spending and pay for the armed forces both fell in real terms\"",
+      "claimant": "Keir Starmer",
+      "claimDate": "2021-03-16T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/56417924",
+          "title": "Integrated Review: Fact-checking claims about the Army, aid and nuclear weapons",
+          "reviewDate": "2021-03-25T00:00:00Z",
+          "textualRating": "This requires further explanation. Defence spending has fallen in real terms. The position on army pay is less clear.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "50 Cent and Ice Cube wearing Trump hats",
+      "claimant": "Eric Trump",
+      "claimDate": "2020-10-20T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/live/election-us-2020-54588859",
+          "title": "As it happened: US election 2020: Melania pulls out of rally as Covid cough lingers - BBC News",
+          "reviewDate": "2020-10-20T00:00:00Z",
+          "textualRating": "False. The photo has been edited so the word \"Trump\" has been added on both caps, suggesting both rappers support the president.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"They have more people there now, by the way, than when we left in Afghanistan.\"",
+      "claimant": "Joe Biden",
+      "claimDate": "2020-10-15T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/election-us-2020-54512170",
+          "title": "US election 2020: Fact-checking Trump and Biden on the campaign trail",
+          "reviewDate": "2020-10-16T00:00:00Z",
+          "textualRating": "False. There are fewer US personnel in Afghanistan now than when Mr Obama left office.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"Can [the prime minister] explain how breaching Article Six of the Nuclear Non-Proliferation treaty fits with his commitment to international law?\"",
+      "claimant": "Emma Lewell-Buck",
+      "claimDate": "2021-03-16T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/56417924",
+          "title": "Integrated Review: Fact-checking claims about the Army, aid and nuclear weapons",
+          "reviewDate": "2021-03-25T00:00:00Z",
+          "textualRating": "Experts say this is unclear as much of the debate comes down to interpretation of the treaty.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "In the \"2017-18 flu epidemic, there were 50,000 excess deaths... you've had the same number of excess deaths during this pandemic\".",
+      "claimant": "Sir Rocco Forte",
+      "claimDate": "2020-10-29T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/54735702",
+          "title": "Covid: Sir Rocco Forte's claims fact-checked",
+          "reviewDate": "2020-10-29T00:00:00Z",
+          "textualRating": "This confuses excess deaths with winter excess deaths. Over the winter of 2017-18 there were about 50,000 winter excess deaths in England and Wales, but only about half that number of excess deaths - that's because you expect more people to die in the winter than the summer for various reasons, one of which is flu.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Japanese Nobel Prize laureate Tasuku Honjo believes the new coronavirus was \"manufactured\" in a lab in the Chinese city of Wuhan.",
+      "claimant": "Various - shared on social media",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/52487960",
+          "title": "Coronavirus: Trump is selling coronavirus coins and other claims fact-checked",
+          "reviewDate": "2020-05-02T00:00:00Z",
+          "textualRating": "This is a fake quote",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"The market in electric vehicles [in the UK] is growing at an extraordinary pace - maybe two thirds every year\"",
+      "claimant": "Boris Johnson, UK Prime Minister",
+      "claimDate": "2021-09-22T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/58662358",
+          "title": "Boris Johnson at the UN fact-checked",
+          "reviewDate": "2021-09-23T00:00:00Z",
+          "textualRating": "We couldn't immediately find the two-thirds increase mentioned by the prime minister, but it's clear uptake of low emissions vehicles recently has been growing rapidly.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Someone burned ballots marked for Trump",
+      "claimant": "Eric Trump",
+      "claimDate": "2020-11-04T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/live/election-us-2020-54786937",
+          "title": "US election 2020: Biden beats Trump - as it happened - BBC News",
+          "reviewDate": "2020-11-05T00:00:00Z",
+          "textualRating": "The video shows sample ballots being burned, which lacked official markings.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"Every single recipient of Universal Credit would lose their benefits under Labour because they want to abolish Universal Credit\"",
+      "claimant": "Boris Johnson, UK Prime Minister",
+      "claimDate": "2021-09-15T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/58572989",
+          "title": "Claims about Universal Credit fact-checked",
+          "reviewDate": "2021-09-15T00:00:00Z",
+          "textualRating": "This is misleading. Labour's 2019 manifesto did indeed pledge to scrap UC, but was clear that it would replace it with an alternative system.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"Over 11 years of Tory government, we have lost more than 8,000 police officers\"",
+      "claimant": "Keir Starmer, UK Labour Party Leader",
+      "claimDate": "2021-09-29T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/58737567",
+          "title": "Keir Starmer's Labour conference speech fact-checked",
+          "reviewDate": "2021-09-29T00:00:00Z",
+          "textualRating": "This is correct. There are 8,433 fewer than the figure for 31 March 2010.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"We've got 1,500 young people who are waiting for mental health support for over a year\"",
+      "claimant": "Willie Rennie",
+      "claimDate": "2021-03-30T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/56583531",
+          "title": "Scottish election 2021: Leaders' debate fact-checked",
+          "reviewDate": "2021-03-30T00:00:00Z",
+          "textualRating": "This is correct.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Protester Martin Gugino was \"trying to scan police communications in order to black out the equipment\"",
+      "claimant": "Donald Trump",
+      "claimDate": "2020-06-09T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/52984295",
+          "title": "Martin Gugino: Donald Trump's police scanner tweet fact-checked",
+          "reviewDate": "2020-06-09T00:00:00Z",
+          "textualRating": "We've seen no evidence to suggest he was trying to scan police devices. It is also not clear how police equipment could be interfered with in this way.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"Waiting lists at a record high of 4.7 million\"",
+      "claimant": "Keir Starmer, leader of the UK Labour Party",
+      "claimDate": "2021-05-12T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/57076024",
+          "title": "Queen's Speech debate: Waiting lists, social care and other claims fact-checked",
+          "reviewDate": "2021-05-12T00:00:00Z",
+          "textualRating": "This is correct but it's important to note that at that time the health service was dealing with the Covid pandemic.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "There are hundreds of thousands - I think 400,000 - fewer families living in poverty now than there were in 2010.",
+      "claimant": "Boris Johnson",
+      "claimDate": "2020-06-29T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/53181798",
+          "title": "Child poverty: Boris Johnson's claims fact-checked",
+          "reviewDate": "2020-06-29T00:00:00Z",
+          "textualRating": "We have not found any evidence that it is true or where the number has actually come from.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "If you look at the proportion of people in the UK who have sadly died in care homes, it is significantly lower than comparable countries across Europe.",
+      "claimant": "Matt Hancock",
+      "claimDate": "2020-06-08T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/52311014",
+          "title": "Coronavirus: Why are international comparisons difficult?",
+          "reviewDate": "2020-06-17T00:00:00Z",
+          "textualRating": "It is particularly hard to compare coronavirus deaths is care homes with other countries because it is so sensitive to the amount of testing being carried aout. Also, a report from the ONS found that two thirds of non-Covid excess deaths had been due to dementia, Alzheimer's or a category called “symptoms, signs and ill-defined conditions”, which generally indicates old age and frailty. It may be difficult to spot the symptoms of coronavirus if these people had in fact been infected.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"The truth is that when we put Pakistan and Bangladesh on the red list, positivity among those arriving from those countries was three times higher than it was among those arriving from India.\"",
+      "claimant": "Matt Hancock",
+      "claimDate": "2021-05-17T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/57172793",
+          "title": "India variant: Matt Hancock's red list claim fact-checked",
+          "reviewDate": "2021-05-19T00:00:00Z",
+          "textualRating": "Mr Hancock's claim is not supported by the publicly available NHS Test and Trace figures.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"This is the biggest investment in our armed forces since the Cold War\"",
+      "claimant": "Boris Johnson",
+      "claimDate": "2021-03-16T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/56417924",
+          "title": "Integrated Review: Fact-checking claims about the Army, aid and nuclear weapons",
+          "reviewDate": "2021-03-25T00:00:00Z",
+          "textualRating": "Defence spending has been falling. The recent investment means by 2024-25, defence spending will be £7bn a year higher than it would have been under previous plans. But with £7bn worth about 0.35% of GDP, this extra money is not enough to push defence spending above the 3.5% of GDP it represented in 1990.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"It is very strange that there are dozens of news [stories] that began to escalate about Ethiopia's readiness to launch a nuclear strike on Egypt, especially after the escalation of the Renaissance Dam crisis at unprecedented rates\"",
+      "claimant": "Shared by an Egyptian Facebook page",
+      "claimDate": "2021-06-07T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/world-africa-57511739",
+          "title": "Ethiopia elections: The misinformation circulating online",
+          "reviewDate": "2021-06-20T00:00:00Z",
+          "textualRating": "Ethiopia doesn't possess nuclear weapons.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "The use of coronavirus vaccines may \"result in a global catastrophe without equal\".",
+      "claimant": "Geert Vanden Bossche",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/56680399",
+          "title": "Covid-19: Debunking the latest wave of medical misinformation",
+          "reviewDate": "2021-04-11T00:00:00Z",
+          "textualRating": "According to the experts we spoke to there's no evidence that vaccines will lead to more dangerous variants that would merit the drastic change in strategy being suggested in these posts.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"We have among the lowest positivity rates in America... We have one of the lowest case rates.\"",
+      "claimant": "Gavin Newsom, California Governor",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/58491575",
+          "title": "California recall election: Fact-checking Governor Newsom and his challengers",
+          "reviewDate": "2021-09-15T00:00:00Z",
+          "textualRating": "Recent data from Johns Hopkins suggests this is true.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "There are 500,000 fewer children falling below low-income and material deprivation.",
+      "claimant": "Boris Johnson",
+      "claimDate": "2020-06-29T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/53181798",
+          "title": "Child poverty: Boris Johnson's claims fact-checked",
+          "reviewDate": "2020-06-29T00:00:00Z",
+          "textualRating": "The number of children in deprivation has decreased, but by less than he claims.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"I'd rather not spend taxpayers' money, by the way, like the last Labour government, which spent £500,000 of taxpayers' money on the Downing Street flat\"",
+      "claimant": "UK Prime Minister Boris Johnson",
+      "claimDate": "2021-04-28T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/56915918",
+          "title": "PMQs: Five Boris Johnson claims fact-checked",
+          "reviewDate": "2021-04-28T00:00:00Z",
+          "textualRating": "The £500,000 figure is what you get if you adjust for inflation (ie rising prices) and add up all the spending over the period of Labour governments between 1997 and 2010.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"What the statistics on crime now show is that... homicide [is] down about 16%, serious violence down 11%\"",
+      "claimant": "Boris Johnson, UK Prime Minister",
+      "claimDate": "2021-07-27T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/57987932",
+          "title": "Boris Johnson's police numbers claim fact-checked",
+          "reviewDate": "2021-07-27T00:00:00Z",
+          "textualRating": "The figures are broadly correct but any implication that this is because of government investment in policing would be misleading.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"We've given you the greatest tax cut in the history of our country.\"",
+      "claimant": "Donald Trump",
+      "claimDate": "2020-10-15T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/election-us-2020-54512170",
+          "title": "US election 2020: Fact-checking Trump and Biden on the campaign trail",
+          "reviewDate": "2020-10-16T00:00:00Z",
+          "textualRating": "That's not right for tax cuts in general - previous ones have been larger. It is right for corporation tax.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"You promised in three manifestos to reform council tax - why are people still paying council tax?\"",
+      "claimant": "Douglas Ross",
+      "claimDate": "2021-03-30T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/56583531",
+          "title": "Scottish election 2021: Leaders' debate fact-checked",
+          "reviewDate": "2021-03-30T00:00:00Z",
+          "textualRating": "The abolition or reform of council tax was indeed promised three times, but changes have been limited.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"98% of reported rape cases do not end in a criminal charge\"",
+      "claimant": "Keir Starmer, UK Labour Party Leader",
+      "claimDate": "2021-09-29T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/58737567",
+          "title": "Keir Starmer's Labour conference speech fact-checked",
+          "reviewDate": "2021-09-29T00:00:00Z",
+          "textualRating": "In the year to March 2020, 1.4% of rapes recorded by police led to a charge or summons, meaning more than 98% did not.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"We have already built 300 miles of border wall.\"",
+      "claimant": "Donald Trump",
+      "claimDate": "2020-08-27T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/world-us-canada-53922706",
+          "title": "US election 2020: Donald Trump's convention speech fact-checked",
+          "reviewDate": "2020-09-28T00:00:00Z",
+          "textualRating": "Since January 2017, when Mr Trump assumed the presidency, 275 miles of wall along the border with Mexico has been completed, according to the latest US Customs and Border Protection report. However, most of that was to replace existing structures.",
+          "languageCode": "en"
+        },
+        {
+          "publisher": {
+            "name": "PolitiFact",
+            "site": "politifact.com"
+          },
+          "url": "https://www.politifact.com/article/2020/aug/28/fact-checking-donald-trumps-2020-rnc-speech/",
+          "title": "Fact-checking Donald Trump's 2020 RNC speech",
+          "reviewDate": "2020-08-28T05:11:11Z",
+          "textualRating": "Wrong",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"Over the past three months, we have gained over 9 million jobs, a new record.\"",
+      "claimant": "Donald Trump",
+      "claimDate": "2020-08-27T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/world-us-canada-53922706",
+          "title": "US election 2020: Donald Trump's convention speech fact-checked",
+          "reviewDate": "2020-09-28T00:00:00Z",
+          "textualRating": "This is misleading. It's true that - since April 2020 - there have been nine million people added to the US payroll, according to the US Bureau for Labor Statistics. But what Mr Trump didn't mention was that this rise followed a much bigger loss of 22 million people from the payroll in March, when measures to tackle the pandemic were introduced.",
+          "languageCode": "en"
+        },
+        {
+          "publisher": {
+            "name": "PolitiFact",
+            "site": "politifact.com"
+          },
+          "url": "https://www.politifact.com/article/2020/aug/28/fact-checking-donald-trumps-2020-rnc-speech/",
+          "title": "Fact-checking Donald Trump's 2020 RNC speech",
+          "reviewDate": "2020-08-28T05:11:11Z",
+          "textualRating": "Ignores coronavirus job losses",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Covid-19 has a similar death rate to the flu",
+      "claimant": "Dr Daniel Erickson and Dr Artin Messihi",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/52487960",
+          "title": "Coronavirus: Trump is selling coronavirus coins and other claims fact-checked",
+          "reviewDate": "2020-05-02T00:00:00Z",
+          "textualRating": "Misleading - you can't make this conclusion based on limited data you get from the people who were tested in a few clinics.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Labour would spend an additional £1.2tn over the next five years",
+      "claimant": "Conservative Party",
+      "claimDate": "2019-11-10T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/50459811",
+          "title": "General Election 2019: Tory £1.2 trillion Labour spending claim fact-checked",
+          "reviewDate": "2019-11-19T00:00:00Z",
+          "textualRating": "Misleading figures",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"Section 60 [stop and search] orders can play an important part in fighting crime\"",
+      "claimant": "Boris Johnson, UK Prime Minister",
+      "claimDate": "2021-07-27T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/57987932",
+          "title": "Boris Johnson's police numbers claim fact-checked",
+          "reviewDate": "2021-07-27T00:00:00Z",
+          "textualRating": "This is unclear. Nationally there is no obvious correlation between the number of searches and the number of offences.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Employees unable to work in tier 3 areas will get a combination of Job Support Scheme and Universal Credit, which will mean they get 80% of their wages.",
+      "claimant": "Boris Johnson",
+      "claimDate": "2020-10-21T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/54633147",
+          "title": "Covid: Do all tier 3 area workers get 80% of their wages?",
+          "reviewDate": "2020-10-21T00:00:00Z",
+          "textualRating": "While that will be the case for some workers, especially those on very low incomes, some workers will get less than 80% under the new scheme.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"He [Joe Biden] has pledged a $4 trillion tax hike on almost all American families\"",
+      "claimant": "Donald Trump",
+      "claimDate": "2020-08-28T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/world-us-canada-53922706",
+          "title": "US election 2020: Donald Trump's convention speech fact-checked",
+          "reviewDate": "2020-09-28T00:00:00Z",
+          "textualRating": "The Biden tax plan would lead to $4tn in revenues (over a decade), according to analysis by the Tax Policy Center. However, this claim is misleading as the taxes would target the wealthiest Americans - not \"almost all American families\".",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"The Tories inherited plans from Labour to make every new home zero carbon. They scrapped them and now we have a crisis in energy prices, emissions from homes have increased\"",
+      "claimant": "Keir Starmer, UK Labour Party Leader",
+      "claimDate": "2021-09-29T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/58737567",
+          "title": "Keir Starmer's Labour conference speech fact-checked",
+          "reviewDate": "2021-09-29T00:00:00Z",
+          "textualRating": "The Conservatives did scrap this scheme. Residential emissions had actually been falling but emissions from heating went up in 2020.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"About 45,000 detainees have been released\"",
+      "claimant": "Prime Minister of Ethiopia Abiy Ahmed",
+      "claimDate": "2021-05-04T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/world-africa-57158038",
+          "title": "Ethiopian elections 2021: Fact-checking Abiy's record",
+          "reviewDate": "2021-06-08T00:00:00Z",
+          "textualRating": "Experts think it's possible this many have been released but many other people have been detained during Mr Abiy's term of office.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"I'm proud that I am part of a candidate list that is 70% women\"",
+      "claimant": "Lorna Slater",
+      "claimDate": "2021-03-30T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/56583531",
+          "title": "Scottish election 2021: Leaders' debate fact-checked",
+          "reviewDate": "2021-03-30T00:00:00Z",
+          "textualRating": "Nominations have not yet closed but, as things stand, it looks like the party will have more than half but perhaps not as many as 70% of its candidates being female.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"We will liberate the telecoms sector\"",
+      "claimant": "Prime Minister of Ethiopia Abiy Ahmed",
+      "claimDate": "2021-05-07T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/world-africa-57158038",
+          "title": "Ethiopian elections 2021: Fact-checking Abiy's record",
+          "reviewDate": "2021-06-08T00:00:00Z",
+          "textualRating": "The sale of two telecoms licenses has not been completed.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "There's a map that shows all the countries in the world which will be effected by coronavirus",
+      "claimant": "The Sun",
+      "claimDate": "2020-02-10T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/world-51504512",
+          "title": "Coronavirus: How a misleading map went global",
+          "reviewDate": "2020-02-19T00:00:00Z",
+          "textualRating": "Misleading - this is an old map showing air travel routes, not the reach of coronavirus",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"The rate of the Delta variant is much higher here than in other countries... tragically, the UK has - once again - the highest infection rate in Europe\"",
+      "claimant": "Keir Starmer, Labour Party Leader",
+      "claimDate": "2021-06-16T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/57500637",
+          "title": "Delta variant: Fact-checking claims about Covid and borders",
+          "reviewDate": "2021-06-16T00:00:00Z",
+          "textualRating": "A database showed more cases of the Delta variant in the UK than much of the world, but it is not a definitive record of how many cases there are.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"Britain has the worst [Covid] death toll in Europe\"",
+      "claimant": "Keir Starmer, UK Labour Party Leader",
+      "claimDate": "2021-09-29T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/58737567",
+          "title": "Keir Starmer's Labour conference speech fact-checked",
+          "reviewDate": "2021-09-29T00:00:00Z",
+          "textualRating": "The UK has recorded the highest number of deaths but these figures do not take into account population size.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "A man died in police custody after police clashed with protesters in London",
+      "claimant": "Various - shared on social media",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/54202656",
+          "title": "Coronavirus: There's no law to 'harvest' DNA from Covid-19 tests",
+          "reviewDate": "2020-09-22T00:00:00Z",
+          "textualRating": "This is false and was denied by the Metropolitan Police. The false rumour spread after thousands joined anti-lockdown protests in London.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"One of the critical things that was completely wrong in the whole official thinking... in February-March was: First of all, the British public will not accept a lockdown. Secondly, the British public will not accept what was thought of as an east Asian-style track and trace-type system\"",
+      "claimant": "Dominic Cummings",
+      "claimDate": "2021-05-27T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/57254305",
+          "title": "Dominic Cummings: Five claims fact-checked",
+          "reviewDate": "2021-05-27T00:00:00Z",
+          "textualRating": "We checked and the minutes from a meeting of the behavioural science advisers (SPI-B) on 12 March suggest they thought people would accept restrictions.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"A single parent working on minimum wage, already working full-time, would need to work over nine hours a week just to get the money back\"",
+      "claimant": "Keir Starmer, UK Labour Party leader",
+      "claimDate": "2021-09-15T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/58572989",
+          "title": "Claims about Universal Credit fact-checked",
+          "reviewDate": "2021-09-15T00:00:00Z",
+          "textualRating": "This calculation was originally done by the Resolution Foundation and would almost certainly apply to this full-time worker.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Legislation will allow 'DNA harvesting' through Covid-19 tests",
+      "claimant": "Various - shared on social media",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/54202656",
+          "title": "Coronavirus: There's no law to 'harvest' DNA from Covid-19 tests",
+          "reviewDate": "2020-09-22T00:00:00Z",
+          "textualRating": "This is false. The piece of legislation cited in the posts does not relate to samples taken for coronavirus testing.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"Even before this pandemic, there were 5.7 million people in low pay or insecure work\"",
+      "claimant": "Keir Starmer, leader of the UK Labour Party",
+      "claimDate": "2021-05-12T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/57076024",
+          "title": "Queen's Speech debate: Waiting lists, social care and other claims fact-checked",
+          "reviewDate": "2021-05-12T00:00:00Z",
+          "textualRating": "The number is not quite that high, according to the Living Wage Foundation.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"GDP is going through the roof.\"",
+      "claimant": "Donald Trump",
+      "claimDate": "2020-10-15T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/election-us-2020-54512170",
+          "title": "US election 2020: Fact-checking Trump and Biden on the campaign trail",
+          "reviewDate": "2020-10-16T00:00:00Z",
+          "textualRating": "The latest numbers show a record fall in GDP during the pandemic. However the next set of figures, due out at the end of October, are expected to show a record increase.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Schoolchildren in the UK can be tested and detained - without parents' permission",
+      "claimant": "Various - shared on social media",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/53919867",
+          "title": "Back to school: Four virus claims that parents should ignore",
+          "reviewDate": "2020-10-03T00:00:00Z",
+          "textualRating": "Teachers cannot take children to a coronavirus testing centre without the permission of a parent. And it is misleading to suggest they could be held without parental access if they tested positive.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "There are 100,000 fewer children in absolute poverty.",
+      "claimant": "Boris Johnson",
+      "claimDate": "2020-06-29T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/53181798",
+          "title": "Child poverty: Boris Johnson's claims fact-checked",
+          "reviewDate": "2020-06-29T00:00:00Z",
+          "textualRating": "This is true if you're comparing with figures from 2009-10, before the coalition government came to power.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"At the moment now, we have more people dying of influenza and pneumonia than we have of Covid\".",
+      "claimant": "Sir Rocco Forte",
+      "claimDate": "2020-10-29T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/54735702",
+          "title": "Covid: Sir Rocco Forte's claims fact-checked",
+          "reviewDate": "2020-10-29T00:00:00Z",
+          "textualRating": "This isn't correct. According to the Office for National Statistics (ONS), between January and August there were 48,168 deaths due to the coronavirus, compared with 13,619 due to pneumonia and 394 due to influenza.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"People are leaving California for the first time in our state's 170-year history\"",
+      "claimant": "Larry Elder",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/58491575",
+          "title": "California recall election: Fact-checking Governor Newsom and his challengers",
+          "reviewDate": "2021-09-15T00:00:00Z",
+          "textualRating": "The trend started before Governor Newsom took office.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Coronavirus is actually a bacterium causing blood clots. Coronavirus can therefore be cured by antibiotics, aspirin and anticoagulants.",
+      "claimant": "Various - shared on social media",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/53021722",
+          "title": "Coronavirus: Contact-tracing rumours debunked",
+          "reviewDate": "2020-06-13T00:00:00Z",
+          "textualRating": "The posts are misleading. It's true some Covid-19 patients have suffered blood clots. But the disease Covid-19 is caused by a virus not bacteria. There is no known cure and the WHO warns against self-medication to treat the virus, including with antibiotics.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Voter registration numbers were inflated in Ethiopia",
+      "claimant": "Various - shared on social media",
+      "claimDate": "2021-06-14T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/world-africa-57511739",
+          "title": "Ethiopia elections: The misinformation circulating online",
+          "reviewDate": "2021-06-20T00:00:00Z",
+          "textualRating": "We can't confirm whether the figures given by Ethiopia's Electoral Board (NEBE) reflect voter populations accurately (the last census was carried out in Ethiopia in 2007), the posts being shared provide no evidence to back up their claims of manipulation.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"[Taiwan] immediately closed the borders, they introduced very strict quarantine systems, they did a whole bunch of things right off the bat in January\"",
+      "claimant": "Dominic Cummings",
+      "claimDate": "2021-05-27T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/57254305",
+          "title": "Dominic Cummings: Five claims fact-checked",
+          "reviewDate": "2021-05-27T00:00:00Z",
+          "textualRating": "It's true that Taiwan closed its borders to all visitors from China on 23 January 2020 - as soon as China said there was evidence of human-to-human transmission of Covid-19.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Justin Trudeau was pictured sitting with Sikh farmers in a show of solidarity with their protests",
+      "claimant": "Various - shared on social media",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/world-asia-india-55258284",
+          "title": "India farmers: Misleading claims about high-profile support",
+          "reviewDate": "2020-12-13T00:00:00Z",
+          "textualRating": "The posts are misleading because the photo is at least five years old.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"The number of apprentices has fallen by 200,000 in the three years to 2020\"",
+      "claimant": "Keir Starmer, leader of UK Labour Party",
+      "claimDate": "2021-05-12T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/57076024",
+          "title": "Queen's Speech debate: Waiting lists, social care and other claims fact-checked",
+          "reviewDate": "2021-05-12T00:00:00Z",
+          "textualRating": "That figure is correct.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"We've got rising employment and rising wages and that will benefit everyone\"",
+      "claimant": "Dominic Raab, UK Deputy Prime Minister",
+      "claimDate": "2021-09-22T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/58653655",
+          "title": "Claims on pay, tax and the cost of living checked",
+          "reviewDate": "2021-09-22T00:00:00Z",
+          "textualRating": "Employment and wages have been rising but not everyone will be benefiting.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Lateral flow tests contain ethylene oxide and are a cancer risk",
+      "claimant": "Various - shared on social media",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/56680399",
+          "title": "Covid-19: Debunking the latest wave of medical misinformation",
+          "reviewDate": "2021-04-11T00:00:00Z",
+          "textualRating": "False - the tests are not harmful. The Department of Health and Social Care told us that while the chemical is used in gaseous form to sterilise test swabs, the amounts used are well within safety limits and are \"rigorously tested and are safe to use on a regular basis\".",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"A tank of fuel already costs £10 more than it did at the start of the year\"",
+      "claimant": "Keir Starmer, UK Labour Party Leader",
+      "claimDate": "2021-09-29T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/58737567",
+          "title": "Keir Starmer's Labour conference speech fact-checked",
+          "reviewDate": "2021-09-29T00:00:00Z",
+          "textualRating": "This is correct.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"Who raised it [the national living wage] by record sums? It was this one-nation Conservative government\"",
+      "claimant": "Boris Johnson, UK Prime Minister",
+      "claimDate": "2021-05-12T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/57076024",
+          "title": "Queen's Speech debate: Waiting lists, social care and other claims fact-checked",
+          "reviewDate": "2021-05-12T00:00:00Z",
+          "textualRating": "Looking at those top rates, the biggest cash increase was the Conservatives' 50p rise to £7.20 an hour in 2016. But the biggest increase in percentage terms was Labour's rise from £3.70 to £4.10 in 2001.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "The government has panicked \"on the basis of a forecast of 500,000 deaths\".",
+      "claimant": "Sir Rocco Forte",
+      "claimDate": "2020-10-29T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/54735702",
+          "title": "Covid: Sir Rocco Forte's claims fact-checked",
+          "reviewDate": "2020-10-29T00:00:00Z",
+          "textualRating": "This figure refers to a report by Prof Neil Ferguson, who worked as a government adviser in the early stages of the pandemic. It predicted there could be 500,000 deaths if the government did not take action to control the spread of the virus. In fact, the government has been criticised for underreacting. Dr Deepti Gurdasani, an epidemiologist at Queen Mary University of London said \"evidence suggests that waiting on lockdown in March cost tens of thousands of lives.\"",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"When it comes to misleading Parliament... he [Keir Starmer] said he didn't oppose this country... leaving the European Medicines Agency, a fact he was then forced to retract\"",
+      "claimant": "UK Prime Minister Boris Johnson",
+      "claimDate": "2021-04-28T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/56915918",
+          "title": "PMQs: Five Boris Johnson claims fact-checked",
+          "reviewDate": "2021-04-28T00:00:00Z",
+          "textualRating": "The BBC reported that Keir Starmer had spoken in favour of staying in the EMA in 2017 on two occasions",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"20,000 people came into the UK from India\"",
+      "claimant": "Keir Starmer, UK Labour Party leader",
+      "claimDate": "2021-06-16T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/57500637",
+          "title": "Delta variant: Fact-checking claims about Covid and borders",
+          "reviewDate": "2021-06-16T00:00:00Z",
+          "textualRating": "According to the Civil Aviation Authority, a total of 42,406 people travelled between India and the UK in April. It does not say how many of these were arriving or departing.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Barack Obama tweeted that he was \"shameful\" for shaking hands with Indian Prime Minister Narendra Modi",
+      "claimant": "Various - shared on social media",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/world-asia-india-55258284",
+          "title": "India farmers: Misleading claims about high-profile support",
+          "reviewDate": "2020-12-13T00:00:00Z",
+          "textualRating": "The screenshot of the Twitter post is fake.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Biden was caught red-handed using a teleprompter",
+      "claimant": "Eric Trump",
+      "claimDate": "2020-09-23T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/election-us-2020-54271148",
+          "title": "US election 2020: Eric Trump shares false Biden-teleprompter rumour",
+          "reviewDate": "2020-09-24T00:00:00Z",
+          "textualRating": "Telemundo, which broadcast the interview, said the claims were false and that it \"has never allowed someone who is being interviewed on its news programmes to read answers from a teleprompter\".",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"The government have axed the Green Homes Grant, scrapped the zero-carbon home standard and lost the storage facility that held three-quarters of our gas\"",
+      "claimant": "Angela Rayner, Labour Party deputy leader",
+      "claimDate": "2021-09-22T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/58653655",
+          "title": "Claims on pay, tax and the cost of living checked",
+          "reviewDate": "2021-09-22T00:00:00Z",
+          "textualRating": "She's right that the Green Homes Grant, which offered households grants of up to £10,000 to install insulation or low-carbon heating, was abandoned in March 2021.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Face masks were responsible for \"thousands\" of deaths from bacterial pneumonia.",
+      "claimant": "Appeared in The Light newspaper",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/56420379",
+          "title": "Covid-19 leaflets: How pandemic disinformation went offline",
+          "reviewDate": "2021-03-20T00:00:00Z",
+          "textualRating": "There is no evidence for this claim.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"They [Labour] failed to do anything at all about social care... they did nothing at all for 13 years in office\"",
+      "claimant": "Boris Johnson, UK Prime Minister",
+      "claimDate": "2021-05-12T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/57076024",
+          "title": "Queen's Speech debate: Waiting lists, social care and other claims fact-checked",
+          "reviewDate": "2021-05-12T00:00:00Z",
+          "textualRating": "There was not a wholesale reform of social care under Labour, but saying it did \"nothing at all\" is not correct.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Israeli Prime Minister Benjamin Netanyahu was among the celebrities and politicians who had their Twitter accounts hacked",
+      "claimant": "Some US, Chinese and Israeli media outlets",
+      "claimDate": "2020-07-22T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/technology-53433894",
+          "title": "The Benjamin Netanyahu Twitter hack that never was",
+          "reviewDate": "2020-07-23T00:00:00Z",
+          "textualRating": "The BBC has found no evidence the tweet claiming to show that Mr Netanyahu's account had been hacked ever appeared on Mr Netanyahu's timeline. The Israeli embassy in London told the BBC: \"The tweet in question was not tweeted from the official account of the prime minister. We believe it must be fake.\"",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "The Ethiopian prime minister used a UN vehicle to campaign.",
+      "claimant": "Various - shared on social media",
+      "claimDate": "2021-06-16T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/world-africa-57511739",
+          "title": "Ethiopia elections: The misinformation circulating online",
+          "reviewDate": "2021-06-20T00:00:00Z",
+          "textualRating": "Although the images appear genuine, we don't know if the car was provided by the United Nations or why it was carrying UN plates.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"We were told categorically in March that people would be tested before they went back to care homes. We only subsequently found out that that hadn't happened.\"",
+      "claimant": "Dominic Cummings",
+      "claimDate": "2021-05-27T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/57254305",
+          "title": "Dominic Cummings: Five claims fact-checked",
+          "reviewDate": "2021-05-27T00:00:00Z",
+          "textualRating": "He is correct that this did not happen until well into April, but we can't verify what Matt Hancock said to Mr Cummings and Boris Johnson at the time.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Scientists \"were talking about a bubonic-type plague with a third of the population dying\".",
+      "claimant": "Sir Rocco Forte",
+      "claimDate": "2020-10-29T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/54735702",
+          "title": "Covid: Sir Rocco Forte's claims fact-checked",
+          "reviewDate": "2020-10-29T00:00:00Z",
+          "textualRating": "In response to this claim, Dr Deepti Gurdasani, an epidemiologist at Queen Mary University of London, said \"no credible scientist, or scientific publication has ever suggested that a third of the population will die from Covid-19.\"",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"We've done 50% of the population and 25% of the adult population have now had two doses [of vaccine]\"",
+      "claimant": "UK Prime Minister Boris Johnson",
+      "claimDate": "2021-04-28T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/56915918",
+          "title": "PMQs: Five Boris Johnson claims fact-checked",
+          "reviewDate": "2021-04-28T00:00:00Z",
+          "textualRating": "These figures are correct.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"We obliterated 100% of the ISIS caliphate\"",
+      "claimant": "Donald Trump",
+      "claimDate": "2020-08-28T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/world-us-canada-53922706",
+          "title": "US election 2020: Donald Trump's convention speech fact-checked",
+          "reviewDate": "2020-09-28T00:00:00Z",
+          "textualRating": "It's true the Islamic State group's territory came to end during the Trump presidency in March 2019. However, the group remains a threat and an enduring defeat is still not assured, according to BBC reports.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"We have rising crime\"",
+      "claimant": "Larry Elder",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/58491575",
+          "title": "California recall election: Fact-checking Governor Newsom and his challengers",
+          "reviewDate": "2021-09-15T00:00:00Z",
+          "textualRating": "Certain crimes have increased significantly since Governor Newsom took office, in January 2019. But this is a trend seen in many other parts of the country too.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"For the first time in decades, wages across the board are rising 4.1% up on where they were before the pandemic\"",
+      "claimant": "Boris Johnson, UK Prime Minister",
+      "claimDate": "2021-09-15T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/58572989",
+          "title": "Claims about Universal Credit fact-checked",
+          "reviewDate": "2021-09-15T00:00:00Z",
+          "textualRating": "This figures comes from the Office for National Statistics (ONS) in February. The ONS think during the pandemic there has been a fall in the number and proportion of lower-paid jobs, which means average earnings have gone up.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"When you take the cuts to Universal Credit and you take the increase to National Insurance… the average nurse will lose £1,736\"",
+      "claimant": "Ian Blackford, Scottish National Party",
+      "claimDate": "2021-09-15T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/58572989",
+          "title": "Claims about Universal Credit fact-checked",
+          "reviewDate": "2021-09-15T00:00:00Z",
+          "textualRating": "This figure overestimates for just Universal Credit and National Insurance.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"This country is the biggest European donor to Yemen and has given £1bn over the last six years, £87m this year\"",
+      "claimant": "Boris Johnson",
+      "claimDate": "2021-03-16T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/56417924",
+          "title": "Integrated Review: Fact-checking claims about the Army, aid and nuclear weapons",
+          "reviewDate": "2021-03-25T00:00:00Z",
+          "textualRating": "Correct - the UK has given more to Yemen than any other European country over the past few years.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"He (the PM) said, before the last election 'we will not be cutting our armed forces in any form'\"",
+      "claimant": "Keir Starmer",
+      "claimDate": "2021-03-16T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/56417924",
+          "title": "Integrated Review: Fact-checking claims about the Army, aid and nuclear weapons",
+          "reviewDate": "2021-03-25T00:00:00Z",
+          "textualRating": "Correct - Mr Johnson did make this comment at the launch of the Conservative manifesto in November 2019.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"My deal is a crucial framework, but not the New Green Deal. The New Green Deal calls for elimination of all non-renewable energy by 2030.\"",
+      "claimant": "Joe Biden",
+      "claimDate": "2020-10-15T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/election-us-2020-54512170",
+          "title": "US election 2020: Fact-checking Trump and Biden on the campaign trail",
+          "reviewDate": "2020-10-16T00:00:00Z",
+          "textualRating": "The plan (Green New Deal) does not call for the elimination of fossil fuels by 2030.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"Because of the engagement we've had with the US, they have immediately given us the boost to trade and businesses by reinstating travel from the UK to the US\"",
+      "claimant": "Dominic Raab, UK Deputy Prime Minister",
+      "claimDate": "2021-09-22T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/58653655",
+          "title": "Claims on pay, tax and the cost of living checked",
+          "reviewDate": "2021-09-22T00:00:00Z",
+          "textualRating": "It's true that President Biden did announce this change yesterday, but it wasn't just for the UK.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"The United States has among the lowest case fatality rates of any major country in the world\"",
+      "claimant": "Donald Trump",
+      "claimDate": "2020-08-28T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/world-us-canada-53922706",
+          "title": "US election 2020: Donald Trump's convention speech fact-checked",
+          "reviewDate": "2020-09-28T00:00:00Z",
+          "textualRating": "It's true the US case fatality rate is low compared to most major European countries, including the UK. This measures the ratio of deaths to confirmed cases. However, the US has the world's highest number of Covid-19 deaths.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"After a decade of Tory government... wages have fallen in every English region\"",
+      "claimant": "Keir Starmer, UK Labour Party Leader",
+      "claimDate": "2021-09-29T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/58737567",
+          "title": "Keir Starmer's Labour conference speech fact-checked",
+          "reviewDate": "2021-09-29T00:00:00Z",
+          "textualRating": "Average wages have risen steadily under the Conservatives - but they have not always kept up with rising prices.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Absolute poverty and relative poverty have both declined under this government.",
+      "claimant": "Boris Johnson",
+      "claimDate": "2020-06-17T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "Full Fact",
+            "site": "fullfact.org"
+          },
+          "url": "https://fullfact.org/economy/child-poverty-keir-starmer-boris-johnson/",
+          "title": "Boris Johnson incorrect to say Keir Starmer is “completely wrong” about past trends in child poverty - Full Fact",
+          "reviewDate": "2020-06-18T00:00:00Z",
+          "textualRating": "Government figures show that relative low income was at the same level in 2018/19 as in 2009/10 while absolute low income fell by one percentage point. Another measure of poverty, produced by the Social Metrics Commission, does show a fall under this government.",
+          "languageCode": "en"
+        },
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/53181798",
+          "title": "Child poverty: Boris Johnson's claims fact-checked",
+          "reviewDate": "2020-06-29T00:00:00Z",
+          "textualRating": "Relative poverty has increased since 2009-10 while absolute poverty has declined. But Boris Johnson has only been PM since July 2019 and we do not have figures to compare since his government began.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Prime Minister Abiy Ahmed said he would \"rather die\" than hand over power",
+      "claimant": "Various - shared on social media",
+      "claimDate": "2021-05-31T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/world-africa-57511739",
+          "title": "Ethiopia elections: The misinformation circulating online",
+          "reviewDate": "2021-06-20T00:00:00Z",
+          "textualRating": "Analysis of the clip strongly suggests it has been manipulated and the PM's office called it a fake.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"There were 44 people [health experts working for the US] on the ground [in China]...All those 44 people came home, never got replaced.\"",
+      "claimant": "Joe Biden",
+      "claimDate": "2020-10-15T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/election-us-2020-54512170",
+          "title": "US election 2020: Fact-checking Trump and Biden on the campaign trail",
+          "reviewDate": "2020-10-16T00:00:00Z",
+          "textualRating": "The number of personnel working at the CDC office in China has fallen under President Trump, but Mr Biden's figures aren't right.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Russian doctors have performed post-mortem examinations on Covid-19 patients and discovered proof that Covid \"does not exist as a virus\"",
+      "claimant": "Various - shared on Telegram",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/56680399",
+          "title": "Covid-19: Debunking the latest wave of medical misinformation",
+          "reviewDate": "2021-04-11T00:00:00Z",
+          "textualRating": "There is no evidence of this happening and claims regarding a link between coronavirus and 5G are false.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Masks could end up helping child abductors",
+      "claimant": "Various - shared on social media",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/53919867",
+          "title": "Back to school: Four virus claims that parents should ignore",
+          "reviewDate": "2020-10-03T00:00:00Z",
+          "textualRating": "These posts are scaremongering. We can't find any evidence of people trying to use the tactics in the post below to abduct children. Likewise, there's no evidence that wearing masks somehow increases the risks.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "“If the White House Gift Shop is going to produce $100 COVID-19 coins, Trump can sure as hell utilize the Defense Production Act to manufacture the gloves, gowns, and masks our medical workers desperately need”",
+      "claimant": "Bernie Sanders",
+      "claimDate": "2020-04-29T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/52487960",
+          "title": "Coronavirus: Trump is selling coronavirus coins and other claims fact-checked",
+          "reviewDate": "2020-05-02T00:00:00Z",
+          "textualRating": "Misleading - the White House Gift Shop is selling commemorative coins but it's a privately run online store with no direct connection to the White House or the Trump administration.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"We produce more offshore wind than any other country\"",
+      "claimant": "Boris Johnson, UK Prime Minister",
+      "claimDate": "2021-09-22T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/58662358",
+          "title": "Boris Johnson at the UN fact-checked",
+          "reviewDate": "2021-09-23T00:00:00Z",
+          "textualRating": "This is correct.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"A dam has prevented severe flooding in Sudan\"",
+      "claimant": "Prime Minister of Ethiopia Abiy Ahmed",
+      "claimDate": "2021-04-18T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/world-africa-57158038",
+          "title": "Ethiopian elections 2021: Fact-checking Abiy's record",
+          "reviewDate": "2021-06-08T00:00:00Z",
+          "textualRating": "An expert told us that there was flooding following the initial filling of the Grand Ethiopian Renaissance Dam (GERD) reservoir.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"97% of our electricity already comes from renewable sources\"",
+      "claimant": "Nicola Sturgeon",
+      "claimDate": "2021-03-30T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/56583531",
+          "title": "Scottish election 2021: Leaders' debate fact-checked",
+          "reviewDate": "2021-03-30T00:00:00Z",
+          "textualRating": "It is correct that in 2020, the equivalent of 97.4% of Scotland's electricity demand came from renewables. This narrowly misses a target set in 2011.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"If you give power to Joe Biden, the radical left will defund police departments all across America\"",
+      "claimant": "Donald Trump",
+      "claimDate": "2020-08-28T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/world-us-canada-53922706",
+          "title": "US election 2020: Donald Trump's convention speech fact-checked",
+          "reviewDate": "2020-09-28T00:00:00Z",
+          "textualRating": "Joe Biden has said on numerous occasions that he does not support defunding the police.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "5g technology, not Covid-19, was behind hundreds of deaths in Nigeria",
+      "claimDate": "2020-06-09T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/resources/idt-e7e3acde-9cdf-4b53-b469-ef6e87a66411#292d3b55-031e-4018-b996-d986e6c13b06",
+          "title": "Fighting Covid-19 fake news in Africa - BBC News",
+          "reviewDate": "2020-06-09T00:00:00Z",
+          "textualRating": "FALSE",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Rates of miscarriage \"as a result\" of receiving a Covid-19 vaccine have increased by 366%",
+      "claimant": "Daily Expose",
+      "claimDate": "2021-03-21T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/56680399",
+          "title": "Covid-19: Debunking the latest wave of medical misinformation",
+          "reviewDate": "2021-04-11T00:00:00Z",
+          "textualRating": "This claim is false and there is no evidence that Covid-19 vaccines can increase the risk of miscarriage.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Only those earning over £80,000 per year will see a tax increase under Labour's plans",
+      "claimant": "Jeremy Corbyn",
+      "claimDate": "2019-11-26T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/uk-politics-50567031",
+          "title": "General election 2019: Jeremy Corbyn interview fact-checked",
+          "reviewDate": "2019-11-27T00:00:00Z",
+          "textualRating": "Not the full story",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "There are no cases of teachers infected by children",
+      "claimant": "Various - shared on social media",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/53919867",
+          "title": "Back to school: Four virus claims that parents should ignore",
+          "reviewDate": "2020-10-03T00:00:00Z",
+          "textualRating": "This is false. It isn't true to say no teacher has been recorded as catching Covid from children.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "All schoolchildren will be weighed in September",
+      "claimant": "Various - shared on social media",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/53919867",
+          "title": "Back to school: Four virus claims that parents should ignore",
+          "reviewDate": "2020-10-03T00:00:00Z",
+          "textualRating": "This is misleading. There are no plans to do this.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"Two years ago, I said I wanted another 20,000 officers on the streets of our country and we've now got to almost half of the way there\"",
+      "claimant": "Boris Johnson, UK Prime Minister",
+      "claimDate": "2021-07-27T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/57987932",
+          "title": "Boris Johnson's police numbers claim fact-checked",
+          "reviewDate": "2021-07-27T00:00:00Z",
+          "textualRating": "True, but those new officers should be seen in the context of the reduction in officer numbers since the Conservatives came to power in 2010.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"Last night, our friends in the European Union voted to approve our Brexit deal, which he [Keir Starmer] opposed\"",
+      "claimant": "UK Prime Minister Boris Johnson",
+      "claimDate": "2021-04-28T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/56915918",
+          "title": "PMQs: Five Boris Johnson claims fact-checked",
+          "reviewDate": "2021-04-28T00:00:00Z",
+          "textualRating": "If the prime minister is referring to the vote in the House of Commons that followed the deal then this claim is not correct.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "Masks can give you pleurisy",
+      "claimant": "Various - shared on social media",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/54202656",
+          "title": "Coronavirus: There's no law to 'harvest' DNA from Covid-19 tests",
+          "reviewDate": "2020-09-22T00:00:00Z",
+          "textualRating": "Medical experts say there is no evidence masks can cause pleurisy - an inflammation of the tissue around the lungs, sometimes caused by an infection",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "No country in the world has a working contact-tracing app.",
+      "claimant": "Boris Johnson",
+      "claimDate": "2020-06-24T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/53168438",
+          "title": "Coronavirus: Does anyone have a working contact-tracing app?",
+          "reviewDate": "2020-06-25T00:00:00Z",
+          "textualRating": "There are certainly countries in the world that would dispute that. Germany's app is up and running and India says its app has had 131 million downloads and traced 900,000 people to tell them to isolate.",
+          "languageCode": "en"
+        }
+      ]
+    },
+    {
+      "text": "\"We will always, and very strongly, protect patients with pre-existing conditions, and that is a pledge from the entire Republican Party\"",
+      "claimant": "Donald Trump",
+      "claimDate": "2020-08-28T00:00:00Z",
+      "claimReview": [
+        {
+          "publisher": {
+            "name": "BBC",
+            "site": "bbc.co.uk"
+          },
+          "url": "https://www.bbc.co.uk/news/world-us-canada-53922706",
+          "title": "US election 2020: Donald Trump's convention speech fact-checked",
+          "reviewDate": "2020-09-28T00:00:00Z",
+          "textualRating": "This refers to a requirement that health insurance companies can't charge people more if they have pre-existing conditions. It became law under President Obama's Affordable Care Act. The Trump administration wants to repeal the law but it's not clear what it would be replaced with. President Trump has signalled that he may make insurers cover people with pre-existing conditions, but there's no detail yet.",
+          "languageCode": "en"
+        }
+      ]
+    }
+  ]
+}
