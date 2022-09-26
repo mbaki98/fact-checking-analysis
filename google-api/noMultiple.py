@@ -1,6 +1,6 @@
 import json
 from pprint import pprint
-from util.nofils_claimant_categoriser import return_category, get_politician_list
+from util.politics_claimant_categoriser import return_category, get_politician_list
 
 
 def main():

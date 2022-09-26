@@ -1,4 +1,4 @@
-from util.nofils_claimant_categoriser import return_category, get_politician_list
+from util.politics_claimant_categoriser import return_category, get_politician_list
 import json
 from collections import defaultdict, Counter
 from pprint import pprint

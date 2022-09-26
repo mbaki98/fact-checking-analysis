@@ -50,16 +50,6 @@ def return_category(claim: str):
         # return 'US politicians - '
     if [element for element in news_sites if (element in claim)]:
         return 'news sites'
-
-    # for key, value in pol_info.items():
-    #     if key in claim:
-    #         # print('key: '+key)
-    #         # print('claim: '+claim)
-    #         if "republican" in value.lower():
-    #             return 'Republicans'
-    #         else:
-    #             return 'Democrats'
-
     return claim
 
 
