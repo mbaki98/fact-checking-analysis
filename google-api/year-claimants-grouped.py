@@ -35,42 +35,71 @@ def split_by_year_v2(data, year_dict, politicians: set):
             else:
                 continue  # skip this one, move to next claimReview
 
-            year_dict[year][claimant] += 1
+            rating = review['textualRating']
+            # print('claimant: ' + claimant)
+            if year in year_dict:
+                # print('\nif year in year_dict BEFORE: ')
+                # pprint(year_dict)
+                # print(year_dict[year].values())
+                # print(year_dict[year].items())
+                # print(year_dict[year].keys())
+                if claimant in year_dict[year].keys():
+                    # print('shud get here')
+                    # print(year_dict[year][claimant].keys())
+                    if rating in year_dict[year][claimant].keys():
+                        year_dict[year][claimant][rating]['count'] += 1
+                    else:
+                        year_dict[year][claimant][rating] = {'count': 1}
+                else:
+                    year_dict[year][claimant] = {}
+                    year_dict[year][claimant][rating] = {'count': 1}
+
+                    # year_dict[year].update({'claimant': claimant, 'count': 1, "rating": rating})
+                # print('if year in year_dict AFTER: ')
+                pprint(year_dict)
+            else:
+                # print('\nif year not in year_dict BEFORE: ')
+                # pprint(year_dict)
+                year_dict[year] = {}
+                year_dict[year][claimant] = {}
+                year_dict[year][claimant][rating] = {'count': 1}
+                # year_dict[year].update({'claimant': claimant, 'count': 1, "rating": rating})
+                # print('if year not in year_dict AFTER: ')
+                # pprint(year_dict)
+
+
+            # if claimant in year_dict[year].keys():
+            #     print('so shud this but its not')
+            #     year_dict[year]['count'] += 1
+            # else:
+            #     print('this shud only print a handful of times')
+            #     year_dict[year].update({'claimant': claimant, 'count': 1, "rating": rating})
+            #     pprint(year_dict)
+
+
+            # this doesnt work for some reason
+            # if claimant in year_dict[year]:
+            #     continue
+            # else:
+            #     year_dict[year][claimant] = {}
+
+            # year_dict['year']['count'] += 1
+            # year_dict['year'][rating] = 1
 
     return year_dict
 
 
 def main():
-    counter = 0
-    year_dict = defaultdict(Counter)
-    directory = 'data'
+    year_dict = {}
     politicians = get_politician_list()
-    for filename in os.listdir(directory):
-        file = os.path.join(directory, filename)
-        # make sure its a file
-        if os.path.isfile(file):
-            print(filename)
-            f = open(file, encoding='utf-8')
-            counter += 1
-        else:
-            continue
-        data = json.load(f)
-        year_dict = split_by_year_v2(data, year_dict, politicians)
 
-    pprint(year_dict)
-    print('counter: ', counter)
+    f = open('data/usatoday.json', encoding='utf-8')
+    data = json.load(f)
 
-    # with open('claimants-grouped.json', 'w') as write_file:
-    #     json.dump(year_dict, write_file, indent=4, sort_keys=True)
-    # print('done')
-
-    # my_dict = year_dict
-    # with open('test.csv', 'w') as f:
-    #     for key in my_dict.keys():
-    #         f.write("%s,%s\n" % (key, my_dict[key]))
-
-    # politicians = get_politician_list()
-    # split_by_year(politicians)
+    year_dict = split_by_year_v2(data, year_dict, politicians)
+    with open('test.json', 'w') as f:
+        json.dump(year_dict, f)
+    print('done')
 
 
 if __name__ == "__main__":

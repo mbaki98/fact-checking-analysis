@@ -26,9 +26,9 @@ Notes: claimReview is an array of 2 objects
 
 
 def main():
-    directory = 'fleiss_pair_files'
+    directory = 'test_folder'
 
-    f = open('multiple.json', encoding='utf-8')
+    f = open('multiple_test.json', encoding='utf-8')
     data = json.load(f)
     counter = 0
     for claim in data:
@@ -40,21 +40,20 @@ def main():
             textualRatingOne = claimReview[0]['textualRating']
             textualRatingTwo = claimReview[1]['textualRating']
 
-            for filename in os.listdir(directory): # loop through files in the folder
-                file = os.path.join(directory, filename)
-                if os.path.isfile(file):
-                    if publisherOne and publisherTwo in filename:
-                        with open(file, 'a') as f:
-                            writer = csv.writer(f)
-                            writer.writerow([textualRatingOne, textualRatingTwo])
-                    else:
-                        newFilename = publisherOne+publisherTwo
-                        print(newFilename)
-                        with open(directory + '/' + newFilename, 'w') as f:
-                            writer = csv.writer(f)
-                            writer.writerow([publisherOne, publisherTwo])
-                            writer.writerow([textualRatingOne, textualRatingTwo])
+            if publisherOne == publisherTwo:
+                continue
 
+            filename = publisherOne + publisherTwo
+            file = os.path.join(directory, filename)
+            if os.path.isfile(file):
+                with open(file, 'a', encoding='UTF8', newline='') as f:
+                    writer = csv.writer(f)
+                    writer.writerow([textualRatingOne, textualRatingTwo])
+            else:
+                with open(directory + '/' + filename, 'w', encoding='UTF8', newline='') as f:
+                    writer = csv.writer(f)
+                    writer.writerow([publisherOne, publisherTwo])
+                    writer.writerow([textualRatingOne, textualRatingTwo])
 
             # print(publisherOne)
             # print(publisherTwo)
