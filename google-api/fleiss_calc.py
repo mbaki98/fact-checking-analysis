@@ -40,21 +40,66 @@ def main():
             textualRatingOne = claimReview[0]['textualRating']
             textualRatingTwo = claimReview[1]['textualRating']
 
-            for filename in os.listdir(directory): # loop through files in the folder
+            if publisherOne == publisherTwo:
+                continue
+
+            print('number of publishers: ' + str(len(claimReview)))
+            # get the number of publishers
+            nPublishers = len(claimReview)
+
+            # if 3 then go thru pairs of files
+            if nPublishers == 3:
+                publisherThree = claimReview[2]['publisher']['name']
+                textualRatingThree = claimReview[2]['textualRating']
+                comboOne = publisherOne + publisherTwo
+                comboTwo = publisherOne + publisherThree
+                comboThree = publisherTwo + publisherThree
+
+                fileOne = os.path.join(directory, comboOne)
+                fileTwo = os.path.join(directory, comboTwo)
+                fileThree = os.path.join(directory, comboThree)
+
+                if os.path.isfile(fileOne):
+                    with open(fileOne, 'a', encoding='UTF8', newline='') as f:
+                        writer = csv.writer(f)
+                        writer.writerow([textualRatingOne, textualRatingTwo])
+                else:
+                    with open(directory + '/' + comboOne, 'w', encoding='UTF8', newline='') as f:
+                        writer = csv.writer(f)
+                        writer.writerow([publisherOne, publisherTwo])
+                        writer.writerow([textualRatingOne, textualRatingTwo])
+
+                if os.path.isfile(fileTwo):
+                    with open(fileTwo, 'a', encoding='UTF8', newline='') as f:
+                        writer = csv.writer(f)
+                        writer.writerow([textualRatingOne, textualRatingThree])
+                else:
+                    with open(directory + '/' + comboTwo, 'w', encoding='UTF8', newline='') as f:
+                        writer = csv.writer(f)
+                        writer.writerow([publisherOne, publisherThree])
+                        writer.writerow([textualRatingOne, textualRatingThree])
+
+                if os.path.isfile(fileThree):
+                    with open(fileThree, 'a', encoding='UTF8', newline='') as f:
+                        writer = csv.writer(f)
+                        writer.writerow([textualRatingTwo, textualRatingThree])
+                else:
+                    with open(directory + '/' + comboThree, 'w', encoding='UTF8', newline='') as f:
+                        writer = csv.writer(f)
+                        writer.writerow([publisherTwo, publisherThree])
+                        writer.writerow([textualRatingTwo, textualRatingThree])
+            else:
+                filename = publisherOne + publisherTwo
                 file = os.path.join(directory, filename)
                 if os.path.isfile(file):
-                    if publisherOne and publisherTwo in filename:
-                        with open(file, 'a') as f:
-                            writer = csv.writer(f)
-                            writer.writerow([textualRatingOne, textualRatingTwo])
-                    else:
-                        newFilename = publisherOne+publisherTwo
-                        print(newFilename)
-                        with open(directory + '/' + newFilename, 'w') as f:
-                            writer = csv.writer(f)
-                            writer.writerow([publisherOne, publisherTwo])
-                            writer.writerow([textualRatingOne, textualRatingTwo])
-
+                    with open(file, 'a', encoding='UTF8', newline='') as f:
+                        writer = csv.writer(f)
+                        writer.writerow([textualRatingOne, textualRatingTwo])
+                else:
+                    with open(directory + '/' + filename, 'w', encoding='UTF8', newline='') as f:
+                        writer = csv.writer(f)
+                        writer.writerow([publisherOne, publisherTwo])
+                        writer.writerow([textualRatingOne, textualRatingTwo])
 
             # print(publisherOne)
             # print(publisherTwo)
@@ -63,6 +108,7 @@ def main():
         #     quit()
         # pprint(claim)
     print(counter)
+
 
 if __name__ == "__main__":
     main()

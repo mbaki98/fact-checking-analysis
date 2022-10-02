@@ -1,25 +1,2 @@
 Lead Stories,FactCheck.org
 False,False
-Mostly False,False
-Mostly False,Unsupported
-This is exaggerated.,False
-False,Cherry Picks
-False,False
-Mental health experts say no,We Explain the Research
-False,False
-False,False
-Wrong,False
-Mostly False,Misuse of IRS data
-Gov't data shows otherwise,False
-No Evidence,No Ruling
-Mostly False,Distorts The Facts
-Pants on Fire,No Evidence
-Not historic or final,False
-False,False
-False,False
-False,False
-False,False
-Mostly False,False
-False,Cherry Picks
-False,False
-Mostly False,Misuse of IRS data
