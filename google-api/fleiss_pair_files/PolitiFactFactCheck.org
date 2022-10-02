@@ -1,0 +1,48 @@
+PolitiFact,FactCheck.org
+half true,spins the facts
+false,false
+mostly false,misleading
+mostly false,spins the facts
+false,false
+mostly false,distorts the facts
+mostly false,false
+pants on fire,no evidence
+small impact for most,distorts the facts
+half true,false
+not historic or final,false
+they are not eligible,they are not eligible
+false,false
+no early timeline,false
+mostly false,false
+false,false
+false,experts disagree
+half true,not the whole story
+false,false
+pants on fire,false
+false,false
+false,false
+mostly false,false
+false,not what cbo said
+pants on fire,no evidence
+mostly false,false
+mostly false,unsupported
+false,cherry picks
+false,false
+pants on fire,false
+false,false
+false,false
+wrong,false
+mostly false,misuse of irs data
+mostly false,false
+false,false
+mostly false,distorts the facts
+pants on fire,no evidence
+not historic or final,false
+false,false
+false,false
+false,false
+false,false
+mostly false,false
+false,cherry picks
+false,false
+mostly false,misuse of irs data
