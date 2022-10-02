@@ -303,6 +303,7 @@ def standardise_ratings(final_list):
     true = ["true", "Gepetto checkmark", "accurate"]
     for i, claim in enumerate(final_list):
         for j, website_rating in enumerate(claim):
+            website_rating = website_rating.lower()
             if website_rating in (standardised.lower() for standardised in false):
                 final_list[i][j] = "false"
             if website_rating in (standardised.lower() for standardised in mostly_false):
@@ -356,14 +357,15 @@ def main():
     # claim_dict = create_fact_check_list(data)
 
     # getting final list after converting to csv
-    final_list = convert_to_csv(data, process=True)
+    # final_list = convert_to_csv(data, process=True)
 
     # getting final list by reading from interrater.csv
     final_list = read_inter_csv()
+    # print(final_list)
 
     standardised_list = standardise_ratings(final_list)
-
-    write_standardised_to_csv(standardised_list)
+    # print(standardised_list)
+    # write_standardised_to_csv(standardised_list)
 
     # # number of website combinations
     # print(claim_dict.__len__())

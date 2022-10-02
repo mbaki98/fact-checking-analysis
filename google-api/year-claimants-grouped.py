@@ -36,6 +36,7 @@ def split_by_year_v2(data, year_dict, politicians: set):
                 continue  # skip this one, move to next claimReview
 
             rating = review['textualRating']
+            rating = rating.lower()
             # print('claimant: ' + claimant)
             if year in year_dict:
                 # print('\nif year in year_dict BEFORE: ')
@@ -93,11 +94,11 @@ def main():
     year_dict = {}
     politicians = get_politician_list()
 
-    f = open('data/usatoday.json', encoding='utf-8')
+    f = open('data/politifact.json', encoding='utf-8')
     data = json.load(f)
 
     year_dict = split_by_year_v2(data, year_dict, politicians)
-    with open('test.json', 'w') as f:
+    with open('claimaints+ratings/politifact.json', 'w') as f:
         json.dump(year_dict, f)
     print('done')
 

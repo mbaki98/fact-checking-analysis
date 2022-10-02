@@ -37,8 +37,8 @@ def main():
             claimReview = claim['claimReview']
             publisherOne = claimReview[0]['publisher']['name']
             publisherTwo = claimReview[1]['publisher']['name']
-            textualRatingOne = claimReview[0]['textualRating']
-            textualRatingTwo = claimReview[1]['textualRating']
+            textualRatingOne = claimReview[0]['textualRating'].lower()
+            textualRatingTwo = claimReview[1]['textualRating'].lower()
 
             if publisherOne == publisherTwo:
                 continue
@@ -50,7 +50,7 @@ def main():
             # if 3 then go thru pairs of files
             if nPublishers == 3:
                 publisherThree = claimReview[2]['publisher']['name']
-                textualRatingThree = claimReview[2]['textualRating']
+                textualRatingThree = claimReview[2]['textualRating'].lower()
                 comboOne = publisherOne + publisherTwo
                 comboTwo = publisherOne + publisherThree
                 comboThree = publisherTwo + publisherThree
