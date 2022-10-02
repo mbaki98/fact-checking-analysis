@@ -255,7 +255,9 @@ def convert_to_csv(data: dict, process: bool):
             writer = csv.writer(csvfile)
             writer.writerow(csv_columns)
             for claim in data:
-                print(claim)
+                # do not add claim if its being fact checked only by one website
+                if claim['claimReview'][0]["publisher"] == claim['claimReview'][1]["publisher"]:
+                    continue
                 # use this bool to track if website other than 5 above is found, so that claim is ignored
                 valid_website = True
                 websites = []
@@ -294,29 +296,45 @@ def convert_to_csv(data: dict, process: bool):
 
 
 def standardise_ratings(final_list):
-    false = ["pants on fire", "no evidence", ]
-    mostly_false = ["mostly false"]
-    half_true = ["half true", "half right", "half-right", "half-true"]
-    mostly_true = ["mostly true"]
-    true = ["true"]
+    false = ["pants on fire", "Four pinocchios", "Lie of the year", "No evidence", "Very wrong", "Pants on fire", "wrong", "Not what X said"]
+    mostly_false = ["mostly false", "Three pinocchios", "Greatly oversold", "Misrepresents the record", "Out of context", "inflated", "exaggerated", "misleading", "Experts disagree", "Spins the facts", "unsupported", "Way early to say", "numbers in dispute"]
+    half_true = ["half true", "half right", "half-right", "half-true", "Hard to verify","Not the whole story","True, but cherry picked", "Cherry picked", "Distorts the facts","Half right","Somewhat true","Somewhat false","Partly true","Partly false","Not the whole story", "two pinocchios"]
+    mostly_true = ["mostly true", "One pinocchio", "Largely correct", "Largely correct"]
+    true = ["true", "Gepetto checkmark", "accurate"]
     for i, claim in enumerate(final_list):
         for j, website_rating in enumerate(claim):
-            if [element for element in false if (element in website_rating)]:
+            if website_rating in (standardised.lower() for standardised in false):
                 final_list[i][j] = "false"
-            if [element for element in mostly_false if (element in website_rating)]:
+            if website_rating in (standardised.lower() for standardised in mostly_false):
                 final_list[i][j] = "mostly false"
-            if [element for element in half_true if (element in website_rating)]:
+            if website_rating in (standardised.lower() for standardised in half_true):
                 final_list[i][j] = "half true"
-            if [element for element in mostly_true if (element in website_rating)]:
+            if website_rating in (standardised.lower() for standardised in mostly_true):
                 final_list[i][j] = "mostly true"
-            if [element for element in true if (element in website_rating)]:
+            if website_rating in (standardised.lower() for standardised in true):
                 final_list[i][j] = "true"
 
     return final_list
 
 
+def write_standardised_to_csv(standardised_list: list):
+    csv_file = "standardised_interrater.csv"
+    csv_columns = ["PolitiFact", "FactCheck.org", "The Washington Post", "The New York Times", "BBC"]
+    try:
+        with open(csv_file, 'w', newline='', encoding="utf-8") as csvfile:
+            writer = csv.writer(csvfile)
+            writer.writerow(csv_columns)
+            for claim in standardised_list:
+                writer.writerow(claim)
+
+    except IOError:
+        print("IO Error")
+
+
+
+
 def read_inter_csv():
-    with open ("unprocessed_interrater.csv", 'r') as file:
+    with open("processed_interrater.csv", 'r') as file:
         csvreader = csv.reader(file)
         final_list = []
         for i, row in enumerate(csvreader):
@@ -335,29 +353,30 @@ def main():
     f = open('multiple.json', encoding='utf-8')
     data = json.load(f)
 
-    claim_dict = create_fact_check_list(data)
+    # claim_dict = create_fact_check_list(data)
 
     # getting final list after converting to csv
-    # final_list = convert_to_csv(data, process=True)
+    final_list = convert_to_csv(data, process=True)
 
     # getting final list by reading from interrater.csv
-    final_list  = read_inter_csv()
+    final_list = read_inter_csv()
 
-    # standardise_ratings(final_list)
+    standardised_list = standardise_ratings(final_list)
 
+    write_standardised_to_csv(standardised_list)
 
-    # number of website combinations
+    # # number of website combinations
     # print(claim_dict.__len__())
-    # list of website combinations
+    # # list of website combinations
     # print(claim_dict.keys())
-    # pretty print dictionary
+    # # pretty print dictionary
     # pprint(claim_dict)
-    print("--------------")
+    # print("--------------")
     # consistency_dict = create_consistency_dict(claim_dict)
-    #
+    # #
     # count_consistency_dict(consistency_dict)
-    #
-    # percentages_dict = create_percentages_dict(consistency_dict)
+    # #
+    # # percentages_dict = create_percentages_dict(consistency_dict)
 
     """for key in percentages_dict.keys():
         print(key, percentages_dict[key])"""
