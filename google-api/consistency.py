@@ -15,7 +15,7 @@ import json
 from pprint import pprint
 import itertools
 import numpy as np
-import seaborn as sns
+# import seaborn as sns
 import matplotlib.pyplot as plt
 import string
 
@@ -296,9 +296,9 @@ def convert_to_csv(data: dict, process: bool):
 
 
 def standardise_ratings(final_list):
-    false = ["pants on fire", "Four pinocchios", "Lie of the year", "No evidence", "Very wrong", "Pants on fire", "wrong", "Not what X said"]
-    mostly_false = ["mostly false", "Three pinocchios", "Greatly oversold", "Misrepresents the record", "Out of context", "inflated", "exaggerated", "misleading", "Experts disagree", "Spins the facts", "unsupported", "Way early to say", "numbers in dispute"]
-    half_true = ["half true", "half right", "half-right", "half-true", "Hard to verify","Not the whole story","True, but cherry picked", "Cherry picked", "Distorts the facts","Half right","Somewhat true","Somewhat false","Partly true","Partly false","Not the whole story", "two pinocchios"]
+    false = ["pants on fire", "Four pinocchios", "Lie of the year", "No evidence", "Very wrong", "Pants on fire", "wrong", "Not what X said", "hasn't said why"]
+    mostly_false = ["mostly false", "Three pinocchios", "Greatly oversold", "Misrepresents the record", "Out of context", "inflated", "exaggerated", "misleading", "Experts disagree", "Spins the facts", "unsupported", "Way early to say", "numbers in dispute", "needs more context", "in dispute", "experts: not a bailout", "obama did well too", "depends on who's counting", "chant is routine"]
+    half_true = ["half true", "half right", "half-right", "half-true", "Hard to verify","Not the whole story","True, but cherry picked", "Cherry picked", "Distorts the facts","Half right","Somewhat true","Somewhat false","Partly true","Partly false","Not the whole story", "two pinocchios", "partly right, needs context", "needs context"]
     mostly_true = ["mostly true", "One pinocchio", "Largely correct", "Largely correct"]
     true = ["true", "Gepetto checkmark", "accurate"]
     for i, claim in enumerate(final_list):
@@ -320,7 +320,7 @@ def standardise_ratings(final_list):
 
 def write_standardised_to_csv(standardised_list: list):
     csv_file = "standardised_interrater.csv"
-    csv_columns = ["PolitiFact", "FactCheck.org", "The Washington Post", "The New York Times", "BBC"]
+    csv_columns = ["PolitiFact", "The Washington Post"]
     try:
         with open(csv_file, 'w', newline='', encoding="utf-8") as csvfile:
             writer = csv.writer(csvfile)
@@ -335,7 +335,7 @@ def write_standardised_to_csv(standardised_list: list):
 
 
 def read_inter_csv():
-    with open("processed_interrater.csv", 'r') as file:
+    with open("fleiss_pair_files/PolitiFactThe Washington Post", 'r') as file:
         csvreader = csv.reader(file)
         final_list = []
         for i, row in enumerate(csvreader):
@@ -361,12 +361,12 @@ def main():
 
     # getting final list by reading from interrater.csv
     final_list = read_inter_csv()
-    # print(final_list)
+    print(final_list)
 
     standardised_list = standardise_ratings(final_list)
-    # print(standardised_list)
-    # write_standardised_to_csv(standardised_list)
-
+    print(standardised_list)
+    write_standardised_to_csv(standardised_list)
+    print('done')
     # # number of website combinations
     # print(claim_dict.__len__())
     # # list of website combinations

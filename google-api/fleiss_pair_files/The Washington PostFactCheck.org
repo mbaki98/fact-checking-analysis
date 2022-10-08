@@ -1,6 +1,0 @@
-The Washington Post,FactCheck.org
-needs context,misleading
-mostly false,false. not all travel.
-false,false
-false,half- right
-false,false

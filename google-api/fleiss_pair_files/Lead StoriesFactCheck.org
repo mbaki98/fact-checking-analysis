@@ -1,2 +1,0 @@
-Lead Stories,FactCheck.org
-false,false

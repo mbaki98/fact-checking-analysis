@@ -1,4 +1,0 @@
-The New York Times,FactCheck.org
-this is misleading.,false
-this is exaggerated.,false
-this is misleading.,false
