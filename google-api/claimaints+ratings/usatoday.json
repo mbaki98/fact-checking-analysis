@@ -1,0 +1,629 @@
+{
+  "2022": {
+    "social media": {
+      "false": {
+        "count": 381
+      },
+      "satire": {
+        "count": 11
+      },
+      "partly false": {
+        "count": 30
+      },
+      "altered": {
+        "count": 58
+      },
+      "missing context": {
+        "count": 71
+      },
+      "true": {
+        "count": 5
+      }
+    },
+    "medical medium": {
+      "false": {
+        "count": 1
+      }
+    },
+    "https://archive.ph/kvec5": {
+      "missing context": {
+        "count": 1
+      }
+    },
+    "alex berenson": {
+      "false": {
+        "count": 1
+      }
+    }
+  },
+  "2021": {
+    "social media": {
+      "altered": {
+        "count": 76
+      },
+      "false": {
+        "count": 709
+      },
+      "partly false": {
+        "count": 57
+      },
+      "missing context": {
+        "count": 133
+      },
+      "true": {
+        "count": 32
+      },
+      "satire": {
+        "count": 16
+      }
+    },
+    "flat earth": {
+      "false": {
+        "count": 1
+      }
+    },
+    "news sites": {
+      "false": {
+        "count": 6
+      }
+    },
+    "washington times": {
+      "false": {
+        "count": 1
+      }
+    },
+    "gateway pundit": {
+      "false": {
+        "count": 4
+      }
+    },
+    "cari kelemen": {
+      "false": {
+        "count": 1
+      }
+    },
+    "hilary duff": {
+      "missing context": {
+        "count": 1
+      }
+    },
+    "rockit news": {
+      "false": {
+        "count": 1
+      }
+    },
+    "hal turner": {
+      "missing context": {
+        "count": 1
+      }
+    },
+    "the unbiased science podcast": {
+      "true": {
+        "count": 1
+      }
+    },
+    "america's last line of defense": {
+      "satire": {
+        "count": 1
+      }
+    },
+    "david harris jr.": {
+      "missing context": {
+        "count": 1
+      }
+    },
+    "uberfacts": {
+      "missing context": {
+        "count": 1
+      }
+    },
+    "blacklisted news": {
+      "false": {
+        "count": 1
+      }
+    },
+    "freedom fights": {
+      "partly false": {
+        "count": 1
+      }
+    },
+    "vision times": {
+      "partly false": {
+        "count": 1
+      }
+    },
+    "children's health defense": {
+      "missing context": {
+        "count": 1
+      }
+    },
+    "ethan pease, students for trump": {
+      "missing context": {
+        "count": 1
+      }
+    },
+    "adam corolla": {
+      "missing context": {
+        "count": 1
+      }
+    },
+    "the dc patriot": {
+      "false": {
+        "count": 1
+      }
+    },
+    "dan bongino": {
+      "missing context": {
+        "count": 1
+      }
+    },
+    "one america news network": {
+      "false": {
+        "count": 1
+      }
+    },
+    "eric trump": {
+      "altered": {
+        "count": 1
+      }
+    },
+    "Republicans": {
+      "missing context": {
+        "count": 1
+      },
+      "false": {
+        "count": 1
+      }
+    },
+    "jeremy herrell": {
+      "partly false": {
+        "count": 1
+      }
+    },
+    "ted nugent": {
+      "false": {
+        "count": 1
+      },
+      "partly false": {
+        "count": 1
+      }
+    },
+    "cj pearson": {
+      "false": {
+        "count": 1
+      }
+    },
+    "jack posobiec, ryan fournier": {
+      "false": {
+        "count": 1
+      }
+    },
+    "hip hop patriot": {
+      "missing context": {
+        "count": 1
+      }
+    },
+    "principia scientific international": {
+      "false": {
+        "count": 1
+      }
+    },
+    "national rifle association": {
+      "missing context": {
+        "count": 1
+      }
+    },
+    "dan o'donnell": {
+      "partly false": {
+        "count": 1
+      }
+    },
+    "phil godlewski": {
+      "false": {
+        "count": 1
+      }
+    },
+    "amuse": {
+      "false": {
+        "count": 1
+      }
+    },
+    "tanvir imtiaz": {
+      "false": {
+        "count": 1
+      }
+    },
+    "spike cohen": {
+      "satire": {
+        "count": 1
+      }
+    }
+  },
+  "2020": {
+    "candace owens": {
+      "true": {
+        "count": 1
+      }
+    },
+    "social media": {
+      "partly false": {
+        "count": 24
+      },
+      "false": {
+        "count": 110
+      },
+      "missing context": {
+        "count": 23
+      },
+      "true": {
+        "count": 9
+      },
+      "satire": {
+        "count": 3
+      },
+      "altered": {
+        "count": 3
+      }
+    },
+    "caleb": {
+      "false": {
+        "count": 1
+      }
+    },
+    "marietta mitchell": {
+      "true": {
+        "count": 1
+      }
+    },
+    "prof. michael ellenbecker": {
+      "true": {
+        "count": 1
+      }
+    },
+    "clean tv": {
+      "false": {
+        "count": 1
+      }
+    },
+    "viral meme": {
+      "partly false": {
+        "count": 1
+      }
+    },
+    "joey saladino show": {
+      "false": {
+        "count": 1
+      }
+    },
+    "red state observer": {
+      "missing context": {
+        "count": 1
+      }
+    },
+    "wendy bell": {
+      "false": {
+        "count": 1
+      }
+    },
+    "Republicans": {
+      "missing context": {
+        "count": 1
+      },
+      "false": {
+        "count": 4
+      },
+      "partly false: they do have a stockpile": {
+        "count": 1
+      }
+    },
+    "america's last line of defense": {
+      "satire": {
+        "count": 1
+      }
+    },
+    "charlie kirk": {
+      "false": {
+        "count": 2
+      }
+    },
+    "pete liske": {
+      "false": {
+        "count": 1
+      }
+    },
+    "tyler zed": {
+      "false": {
+        "count": 1
+      }
+    },
+    "daily wire": {
+      "missing context": {
+        "count": 1
+      }
+    },
+    "eric trump": {
+      "false": {
+        "count": 1
+      }
+    },
+    "ridin' with biden": {
+      "partly false": {
+        "count": 1
+      }
+    },
+    "james pittman": {
+      "false": {
+        "count": 1
+      }
+    },
+    "the patriots' page": {
+      "false": {
+        "count": 1
+      }
+    },
+    "Democrats": {
+      "true": {
+        "count": 2
+      },
+      "missing context": {
+        "count": 1
+      }
+    },
+    "just facts daily": {
+      "missing context": {
+        "count": 1
+      }
+    },
+    "shane vaughn": {
+      "missing context": {
+        "count": 1
+      }
+    },
+    "secure america now": {
+      "false": {
+        "count": 1
+      }
+    },
+    "gateway pundit": {
+      "false": {
+        "count": 2
+      }
+    },
+    "elizabeth gilbert": {
+      "partly false": {
+        "count": 1
+      }
+    },
+    "mark hamill": {
+      "satire": {
+        "count": 1
+      }
+    },
+    "news sites": {
+      "altered": {
+        "count": 1
+      },
+      "false": {
+        "count": 1
+      }
+    },
+    "the hip hop patriot": {
+      "false": {
+        "count": 1
+      }
+    },
+    "breitbart": {
+      "true": {
+        "count": 1
+      }
+    },
+    "michael coudrey": {
+      "missing context": {
+        "count": 1
+      }
+    },
+    "joy villa": {
+      "false": {
+        "count": 1
+      }
+    },
+    "mark levine": {
+      "partly false": {
+        "count": 1
+      }
+    },
+    "betches sup": {
+      "true": {
+        "count": 1
+      }
+    },
+    "adrian parker": {
+      "partly false": {
+        "count": 1
+      }
+    },
+    "centre for research on globalization": {
+      "true": {
+        "count": 1
+      }
+    },
+    "occupy democrats": {
+      "partly false": {
+        "count": 1
+      }
+    },
+    "unbelievable facts": {
+      "true": {
+        "count": 1
+      }
+    },
+    "center for american progreess": {
+      "true": {
+        "count": 1
+      }
+    },
+    "jon cartwright": {
+      "partly false": {
+        "count": 1
+      }
+    },
+    "marco trickovic": {
+      "false": {
+        "count": 1
+      }
+    },
+    "@omg_seabass": {
+      "false": {
+        "count": 1
+      }
+    },
+    "doug mastriano": {
+      "false": {
+        "count": 1
+      }
+    },
+    "jimmy savalli": {
+      "partly false": {
+        "count": 1
+      }
+    },
+    "jimmy kimmel live": {
+      "satire": {
+        "count": 1
+      }
+    },
+    "dr. david murdock": {
+      "partly true": {
+        "count": 1
+      }
+    },
+    "reformation charlotte": {
+      "false": {
+        "count": 1
+      }
+    },
+    "american institute for economic research": {
+      "true": {
+        "count": 1
+      }
+    },
+    "alice kramer": {
+      "partly false": {
+        "count": 1
+      }
+    },
+    "scott jensen": {
+      "true": {
+        "count": 1
+      }
+    },
+    "benny johnson": {
+      "true": {
+        "count": 1
+      },
+      "missing context": {
+        "count": 1
+      }
+    },
+    "sara gonzales": {
+      "missing context": {
+        "count": 1
+      }
+    },
+    "cindy k. currier": {
+      "false": {
+        "count": 1
+      }
+    },
+    "matt wolking": {
+      "missing context": {
+        "count": 1
+      }
+    },
+    "jim hoft": {
+      "false": {
+        "count": 1
+      }
+    },
+    "amiri king": {
+      "missing context": {
+        "count": 1
+      }
+    },
+    "hopelessly conservatie": {
+      "missing context": {
+        "count": 1
+      }
+    },
+    "distributed news": {
+      "false": {
+        "count": 1
+      }
+    },
+    "epoch times, gateway pundit, everylegalvote.com, elizabeth johnston": {
+      "false": {
+        "count": 1
+      }
+    },
+    "diamond and silk": {
+      "false": {
+        "count": 1
+      }
+    },
+    "healthnut news": {
+      "true": {
+        "count": 1
+      }
+    },
+    "hip hop patriot": {
+      "false": {
+        "count": 1
+      }
+    },
+    "kenidra woods": {
+      "partly false": {
+        "count": 1
+      }
+    },
+    "peggy hubbard": {
+      "false": {
+        "count": 1
+      }
+    },
+    "the federalist": {
+      "false": {
+        "count": 1
+      }
+    },
+    "the liberalist": {
+      "false": {
+        "count": 1
+      }
+    },
+    "the new american": {
+      "false": {
+        "count": 1
+      }
+    },
+    "crawfordology": {
+      "missing context": {
+        "count": 1
+      }
+    },
+    "charles j. cicchetti": {
+      "false": {
+        "count": 1
+      }
+    },
+    "project veritas": {
+      "false": {
+        "count": 1
+      }
+    },
+    "truth and action": {
+      "missing context": {
+        "count": 1
+      }
+    }
+  }
+}
