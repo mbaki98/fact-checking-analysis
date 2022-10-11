@@ -36,7 +36,7 @@ def create_fact_check_list(data):
                 website_ratings.append(website_rating)
 
         website_list.sort()
-        #print(website_list)
+        # print(website_list)
         website_tuple = tuple(website_list)
         if website_tuple not in claim_dict.keys():
             fact_check_list = [website_ratings]
@@ -56,31 +56,31 @@ def create_consistency_dict(claim_dict: dict):
             if len(claim) == 2:
                 # if they're consistent set value to 1 for this item in the list of the tuple
                 if claim[0][1] == claim[1][1]:
-                    #print("The two claims are consistent", end=" - ")
-                    #print(claim)
+                    # print("The two claims are consistent", end=" - ")
+                    # print(claim)
                     if key not in consistency_dict:
                         consistency_dict[key] = [1]
                     else:
                         consistency_dict[key].append(1)
                 # if inconsistent set value to 0
                 else:
-                    #print("The two claims are inconsistent", end=" - ")
-                    #print(claim)
+                    # print("The two claims are inconsistent", end=" - ")
+                    # print(claim)
                     if key not in consistency_dict:
                         consistency_dict[key] = [0]
                     else:
                         consistency_dict[key].append(0)
             elif len(claim) == 3:
                 if claim[0][1] == claim[1][1] == claim[2][1]:
-                    #print("The three claims are consistent", end=" - ")
-                    #print(claim)
+                    # print("The three claims are consistent", end=" - ")
+                    # print(claim)
                     if key not in consistency_dict:
                         consistency_dict[key] = [111]
                     else:
                         consistency_dict[key].append(111)
                 elif claim[0][1] == claim[1][1] != claim[2][1]:
-                    #print("The first two claims are consistent", end=" - ")
-                    #print(claim)
+                    # print("The first two claims are consistent", end=" - ")
+                    # print(claim)
                     new_key = (claim[0][1], claim[1][1])
                     if key not in consistency_dict:
                         consistency_dict[key] = [110]
@@ -88,22 +88,22 @@ def create_consistency_dict(claim_dict: dict):
                         consistency_dict[key].append(110)
 
                 elif claim[0][1] != claim[1][1] == claim[2][1]:
-                    #print("The last two claims are consistent", end=" - ")
-                    #print(claim)
+                    # print("The last two claims are consistent", end=" - ")
+                    # print(claim)
                     if key not in consistency_dict:
                         consistency_dict[key] = [11]
                     else:
                         consistency_dict[key].append(11)
                 elif claim[0][1] == claim[2][1] != claim[1][1]:
-                    #print("The first and last claims are consistent", end=" - ")
-                    #print(claim)
+                    # print("The first and last claims are consistent", end=" - ")
+                    # print(claim)
                     if key not in consistency_dict:
                         consistency_dict[key] = [101]
                     else:
                         consistency_dict[key].append(101)
                 else:
-                    #print("All three claims are inconsistent", end=" - ")
-                    #print(claim)
+                    # print("All three claims are inconsistent", end=" - ")
+                    # print(claim)
                     if key not in consistency_dict:
                         consistency_dict[key] = [0]
                     else:
@@ -183,11 +183,11 @@ def calculate_reliability(consistency_dict: dict):
             print(rater2)
             print("----")
 
-            #raters = [rater1, rater2]
-            #print(cohen_kappa_score(rater2, rater1))
+            # raters = [rater1, rater2]
+            # print(cohen_kappa_score(rater2, rater1))
 
-            labeler1 = [1,1]
-            labeler2 = [1,1]
+            labeler1 = [1, 1]
+            labeler2 = [1, 1]
             print(cohen_kappa_score(labeler1, labeler2))
             """data = np.zeros((len(raters), len(raters)))
             # Calculate cohen_kappa_score for every combination of raters
@@ -205,6 +205,7 @@ def calculate_reliability(consistency_dict: dict):
                 yticklabels=[f"Rater {k + 1}" for k in range(len(raters))],
             )
             plt.show()"""
+
 
 # !does not standardise ratings! simply processes them if they are long or contain other text
 # e.g. rating "mostly false. Trump said this in a different context" is converted to "mostly false"
@@ -296,9 +297,15 @@ def convert_to_csv(data: dict, process: bool):
 
 
 def standardise_ratings(final_list):
-    false = ["pants on fire", "Four pinocchios", "Lie of the year", "No evidence", "Very wrong", "Pants on fire", "wrong", "Not what X said"]
-    mostly_false = ["mostly false", "Three pinocchios", "Greatly oversold", "Misrepresents the record", "Out of context", "inflated", "exaggerated", "misleading", "Experts disagree", "Spins the facts", "unsupported", "Way early to say", "numbers in dispute"]
-    half_true = ["half true", "half right", "half-right", "half-true", "Hard to verify","Not the whole story","True, but cherry picked", "Cherry picked", "Distorts the facts","Half right","Somewhat true","Somewhat false","Partly true","Partly false","Not the whole story", "two pinocchios"]
+    false = ["pants on fire", "Four pinocchios", "Lie of the year", "No evidence", "Very wrong", "Pants on fire",
+             "wrong", "Not what X said"]
+    mostly_false = ["mostly false", "Three pinocchios", "Greatly oversold", "Misrepresents the record",
+                    "Out of context", "inflated", "exaggerated", "misleading", "Experts disagree", "Spins the facts",
+                    "unsupported", "Way early to say", "numbers in dispute"]
+    half_true = ["half true", "half right", "half-right", "half-true", "Hard to verify", "Not the whole story",
+                 "True, but cherry picked", "Cherry picked", "cherry picks", "Distorts the facts", "Half right",
+                 "Somewhat true",
+                 "Somewhat false", "Partly true", "Partly false", "Not the whole story", "two pinocchios"]
     mostly_true = ["mostly true", "One pinocchio", "Largely correct", "Largely correct"]
     true = ["true", "Gepetto checkmark", "accurate"]
     for i, claim in enumerate(final_list):
@@ -317,8 +324,7 @@ def standardise_ratings(final_list):
     return final_list
 
 
-def write_standardised_to_csv(standardised_list: list):
-    csv_file = "standardised_interrater.csv"
+def write_standardised_to_csv(standardised_list: list, csv_file="standardised_interrater.csv"):
     csv_columns = ["PolitiFact", "FactCheck.org", "The Washington Post", "The New York Times", "BBC"]
     try:
         with open(csv_file, 'w', newline='', encoding="utf-8") as csvfile:
@@ -331,10 +337,31 @@ def write_standardised_to_csv(standardised_list: list):
         print("IO Error")
 
 
+def split_fact_checkers_into_two(standardised_list: list):
+    csv_columns = ["PolitiFact", "FactCheck.org", "The Washington Post", "The New York Times", "BBC"]
+    checked = []
+    for i, firstChecker in enumerate(csv_columns):
+        for j, secondChecker in enumerate(csv_columns):
+            if i == j:
+                continue
+            # check checked backwards with secondChecker first since if they appear it'll be in a different order
+            if [secondChecker, firstChecker] in checked:
+                continue
+            # append websites to checked so that we don't repeat them
+            checked.append([firstChecker, secondChecker])
+            with open(f'data/consistency_csv/{firstChecker}{secondChecker} Consistency.csv', 'w', newline='',
+                      encoding='utf-8') as csvfile:
+                websites = [firstChecker, secondChecker]
+                writer = csv.writer(csvfile)
+                writer.writerow(websites)
+                for k, claim in enumerate(standardised_list):
+                    if claim[i] != "" and claim[j] != "":
+                        row = [claim[i], claim[j]]
+                        writer.writerow(row)
 
 
-def read_inter_csv():
-    with open("processed_interrater.csv", 'r') as file:
+def read_ratings_csv(file: string):
+    with open(file, 'r') as file:
         csvreader = csv.reader(file)
         final_list = []
         for i, row in enumerate(csvreader):
@@ -346,24 +373,86 @@ def read_inter_csv():
         return final_list
 
 
+# some ratings even after processing still are not fully standardised. e.g. "hasnt said why"
+def process_standardised_list(standardised_list):
+    half_true = ["chant is routine", "cherry picks", "hasnt said why", "in dispute", "small impact for most",
+                 "they are not eligible"]
+    mostly_true = ["depends on whos counting", "the majority are suicides"]
+    mostly_false = ["doj killed not murdered", "ignores coronavirus job losses", "migrants not driving surge",
+                    "misuse of irs data"]
+    false = ["experts not a bailout", "no early timeline", "not historic or final", "not what gm says",
+             "not what cbo said", "not what zelensky said"]
+
+    for i, claim in enumerate(standardised_list):
+        for j, rating in enumerate(claim):
+            if rating in half_true:
+                standardised_list[i][j] = "half true"
+            elif rating in mostly_true:
+                standardised_list[i][j] = "mostly true"
+            elif rating in mostly_false:
+                standardised_list[i][j] = "mostly false"
+            elif rating in false:
+                standardised_list[i][j] = "false"
+
+    return standardised_list
+
+
+def convert_to_numerical(processed_s_list, csv_file="numerical_ratings.csv"):
+    csv_columns = ["PolitiFact", "FactCheck.org", "The Washington Post", "The New York Times", "BBC"]
+
+    # convert ps list to numerical
+    for i, claim in enumerate(processed_s_list):
+        for j, rating in enumerate(claim):
+            if rating == "false":
+                processed_s_list[i][j] = 1
+            elif rating == "mostly false":
+                processed_s_list[i][j] = 2
+            if rating == "half true":
+                processed_s_list[i][j] = 3
+            elif rating == "mostly true":
+                processed_s_list[i][j] = 4
+            elif rating == "true":
+                processed_s_list[i][j] = 5
+
+    # write numerical to file
+    with open(csv_file, 'w', newline='', encoding="utf-8") as csvfile:
+        writer = csv.writer(csvfile)
+        writer.writerow(csv_columns)
+        for claim in processed_s_list:
+            writer.writerow(claim)
+
+
 def main():
     args = sys.argv[1:]
     # parsing json - need to add this to own class
     # parse initial file so that future data could be appended
-    f = open('multiple.json', encoding='utf-8')
-    data = json.load(f)
+    # f = open('multiple.json', encoding='utf-8')
+    # data = json.load(f)
+    #
+    # # claim_dict = create_fact_check_list(data)
+    #
+    # # getting final list after converting to csv
+    # final_list = convert_to_csv(data, process=True)
+    #
+    # # getting final list by reading from interrater.csv
+    # final_list = read_ratings_csv("processed_interrater.csv")
+    #
+    # standardised_list = standardise_ratings(final_list)
+    #
+    # write_standardised_to_csv(standardised_list)
 
-    # claim_dict = create_fact_check_list(data)
+    standardised_list = read_ratings_csv("standardised_interrater.csv")
 
-    # getting final list after converting to csv
-    final_list = convert_to_csv(data, process=True)
+    # split_fact_checkers_into_two(standardised_list)
 
-    # getting final list by reading from interrater.csv
-    final_list = read_inter_csv()
+    # do additional processing to remove some stragglers
+    # processed_s_list = process_standardised_list(standardised_list)
+    # write_standardised_to_csv(processed_s_list, csv_file="sp_interrater.csv" )
+    # split_processed_s_into_two(processed_s_list)
 
-    standardised_list = standardise_ratings(final_list)
+    processed_s_list = read_ratings_csv("sp_interrater.csv")
+    convert_to_numerical(processed_s_list)
 
-    write_standardised_to_csv(standardised_list)
 
     # # number of website combinations
     # print(claim_dict.__len__())

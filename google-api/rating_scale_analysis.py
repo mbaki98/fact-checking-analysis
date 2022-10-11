@@ -9,6 +9,7 @@ import re
 
 
 # processes ratings such that "false - not enough evidence" is converted to "false"
+# somewhat and mostly converted to mostly ALSO party converted to half true. Some degree of standardisation is being done here that I might want to avoid.
 def process_rating(rating: str):
     ratings = re.split("\W+|_", rating)
     # print(ratings)
@@ -36,7 +37,7 @@ def rating_scale():
     for filename in os.listdir(directory):
         file = os.path.join(directory, filename)
         # checking if it is a file and excluding initial file
-        if os.path.isfile(file) and filename:
+        if os.path.isfile(file):
             f = open(file, encoding='utf-8')
         else:
             continue
