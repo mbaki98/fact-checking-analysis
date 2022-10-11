@@ -337,7 +337,7 @@ def write_standardised_to_csv(standardised_list: list, csv_file="standardised_in
         print("IO Error")
 
 
-def split_fact_checkers_into_two(standardised_list: list):
+def split_fact_checkers_into_two(standardised_list: list, directory="data/consistency_csv", files_suffix="Consistency"):
     csv_columns = ["PolitiFact", "FactCheck.org", "The Washington Post", "The New York Times", "BBC"]
     checked = []
     for i, firstChecker in enumerate(csv_columns):
@@ -349,7 +349,7 @@ def split_fact_checkers_into_two(standardised_list: list):
                 continue
             # append websites to checked so that we don't repeat them
             checked.append([firstChecker, secondChecker])
-            with open(f'data/consistency_csv/{firstChecker}{secondChecker} Consistency.csv', 'w', newline='',
+            with open(f'{directory}/{firstChecker}{secondChecker} {files_suffix}.csv', 'w', newline='',
                       encoding='utf-8') as csvfile:
                 websites = [firstChecker, secondChecker]
                 writer = csv.writer(csvfile)
@@ -397,7 +397,7 @@ def process_standardised_list(standardised_list):
     return standardised_list
 
 
-def convert_to_numerical(processed_s_list, csv_file="numerical_ratings.csv"):
+def convert_to_numerical(processed_s_list):
     csv_columns = ["PolitiFact", "FactCheck.org", "The Washington Post", "The New York Times", "BBC"]
 
     # convert ps list to numerical
@@ -414,12 +414,7 @@ def convert_to_numerical(processed_s_list, csv_file="numerical_ratings.csv"):
             elif rating == "true":
                 processed_s_list[i][j] = 5
 
-    # write numerical to file
-    with open(csv_file, 'w', newline='', encoding="utf-8") as csvfile:
-        writer = csv.writer(csvfile)
-        writer.writerow(csv_columns)
-        for claim in processed_s_list:
-            writer.writerow(claim)
+    return processed_s_list
 
 
 def main():
@@ -435,23 +430,25 @@ def main():
     # final_list = convert_to_csv(data, process=True)
     #
     # # getting final list by reading from interrater.csv
-    # final_list = read_ratings_csv("processed_interrater.csv")
+    final_list = read_ratings_csv("processed_interrater.csv")
     #
-    # standardised_list = standardise_ratings(final_list)
+    standardised_list = standardise_ratings(final_list)
     #
-    # write_standardised_to_csv(standardised_list)
+    write_standardised_to_csv(standardised_list)
 
     standardised_list = read_ratings_csv("standardised_interrater.csv")
 
     # split_fact_checkers_into_two(standardised_list)
 
     # do additional processing to remove some stragglers
-    # processed_s_list = process_standardised_list(standardised_list)
-    # write_standardised_to_csv(processed_s_list, csv_file="sp_interrater.csv" )
-    # split_processed_s_into_two(processed_s_list)
+    processed_s_list = process_standardised_list(standardised_list)
+    write_standardised_to_csv(processed_s_list, csv_file="sp_interrater.csv" )
+    split_fact_checkers_into_two(processed_s_list, directory="data/consistency_csv/sp", files_suffix="Consistency SP")
 
+    # convert to numerical and write to csv
     processed_s_list = read_ratings_csv("sp_interrater.csv")
-    convert_to_numerical(processed_s_list)
+    numerical_list = convert_to_numerical(processed_s_list)
+    write_standardised_to_csv(numerical_list, csv_file="numerical_ratings.csv")
 
 
     # # number of website combinations
