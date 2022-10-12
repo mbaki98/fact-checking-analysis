@@ -7,6 +7,7 @@ as the value.
 
 """
 import csv
+import os
 import re
 import sys
 
@@ -303,7 +304,8 @@ def standardise_ratings(final_list):
                     "inflated", "misleading", "Distorts the facts", "Experts disagree", "Somewhat true", "Partly true",
                     "numbers in dispute"]
     half_true = ["two pinocchios", "Greatly oversold", "Out of context", "Hard to verify", "Not the whole story",
-                 "exaggerated", "True, but cherry picked", "Cherry picked", "half true", "half right", "half-right", "half-true", "Hard to verify", "Not the whole story",
+                 "exaggerated", "True, but cherry picked", "Cherry picked", "half true", "half right", "half-right",
+                 "half-true", "Hard to verify", "Not the whole story",
                  "Spins the facts", "Way early to say", "cherry picks", "Half right"]
     mostly_true = ["mostly true", "One pinocchio", "Largely correct", "Partly false", "Somewhat false"]
     true = ["true", "Gepetto checkmark", "accurate"]
@@ -416,6 +418,37 @@ def convert_to_numerical(processed_s_list):
     return processed_s_list
 
 
+def calculate_percentages_pairs():
+    directory = "data/consistency_csv/numerical"
+    for filename in os.listdir(directory):
+        file = os.path.join(directory, filename)
+        # checking if it is a file and excluding initial file
+        if os.path.isfile(file):
+            with open(file, 'r') as file:
+                csvreader = csv.reader(file)
+                agree_counter = 0
+                disagree_counter = 0
+                close_counter = 0
+                close_and_agree_counter = 0
+                for i, row in enumerate(csvreader):
+                    if i == 0:
+                        print(row)
+                    elif row[0] == row[1]:
+                        agree_counter += 1
+                        close_and_agree_counter += 1
+                    else:
+                        if abs(int(row[0]) - int(row[1])) <= 1:
+                            close_counter += 1
+                            close_and_agree_counter += 1
+                        disagree_counter += 1
+                total = agree_counter + disagree_counter
+                print(f'Agree: {agree_counter}, Disagree: {disagree_counter}: total: {total}')
+                print(f'Agreement: {agree_counter / total}')
+                print(f'Close Amount: {close_counter} Close Agreement: {close_counter/total}')
+                print(f'Close+Agree Amount: {close_and_agree_counter} Close+Agree Agreement: {close_and_agree_counter / total}')
+                print("---")
+
+
 def main():
     args = sys.argv[1:]
     # parsing json - need to add this to own class
@@ -429,27 +462,28 @@ def main():
     # final_list = convert_to_csv(data, process=True)
     #
     # # getting final list by reading from interrater.csv
-    final_list = read_ratings_csv("processed_interrater.csv")
+    # final_list = read_ratings_csv("processed_interrater.csv")
     #
-    standardised_list = standardise_ratings(final_list)
+    # standardised_list = standardise_ratings(final_list)
     #
-    write_standardised_to_csv(standardised_list)
+    # write_standardised_to_csv(standardised_list)
 
-    standardised_list = read_ratings_csv("standardised_interrater.csv")
+    # standardised_list = read_ratings_csv("standardised_interrater.csv")
 
     # split_fact_checkers_into_two(standardised_list)
 
     # do additional processing to remove some stragglers
-    processed_s_list = process_standardised_list(standardised_list)
-    write_standardised_to_csv(processed_s_list, csv_file="sp_interrater.csv" )
-    split_fact_checkers_into_two(processed_s_list, directory="data/consistency_csv/sp", files_suffix="Consistency SP")
+    # processed_s_list = process_standardised_list(standardised_list)
+    # write_standardised_to_csv(processed_s_list, csv_file="sp_interrater.csv" )
+    # split_fact_checkers_into_two(processed_s_list, directory="data/consistency_csv/sp", files_suffix="Consistency SP")
 
     # convert to numerical and write to csv
-    processed_s_list = read_ratings_csv("sp_interrater.csv")
-    numerical_list = convert_to_numerical(processed_s_list)
-    write_standardised_to_csv(numerical_list, csv_file="numerical_ratings.csv")
-    split_fact_checkers_into_two(numerical_list, directory="data/consistency_csv/numerical", files_suffix="Numerical")
+    # processed_s_list = read_ratings_csv("sp_interrater.csv")
+    # numerical_list = convert_to_numerical(processed_s_list)
+    # write_standardised_to_csv(numerical_list, csv_file="numerical_ratings.csv")
+    # split_fact_checkers_into_two(numerical_list, directory="data/consistency_csv/numerical", files_suffix="Numerical")
 
+    calculate_percentages_pairs()
 
     # # number of website combinations
     # print(claim_dict.__len__())
