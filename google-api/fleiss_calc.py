@@ -28,23 +28,28 @@ Notes: claimReview is an array of 2 objects
 
 def standardise_rating(rating):
     false = ["pants on fire", "four pinocchios", "lie of the year", "no evidence", "very wrong", "pants on fire",
-             "wrong", "not what X said", "hasn't said why", "this lacks evidence.", "no evidence provided",
-             "not what gm says", "no early timeline", "not what zelensky said", "false.", "false. it's down 9.6%",
-             "false per cato institute.", "this is unknown.", "mental health experts say no", "false. not all travel."]
-    mostly_false = ["mostly false", "three pinocchios", "greatly oversold", "misrepresents the record",
-                    "out of context", "inflated", "exaggerated", "misleading", "experts disagree", "spins the facts",
-                    "unsupported", "way early to say", "numbers in dispute", "needs more context", "in dispute",
-                    "experts: not a bailout", "obama did well too", "depends on who's counting", "chant is routine",
-                    "this is misleading.", "this is exaggerated.", "exagerated", "not historic or final",
-                    "they are not eligible", "gov't data shows otherwise", "we explain the research", "exaggerates",
-                    "can't for domestic group"]
-    half_true = ["half true", "half right", "half-right", "half-true", "hard to verify", "not the whole story",
-                 "true, but cherry picked", "cherry picked", "distorts the facts", "half right", "somewhat true",
-                 "somewhat false", "partly true", "partly false", "not the whole story", "two pinocchios",
-                 "partly right, needs context", "needs context", "misuse of irs data", "ignores coronavirus job losses",
+             "wrong", "not what X said", "unsupported", "hasn't said why", "this lacks evidence.",
+             "no evidence provided",
+             "not what gm says", "no early timeline", "wasn't a fixer-upper economy", "this is unknown.",
+             "gov't data shows otherwise", "not historic or final", "misuse of irs data"
+        , "obama did well too", "doj: killed, not murdered"]
+    mostly_false = ["mostly false", "three pinocchios", "misrepresents the record",
+                    "inflated", "misleading", "experts disagree",
+                    "numbers in dispute", "needs more context", "in dispute",
+                    "experts: not a bailout", "not the whole story", "chant is routine",
+                    "this is misleading.", "exagerated",
+                    "they are not eligible", "we explain the research", "exaggerates",
+                    "can't for domestic group", "distorts the facts", "pricew reflect too high supply", "somewhat true",
+                    "partly true", "not what zelensky said", "mental health experts say no", "small impact for most"]
+    half_true = ["half true", "half right", "half-right", "half-true", "hard to verify",
+                 "true, but cherry picked", "cherry picked", "half right",
+                 "way early to say", "greatly oversold", "two pinocchios", "this is exaggerated."
+                                                                           "partly right, needs context",
+                 "needs context", "ignores coronavirus job losses",
                  "migrants not driving surge", "cherry picks", "true, but cherry-picked.", "not in every state",
-                 "wasn't a fixer-upper economy", "missing context", "pricew reflect too high supply"]
-    mostly_true = ["mostly true", "one pinocchio", "largely correct", "largely correct", "small impact for most"]
+                 "missing context", "out of context", "exaggerated", "spins the facts"]
+    mostly_true = ["mostly true", "one pinocchio", "largely correct", "largely correct", "partly false",
+                   "the majority are suicides.", "somewhat false", "depends on who's counting"]
     true = ["true", "gepetto checkmark", "accurate"]
     if rating in false:
         return 'false'

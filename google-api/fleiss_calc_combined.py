@@ -30,22 +30,23 @@ Notes: claimReview is an array of 2 objects
 def standardise_rating(rating):
     false = ["pants on fire", "four pinocchios", "lie of the year", "no evidence", "very wrong", "pants on fire",
              "wrong", "not what X said", "unsupported","hasn't said why", "this lacks evidence.", "no evidence provided",
-             "not what gm says", "no early timeline", "not what zelensky said", "this is unknown.", "mental health experts say no"]
+             "not what gm says", "no early timeline", "wasn't a fixer-upper economy", "this is unknown.", "gov't data shows otherwise", "not historic or final", "misuse of irs data"
+             ,"obama did well too", "doj: killed, not murdered"]
     mostly_false = ["mostly false", "three pinocchios", "misrepresents the record",
                      "inflated", "misleading", "experts disagree",
                       "numbers in dispute", "needs more context", "in dispute",
-                    "experts: not a bailout", "obama did well too", "depends on who's counting", "chant is routine",
-                    "this is misleading.", "exagerated", "not historic or final",
-                    "they are not eligible", "gov't data shows otherwise", "we explain the research", "exaggerates",
-                    "can't for domestic group", "distorts the facts", "somewhat true", "partly true"]
-    half_true = ["half true", "half right", "half-right", "half-true", "hard to verify", "not the whole story",
+                    "experts: not a bailout", "not the whole story", "chant is routine",
+                    "this is misleading.", "exagerated",
+                    "they are not eligible", "we explain the research", "exaggerates",
+                    "can't for domestic group", "distorts the facts", "pricew reflect too high supply", "somewhat true",
+                    "partly true", "not what zelensky said", "mental health experts say no", "small impact for most"]
+    half_true = ["half true", "half right", "half-right", "half-true", "hard to verify",
                  "true, but cherry picked", "cherry picked", "half right",
                   "way early to say","greatly oversold", "two pinocchios","this is exaggerated."
-                 "partly right, needs context", "needs context", "misuse of irs data", "ignores coronavirus job losses",
+                 "partly right, needs context", "needs context", "ignores coronavirus job losses",
                  "migrants not driving surge", "cherry picks", "true, but cherry-picked.", "not in every state",
-                 "wasn't a fixer-upper economy", "missing context", "pricew reflect too high supply",
-                 "the majority are suicides.", "doj: killed, not murdered", "out of context", "exaggerated", "spins the facts", "small impact for most"]
-    mostly_true = ["mostly true", "one pinocchio", "largely correct", "largely correct","partly false", "somewhat false"]
+                  "missing context", "out of context", "exaggerated", "spins the facts"]
+    mostly_true = ["mostly true", "one pinocchio", "largely correct", "largely correct","partly false", "the majority are suicides.", "somewhat false", "depends on who's counting"]
     true = ["true", "gepetto checkmark", "accurate"]
     if rating in false:
         return 'false'
@@ -70,7 +71,7 @@ def check_file(directory, claimant):
 
 
 def main():
-    directory = 'fleiss_files_combined2'
+    directory = 'fleiss_files_combined_final'
 
     f = open('multiple.json', encoding='utf-8')
     data = json.load(f)

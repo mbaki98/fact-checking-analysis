@@ -3,6 +3,9 @@ import os
 from pprint import pprint
 from collections import defaultdict, Counter
 from util.politics_claimant_categoriser import return_category, get_politician_list
+from consistency import process_ratings
+from fleiss_calc_combined import standardise_rating
+
 
 '''
 Output of this file: claimants-grouped.csv . A file which is split by year and contains every unique claimant and thier 
@@ -36,7 +39,7 @@ def split_by_year_v2(data, year_dict, politicians: set):
                 continue  # skip this one, move to next claimReview
 
             rating = review['textualRating']
-            rating = rating.lower()
+            rating = standardise_rating(process_ratings(rating.lower()))
             # print('claimant: ' + claimant)
             if year in year_dict:
                 # print('\nif year in year_dict BEFORE: ')
@@ -94,11 +97,11 @@ def main():
     year_dict = {}
     politicians = get_politician_list()
 
-    f = open('data/politifact.json', encoding='utf-8')
+    f = open('multiple_test.json', encoding='utf-8')
     data = json.load(f)
 
     year_dict = split_by_year_v2(data, year_dict, politicians)
-    with open('claimaints+ratings/politifact.json', 'w') as f:
+    with open('multiple_claimant_ratings_grouped/test.json', 'w') as f:
         json.dump(year_dict, f)
     print('done')
 
