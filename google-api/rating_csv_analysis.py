@@ -55,7 +55,7 @@ def plot_matplot():
 def plot_seaborn():
     directory = 'frequency-csv'
     for filename in os.listdir(directory):
-        if 'csv' not in filename or 'rating_scales' in filename:
+        if ('csv' not in filename or 'rating_scales' in filename):
             continue
 
         print(filename)
@@ -68,7 +68,7 @@ def plot_seaborn():
         cp = sns.catplot(data=df, y='Frequency', x='Rating', col='Year',
                          kind='bar', errorbar=None, orient='v')
 
-        cp.fig.subplots_adjust(top=0.96)
+        cp.fig.subplots_adjust(top=0.9)
         cp.fig.suptitle(f'{title} Ratings')
 
         labels = cp.axes[-1][0].get_xticklabels()
@@ -77,7 +77,7 @@ def plot_seaborn():
 
         for ax in cp.axes.flatten():
             print(type(ax))
-            plt.setp(ax.set_xlabel("Frequency"), visible=True)
+            # plt.setp(ax.set_xlabel("Rating"), visible=True)
             plt.setp(ax.set_xticks(ticks), visible=True)
             plt.setp(ax.set_xticklabels(labels), visible=True, rotation=67.5)
             print(ax.get_xticklabels())
