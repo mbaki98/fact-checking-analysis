@@ -67,9 +67,24 @@ def rating_scale():
                     else:
                         year_list = year_dict[year]
                         year_list.append(rating)
+                elif 'claimDate' in claim.keys():
+                    review_counter = review_counter + 1
+                    year = claim['claimDate'][0:4]
+                    rating = review['textualRating']
+                    # convert rating to lowercase
+                    rating = rating.lower()
+                    rating = process_rating(rating)
+                    if year not in year_dict.keys():
+                        ratings_list = [rating]
+                        year_dict[year] = ratings_list
+                    else:
+                        year_list = year_dict[year]
+                        year_list.append(rating)
 
-        # print(counter)
-        # print(review_counter)
+
+        print(filename)
+        print(f'Counter: {counter}')
+        print(f'review counter: {review_counter}')
 
         # pprint(year_dict)
 
@@ -91,7 +106,7 @@ def rating_scale():
             ratings_to_delete = []
             other = 0
             for rating, frequency in frequencies.items():
-                if frequency < 20:
+                if frequency < 5:
                     other += frequency
                     ratings_to_delete.append(rating)
             frequencies['other'] = other
