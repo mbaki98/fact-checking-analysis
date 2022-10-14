@@ -448,6 +448,65 @@ def calculate_percentages_pairs():
                 print(f'Close+Agree Amount: {close_and_agree_counter} Close+Agree Agreement: {close_and_agree_counter / total}')
                 print("---")
 
+#I was thinking of calculating the percentage that all fact checkers agreed in total.
+# could look at the times all 3 agree, and when percentage at least 2 agree, and percentage none agree
+# then could look at pairs and see total agree vs disagree
+def calculate_percentages_general(file='numerical_ratings.csv'):
+    with open(file, 'r') as file:
+        csvreader = csv.reader(file)
+        agree_counter = 0
+        disagree_counter = 0
+        close_counter = 0
+        close_and_agree_counter = 0
+        for i, row in enumerate(csvreader):
+            if i == 0:
+                print(row)
+            rating_list = []
+            for rating in row:
+                if rating != '':
+                    rating_list.append(rating)
+            if len(rating_list) == 2:
+                if rating[0] == rating[1]:
+                    agree_counter += 1
+                    close_and_agree_counter += 1
+                else:
+                    if abs(int(row[0]) - int(row[1])) <= 1:
+                        close_counter += 1
+                        close_and_agree_counter += 1
+                    disagree_counter += 1
+        total = agree_counter + disagree_counter
+        print(f'Agree: {agree_counter}, Disagree: {disagree_counter}: total: {total}')
+        print(f'Agreement: {agree_counter / total}')
+        print(f'Close Amount: {close_counter} Close Agreement: {close_counter/total}')
+        print(f'Close+Agree Amount: {close_and_agree_counter} Close+Agree Agreement: {close_and_agree_counter / total}')
+        print("---")
+
+
+def split_general_into_individual_categories(numerical_list):
+    rating_dict = {1: "False", 2: "Mostly False", 3: "Half True", 4:"Mostly True", 5: "True"}
+    for i in range(1, 6):
+        category_list = []
+        for j, row in enumerate(numerical_list):
+            #may need to remove empty values, but I think krippendorf account for that. if i do need to remove, could create new_row list and append ratings to it, then if rating contains i append that to final list.
+            # new_row = []
+            # for rating in row:
+            #     if rating != '':
+            #         new_row.append(rating)
+            for rating in row:
+                if rating == '':
+                    continue
+                if int(rating) == i:
+                    category_list.append(row)
+                    break
+        csv_columns = ["PolitiFact", "FactCheck.org", "The Washington Post", "The New York Times", "BBC"]
+        csv_file = f'data/consistency_csv/individual_categories_general/{rating_dict[i]}.csv'
+        with open(csv_file, 'w', newline='', encoding="utf-8") as csvfile:
+            writer = csv.writer(csvfile)
+            writer.writerow(csv_columns)
+            for claim in category_list:
+                writer.writerow(claim)
+
+
 
 def main():
     args = sys.argv[1:]
@@ -483,7 +542,11 @@ def main():
     # write_standardised_to_csv(numerical_list, csv_file="numerical_ratings.csv")
     # split_fact_checkers_into_two(numerical_list, directory="data/consistency_csv/numerical", files_suffix="Numerical")
 
-    calculate_percentages_pairs()
+    # calculate_percentages_pairs()
+
+    # split general consistency ratings to simulate fleiss agreeemnt on individual categories for krippendorf
+    numerical_list = read_ratings_csv("numerical_ratings_f.csv")
+    split_general_into_individual_categories(numerical_list)
 
     # # number of website combinations
     # print(claim_dict.__len__())
